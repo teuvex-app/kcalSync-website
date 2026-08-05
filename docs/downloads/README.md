@@ -1,3 +1,3 @@
 # Downloads
 
-Download information for KcalSync
+Download information for KcalSync.
