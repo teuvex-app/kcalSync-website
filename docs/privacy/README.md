@@ -1,3 +1,3 @@
 # Privacy
 
-Privacy Policy for KcalSync
+Privacy Policy for KcalSync.
