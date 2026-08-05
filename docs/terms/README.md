@@ -1,3 +1,3 @@
 # Terms
 
-Terms of Service for KcalSync
+Terms of Service for KcalSync.
