@@ -1,3 +1,3 @@
 # Contact
 
-Contact information for KcalSync
+Contact information for KcalSync.
