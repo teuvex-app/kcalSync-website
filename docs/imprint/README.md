@@ -1,3 +1,3 @@
 # Imprint
 
-Legal notice (imprint) for KcalSync
+Legal notice (imprint) for KcalSync.
