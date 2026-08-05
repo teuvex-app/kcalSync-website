@@ -1,3 +1,3 @@
 # FAQ
 
-Frequently Asked Questions for KcalSync
+Frequently Asked Questions for KcalSync.
