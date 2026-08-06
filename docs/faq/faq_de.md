@@ -54,6 +54,11 @@ Ja. Mit dem integrierten Barcode-Scanner kannst du viele Lebensmittel schnell er
 
 Ja. Neben der KI-Erkennung und dem Barcode-Scanner kannst du Lebensmittel und Mahlzeiten jederzeit manuell hinzufügen. So behältst du auch bei selbst gekochten Gerichten oder unbekannten Produkten den Überblick.
 
+## 10. Werden regelmäßig neue Funktionen hinzugefügt?
+
+Ja. KcalSync wird kontinuierlich weiterentwickelt. Wir veröffentlichen regelmäßig Updates mit neuen Funktionen, Verbesserungen und Fehlerbehebungen. Feedback unserer Nutzer fließt direkt in die Weiterentwicklung der App ein.
+
+
 
 
 
