@@ -55,6 +55,11 @@ Yes. With the built-in barcode scanner, you can quickly add many food products. 
 
 Yes. In addition to AI meal recognition and barcode scanning, you can add foods and meals manually at any time. This is especially useful for homemade dishes or products that are not yet available in the database.
 
+## 10. Are new features added regularly?
+
+Yes. KcalSync is continuously being improved. We regularly release updates with new features, improvements, and bug fixes. User feedback plays an important role in shaping future updates.
+
+
 
 
 
