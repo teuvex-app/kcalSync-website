@@ -42,6 +42,10 @@ Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Eins
 
 Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffne im Google Play Store den Bereich **„Abonnements“**, um dein Abo jederzeit zu ändern oder zu kündigen.
 
+## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
+
+Nein. Persönliche Daten wie Kalorien, Mahlzeiten, Gewicht und Ernährungsstatistiken bleiben immer privat. Im Familienmodus werden ausschließlich gemeinsame Einkaufslisten mit den eingeladenen Familienmitgliedern geteilt.
+
 
 
 
