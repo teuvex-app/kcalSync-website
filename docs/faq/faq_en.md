@@ -51,6 +51,11 @@ No. Your personal data, such as calories, meals, weight, and nutrition statistic
 
 Yes. With the built-in barcode scanner, you can quickly add many food products. KcalSync automatically imports the available nutritional information, saving you from entering it manually.
 
+## 9. Can I add meals manually?
+
+Yes. In addition to AI meal recognition and barcode scanning, you can add foods and meals manually at any time. This is especially useful for homemade dishes or products that are not yet available in the database.
+
+
 
 
 
