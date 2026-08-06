@@ -24,5 +24,10 @@ Mit KcalSync Premium erhältst du zusätzlich:
 - Aktivitäten-Sync
 - Familienmodus und weitere Premium-Funktionen
 
+## 3. Wie funktioniert der Familienmodus?
+
+Mit einem KcalSync Premium-Abonnement kannst du bis zu vier weitere Familienmitglieder einladen. Alle Mitglieder im Haushalt erhalten ohne zusätzliche Kosten Zugriff auf die Premium-Funktionen.
+
+Außerdem könnt ihr gemeinsame Einkaufslisten in Echtzeit nutzen und gemeinsam verwalten.
 
 
