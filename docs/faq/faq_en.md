@@ -42,6 +42,11 @@ You can contact our support team anytime using the **Feedback** option in the ap
 
 Your Premium subscription is managed directly through the Google Play Store. Open the **"Subscriptions"** section in Google Play to change or cancel your subscription at any time.
 
+## 7. Are my personal data shared with other family members?
+
+No. Your personal data, such as calories, meals, weight, and nutrition statistics, always remain private. In Family Mode, only shared shopping lists are visible to invited family members.
+
+
 
 
 
