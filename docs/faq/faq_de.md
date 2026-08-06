@@ -50,6 +50,11 @@ Nein. Persönliche Daten wie Kalorien, Mahlzeiten, Gewicht und Ernährungsstatis
 
 Ja. Mit dem integrierten Barcode-Scanner kannst du viele Lebensmittel schnell erfassen. KcalSync übernimmt die verfügbaren Nährwertinformationen automatisch und spart dir das manuelle Eingeben.
 
+## 9. Kann ich meine Mahlzeiten auch manuell erfassen?
+
+Ja. Neben der KI-Erkennung und dem Barcode-Scanner kannst du Lebensmittel und Mahlzeiten jederzeit manuell hinzufügen. So behältst du auch bei selbst gekochten Gerichten oder unbekannten Produkten den Überblick.
+
+
 
 
 
