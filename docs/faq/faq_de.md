@@ -38,6 +38,11 @@ Fotografiere einfach deine Mahlzeit oder scanne den Barcode eines Lebensmittels.
 
 Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Einstellungen** der App oder per E-Mail an **teuvex@gmx.de**. Wir beantworten Anfragen in der Regel innerhalb von 24 Stunden und freuen uns über Fragen, Fehlerberichte und Verbesserungsvorschläge.
 
+## 6. Wie kann ich mein Premium-Abo verwalten oder kündigen?
+
+Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffne im Google Play Store den Bereich **„Abonnements“**, um dein Abo jederzeit zu ändern oder zu kündigen.
+
+
 
 
 
