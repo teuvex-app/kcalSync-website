@@ -1,10 +1,10 @@
 # Frequently Asked Questions (FAQ)
 
-## What makes KcalSync different from other calorie tracking apps?
+## 1. What makes KcalSync different from other calorie tracking apps?
 
 KcalSync combines calorie tracking, AI-powered food recognition from photos, barcode scanning, smart shopping lists, and a true family mode in a single app. With one Premium subscription, up to five family members can share all Premium features. Everything you need is available in one place.
 
-## Is KcalSync free to use?
+## 2. Is KcalSync free to use?
 
 Yes. KcalSync can be used for free permanently. Free features include:
 
@@ -24,5 +24,10 @@ KcalSync Premium also includes:
 - Activity sync
 - Family Mode and additional premium features
 
+## 3. How does Family Mode work?
+
+With a KcalSync Premium subscription, you can invite up to four additional family members. Everyone in your household gets access to Premium features at no extra cost.
+
+You can also share and manage shopping lists together in real time.
 
 
