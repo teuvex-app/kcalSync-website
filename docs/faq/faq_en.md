@@ -47,6 +47,12 @@ Your Premium subscription is managed directly through the Google Play Store. Ope
 No. Your personal data, such as calories, meals, weight, and nutrition statistics, always remain private. In Family Mode, only shared shopping lists are visible to invited family members.
 
 
+## 8. Can I scan food products using a barcode?
+
+Yes. With the built-in barcode scanner, you can quickly add many food products. KcalSync automatically imports the available nutritional information, saving you from entering it manually.
+
+
+
 
 
 
