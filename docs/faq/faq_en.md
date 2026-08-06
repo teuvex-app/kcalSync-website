@@ -38,6 +38,11 @@ Simply take a photo of your meal or scan a product barcode. The AI identifies fo
 
 You can contact our support team anytime using the **Feedback** option in the app's **Settings** or by email at **teuvex@gmx.de**. We usually reply within 24 hours and are happy to receive questions, bug reports, and feature suggestions.
 
+## 6. How can I manage or cancel my Premium subscription?
+
+Your Premium subscription is managed directly through the Google Play Store. Open the **"Subscriptions"** section in Google Play to change or cancel your subscription at any time.
+
+
 
 
 
