@@ -1,4 +1,22 @@
-Haftung für Inhalte
+### Impressum
+Angaben gemäß § 5 TMG
+Operator
+
+Lars Teuscher
+Dresdner Str. 153
+01705 Freital
+Deutschland
+Kontakt
+
+E-Mail: teuvex@gmx.de
+Inhaltlich Verantwortlicher gemäß § 18 Abs. 2 MStV
+
+Lars Teuscher
+Dresdner Str. 153
+01705 Freital
+Deutschland
+
+### Haftung für Inhalte
 
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 Haftung für Links
