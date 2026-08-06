@@ -34,6 +34,9 @@ You can also share and manage shopping lists together in real time.
 
 Simply take a photo of your meal or scan a product barcode. The AI identifies foods, estimates portion sizes, and automatically calculates calories and nutrients such as protein, carbohydrates, and fat.
 
+## 5. How can I contact support if I have questions or suggestions?
+
+You can contact our support team anytime using the **Feedback** option in the app's **Settings** or by email at **teuvex@gmx.de**. We usually reply within 24 hours and are happy to receive questions, bug reports, and feature suggestions.
 
 
 
