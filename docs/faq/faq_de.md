@@ -46,6 +46,11 @@ Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffn
 
 Nein. Persönliche Daten wie Kalorien, Mahlzeiten, Gewicht und Ernährungsstatistiken bleiben immer privat. Im Familienmodus werden ausschließlich gemeinsame Einkaufslisten mit den eingeladenen Familienmitgliedern geteilt.
 
+## 8. Kann ich Lebensmittel auch per Barcode scannen?
+
+Ja. Mit dem integrierten Barcode-Scanner kannst du viele Lebensmittel schnell erfassen. KcalSync übernimmt die verfügbaren Nährwertinformationen automatisch und spart dir das manuelle Eingeben.
+
+
 
 
 
