@@ -34,6 +34,11 @@ Außerdem könnt ihr gemeinsame Einkaufslisten in Echtzeit nutzen und gemeinsam 
 
 Fotografiere einfach deine Mahlzeit oder scanne den Barcode eines Lebensmittels. Die KI erkennt Lebensmittel, schätzt Portionsgrößen und berechnet automatisch Kalorien sowie Nährwerte wie Eiweiß, Kohlenhydrate und Fett.
 
+## 5. Wie erreiche ich den Support bei Fragen oder Wünschen?
+
+Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Einstellungen** der App oder per E-Mail an **teuvex@gmx.de**. Wir beantworten Anfragen in der Regel innerhalb von 24 Stunden und freuen uns über Fragen, Fehlerberichte und Verbesserungsvorschläge.
+
+
 
 
 
