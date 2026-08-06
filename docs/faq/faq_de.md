@@ -30,4 +30,11 @@ Mit einem KcalSync Premium-Abonnement kannst du bis zu vier weitere Familienmitg
 
 Außerdem könnt ihr gemeinsame Einkaufslisten in Echtzeit nutzen und gemeinsam verwalten.
 
+## 4. Wie funktioniert die KI-Mahlzeitenerkennung per Foto?
+
+Fotografiere einfach deine Mahlzeit oder scanne den Barcode eines Lebensmittels. Die KI erkennt Lebensmittel, schätzt Portionsgrößen und berechnet automatisch Kalorien sowie Nährwerte wie Eiweiß, Kohlenhydrate und Fett.
+
+
+
+
 
