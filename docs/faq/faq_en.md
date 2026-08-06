@@ -30,4 +30,11 @@ With a KcalSync Premium subscription, you can invite up to four additional famil
 
 You can also share and manage shopping lists together in real time.
 
+## 4. How does AI meal recognition work?
+
+Simply take a photo of your meal or scan a product barcode. The AI identifies foods, estimates portion sizes, and automatically calculates calories and nutrients such as protein, carbohydrates, and fat.
+
+
+
+
 
