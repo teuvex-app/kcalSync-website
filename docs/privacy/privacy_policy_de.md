@@ -350,7 +350,7 @@ Diese Daten dienen ausschließlich der technischen Administration, der Fehlerbeh
 Da Sie in dieser App Körpergewicht, Kalorien und Ernährungsdaten speichern, verarbeiten wir Gesundheitsdaten. Dies geschieht ausschließlich mit Ihrer ausdrücklichen Einwilligung, die Sie bei der ersten Nutzung der App erteilen.
 
 ### Berechtigungen (Kamera & Speicher)
-•   Kamera: Der Zugriff wird nur lokal zur Erkennung von Barcodes verwendet.
+•   Kamera: Der Zugriff wird für die Erkennung von Barcodes und für die Aufnahme von Fotos zur KI-Analyse (z. B. Teller-Scans) verwendet.
 •   Speicher: Die App speichert Daten lokal auf Ihrem Gerät (Room-Datenbank), um eine Offline-Nutzung zu ermöglichen.
 •   Sprache & Mikrofon: Für die optionale KI-Sprachsteuerung nutzt die App den systemeigenen Android-Sprachdienst. Audioaufnahmen werden von unserer App zu keinem Zeitpunkt aufgezeichnet, auf Servern gespeichert oder unbefugt verwertet; es wird ausschließlich der durch Google umgewandelte Text lokal verarbeitet und analysiert.
 
