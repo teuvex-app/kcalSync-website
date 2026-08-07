@@ -351,7 +351,7 @@ These data serve exclusively for technical administration, troubleshooting and t
 Since you store body weight, calories and nutrition data in this app, we process health data. This takes place exclusively with your express consent, which you give when using the app for the first time.
 
 ### Permissions (Camera & Storage)
-•   Camera: Access is used only locally for the recognition of barcodes.
+•   Camera: Access is used for the recognition of barcodes and for taking photos for AI analysis (e.g., plate scans).
 •   Storage: The app stores data locally on your device (Room database) to enable offline use.
 •   Language & Microphone: For the optional AI voice control, the app uses the system's own Android voice service. Audio recordings are at no time recorded by our app, stored on servers or used without authorization; only the text converted by Google is processed and analyzed locally.
 
