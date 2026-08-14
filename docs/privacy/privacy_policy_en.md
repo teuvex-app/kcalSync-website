@@ -29,7 +29,7 @@ Teuvex
 Dresdner Str. 153
 01705 Freital
 Germany
-Email address: teuvex@gmx.de
+Email address: support@teuvex.de
 
 ### Overview of Processing Activities
 The following overview summarizes the types of data processed and the purposes of their processing and refers to the data subjects.
@@ -361,7 +361,7 @@ Product offers (e.g., via Awin) are displayed in the app. When clicking on an of
 ### Google Play Store
 When downloading the app, data (email, device ID) are collected by Google. We have no influence on this and refer to the Google privacy policy.
 
-**Data Deletion:** If you would like to delete your data, please use the feedback function in the settings of the app or write an email to: teuvex@gmx.de
+**Data Deletion:** If you would like to delete your data, please use the feedback function in the settings of the app or write an email to: support@teuvex.de
 
 ---
 *Created with the free privacy policy generator from Datenschutz-Generator.de by Dr. Thomas Schwenke*
