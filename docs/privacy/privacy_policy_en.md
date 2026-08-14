@@ -363,7 +363,7 @@ Product offers (e.g., via Awin) may be displayed in the app. Clicking an offer t
 When downloading the app via the Apple App Store (Apple Inc.) or Google Play Store (Google Ireland Ltd.), platform data is processed by the store operator according to their respective privacy policies.
 
 ### Account & Data Deletion
-You can permanently delete your user account and all associated cloud data at any time directly within the app settings. Alternatively, you may request full deletion by contacting support@teuvex.de.
+If you wish to permanently delete your user account or any associated stored data (such as profile details, nutrition logs, or household data), please send an informal email request to: **support@teuvex.de**. We will process your request and delete all your data from our systems promptly and completely.
 
 ---
 *Created with the free privacy policy generator from Datenschutz-Generator.de by Dr. Thomas Schwenke*
