@@ -8,7 +8,7 @@ Dresdner Str. 153
 Deutschland
 Kontakt
 
-E-Mail: teuvex@gmx.de
+E-Mail: support@teuvex.de
 Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV (Rundfunkstaatsvertrag)
 
 Lars Teuscher
