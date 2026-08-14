@@ -349,18 +349,20 @@ Diese Daten dienen ausschließlich der technischen Administration, der Fehlerbeh
 ### Verarbeitung von Gesundheitsdaten (Art. 9 DSGVO)
 Da Sie in dieser App Körpergewicht, Kalorien und Ernährungsdaten speichern, verarbeiten wir Gesundheitsdaten. Dies geschieht ausschließlich mit Ihrer ausdrücklichen Einwilligung, die Sie bei der ersten Nutzung der App erteilen.
 
-### Berechtigungen (Kamera & Speicher)
-•   Kamera: Der Zugriff wird für die Erkennung von Barcodes und für die Aufnahme von Fotos zur KI-Analyse (z. B. Teller-Scans) verwendet.
-•   Speicher: Die App speichert Daten lokal auf Ihrem Gerät (Room-Datenbank), um eine Offline-Nutzung zu ermöglichen.
-•   Sprache & Mikrofon: Für die optionale KI-Sprachsteuerung nutzt die App den systemeigenen Android-Sprachdienst. Audioaufnahmen werden von unserer App zu keinem Zeitpunkt aufgezeichnet, auf Servern gespeichert oder unbefugt verwertet; es wird ausschließlich der durch Google umgewandelte Text lokal verarbeitet und analysiert.
+### Berechtigungen & Schnittstellen (iOS & Android)
+•   **Kamera:** Der Zugriff wird ausschließlich für das Scannen von Lebensmittel-Barcodes und für optionale Fotos zur KI-Analyse (z. B. Teller-Scans) genutzt.
+•   **Speicher:** Die App speichert Daten lokal auf Ihrem Gerät, um eine schnelle Offline-Nutzung zu ermöglichen.
+•   **Sprache & Mikrofon:** Für die optionale KI-Sprachsteuerung nutzt die App den systemeigenen Sprachdienst (unter Android die Google-Sprachdienste, unter iOS das native Apple Speech Framework). Audioaufnahmen werden zu keinem Zeitpunkt dauerhaft auf Servern gespeichert.
+•   **Apple Health / HealthKit (iOS):** Sofern Sie die optionale Synchronisation mit Apple Health aktivieren, verarbeitet KcalSync ausschließlich die von Ihnen freigegebenen Ernährungs- und Fitnessdaten. Diese Daten werden unter keinen Umständen für Werbung, Marketing oder Data-Mining an Dritte weitergegeben.
 
 ### Affiliate-Angebote (Awin)
 In der App werden Produktangebote (z. B. über Awin) angezeigt. Beim Klick auf ein Angebot wird eine Tracking-ID übermittelt, um den Klick unserer App zuzuordnen. Dies dient der Finanzierung unseres kostenlosen Angebots (Art. 6 Abs. 1 lit. f DSGVO).
 
-### Google Play Store
-Beim Download der App werden Daten (E-Mail, Geräte-ID) von Google erhoben. Wir haben darauf keinen Einfluss und verweisen auf die Google-Datenschutzerklärung.
+### App-Vertrieb (Apple App Store & Google Play Store)
+Beim Download der App über den Apple App Store (Apple Inc., Cupertino, USA) oder den Google Play Store (Google Ireland Limited) werden Daten durch den jeweiligen Store-Betreiber verarbeitet. Wir haben darauf keinen Einfluss und verweisen auf die Datenschutzbestimmungen von Apple bzw. Google.
 
-**Datenlöschung:** Wenn Sie Ihre Daten löschen möchten, nutzen Sie bitte die Feedback Funktion in den Einstellungen der App oder schreiben Sie eine E-Mail an: support@teuvex.de
+### Konto- und Datenlöschung
+Sie können Ihr Benutzerkonto sowie alle gespeicherten Daten jederzeit direkt in den App-Einstellungen unwiderruflich löschen. Alternativ können Sie die vollständige Löschung formlos per E-Mail an support@teuvex.de anfordern.
 
 ---
 *Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke*
