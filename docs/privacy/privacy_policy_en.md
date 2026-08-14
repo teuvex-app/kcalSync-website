@@ -350,18 +350,20 @@ These data serve exclusively for technical administration, troubleshooting and t
 ### Processing of Health Data (Art. 9 GDPR)
 Since you store body weight, calories and nutrition data in this app, we process health data. This takes place exclusively with your express consent, which you give when using the app for the first time.
 
-### Permissions (Camera & Storage)
-•   Camera: Access is used for the recognition of barcodes and for taking photos for AI analysis (e.g., plate scans).
-•   Storage: The app stores data locally on your device (Room database) to enable offline use.
-•   Language & Microphone: For the optional AI voice control, the app uses the system's own Android voice service. Audio recordings are at no time recorded by our app, stored on servers or used without authorization; only the text converted by Google is processed and analyzed locally.
+### Permissions & Native Frameworks (iOS & Android)
+•   **Camera:** Access is used exclusively for scanning food barcodes and optional photos for AI meal analysis.
+•   **Storage:** The app stores data locally on your device to ensure fast offline usability.
+•   **Microphone & Speech:** For optional AI voice control, the app uses native operating system services (Google Speech on Android, Apple Speech Framework on iOS). Audio recordings are never permanently stored on external servers.
+•   **Apple Health / HealthKit (iOS):** If you enable synchronization with Apple Health, KcalSync only accesses data you explicitly grant. HealthKit data is never shared with third parties for advertising, marketing, or data mining purposes.
 
 ### Affiliate Offers (Awin)
-Product offers (e.g., via Awin) are displayed in the app. When clicking on an offer, a tracking ID is transmitted to assign the click to our app. This serves to finance our free offer (Art. 6 (1) (f) GDPR).
+Product offers (e.g., via Awin) may be displayed in the app. Clicking an offer transmits a tracking ID to attribute the referral (Art. 6 (1) (f) GDPR).
 
-### Google Play Store
-When downloading the app, data (email, device ID) are collected by Google. We have no influence on this and refer to the Google privacy policy.
+### App Distribution (Apple App Store & Google Play Store)
+When downloading the app via the Apple App Store (Apple Inc.) or Google Play Store (Google Ireland Ltd.), platform data is processed by the store operator according to their respective privacy policies.
 
-**Data Deletion:** If you would like to delete your data, please use the feedback function in the settings of the app or write an email to: support@teuvex.de
+### Account & Data Deletion
+You can permanently delete your user account and all associated cloud data at any time directly within the app settings. Alternatively, you may request full deletion by contacting support@teuvex.de.
 
 ---
 *Created with the free privacy policy generator from Datenschutz-Generator.de by Dr. Thomas Schwenke*
