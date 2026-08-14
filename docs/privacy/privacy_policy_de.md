@@ -360,7 +360,7 @@ In der App werden Produktangebote (z. B. über Awin) angezeigt. Beim Klick auf e
 ### Google Play Store
 Beim Download der App werden Daten (E-Mail, Geräte-ID) von Google erhoben. Wir haben darauf keinen Einfluss und verweisen auf die Google-Datenschutzerklärung.
 
-**Datenlöschung:** Wenn Sie Ihre Daten löschen möchten, nutzen Sie bitte die Feedback Funktion in den Einstellungen der App oder schreiben Sie eine E-Mail an: teuvex@gmx.de
+**Datenlöschung:** Wenn Sie Ihre Daten löschen möchten, nutzen Sie bitte die Feedback Funktion in den Einstellungen der App oder schreiben Sie eine E-Mail an: support@teuvex.de
 
 ---
 *Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke*
