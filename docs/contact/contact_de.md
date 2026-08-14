@@ -5,7 +5,7 @@
 Bei Fragen, Feedback, Fehlermeldungen oder Funktionswünschen kontaktieren Sie uns bitte.
 
 **E-Mail:**
-teuvex@gmx.de
+support@teuvex.de
 
 **Antwortzeit:**
 In der Regel innerhalb von 24 Stunden.
