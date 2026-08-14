@@ -362,7 +362,7 @@ In der App werden Produktangebote (z. B. über Awin) angezeigt. Beim Klick auf e
 Beim Download der App über den Apple App Store (Apple Inc., Cupertino, USA) oder den Google Play Store (Google Ireland Limited) werden Daten durch den jeweiligen Store-Betreiber verarbeitet. Wir haben darauf keinen Einfluss und verweisen auf die Datenschutzbestimmungen von Apple bzw. Google.
 
 ### Konto- und Datenlöschung
-Sie können Ihr Benutzerkonto sowie alle gespeicherten Daten jederzeit direkt in den App-Einstellungen unwiderruflich löschen. Alternativ können Sie die vollständige Löschung formlos per E-Mail an support@teuvex.de anfordern.
+Wenn Sie Ihr Benutzerkonto oder die zu Ihrer Person gespeicherten Daten (z. B. Profilangaben, Ernährungstagebuch oder Haushaltsdaten) vollständig und unwiderruflich löschen lassen möchten, senden Sie bitte eine kurze, formlose E-Mail an: **support@teuvex.de**. Wir werden Ihre Daten anschließend unverzüglich und vollständig aus unseren Systemen entfernen.
 
 ---
 *Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke*
