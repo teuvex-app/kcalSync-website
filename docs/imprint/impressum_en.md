@@ -8,7 +8,7 @@ Dresdner Str. 153
 Germany
 Contact
 
-Email: teuvex@gmx.de
+Email: support@teuvex.de
 Responsible for content according to § 18 Abs. 2 MStV (German Interstate Broadcasting Treaty)
 
 Lars Teuscher
