@@ -28,7 +28,7 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 Teuvex
 Dresdner Str. 153
 01705 Freital
-E-Mail-Adresse: teuvex@gmx.de
+E-Mail-Adresse: support@teuvex.de
 
 ### Übersicht der Verarbeitungen
 Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
