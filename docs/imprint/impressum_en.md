@@ -1,19 +1,23 @@
 ### Legal Notice
-Information according to § 5 DDG (German Digital Services Act)
-Operator
 
-Lars Teuscher
-Dresdner Str. 153
-01705 Freital
+Information according to § 5 DDG (German Digital Services Act)
+
+**Operator**
+
+Lars Teuscher  
+Dresdner Str. 153  
+01705 Freital  
 Germany
-Contact
+
+**Contact**
 
 Email: support@teuvex.de
-Responsible for content according to § 18 Abs. 2 MStV (German Interstate Broadcasting Treaty)
 
-Lars Teuscher
-Dresdner Str. 153
-01705 Freital
+**Responsible for content according to § 18 (2) MStV (German Interstate Media Treaty)**
+
+Lars Teuscher  
+Dresdner Str. 153  
+01705 Freital  
 Germany
 
 ### Liability for Content
@@ -31,5 +35,3 @@ The content and works created by the site operators on these pages are subject t
 ### Consumer Dispute Resolution
 
 We are neither willing nor obligated to participate in dispute resolution proceedings before a consumer arbitration board.
-
-

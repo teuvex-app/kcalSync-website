@@ -1,19 +1,23 @@
 ### Rechtliche Hinweise
-Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz)
-Betreiber
 
-Lars Teuscher
-Dresdner Str. 153
-01705 Freital
+Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz)
+
+**Betreiber**
+
+Lars Teuscher  
+Dresdner Str. 153  
+01705 Freital  
 Deutschland
-Kontakt
+
+**Kontakt**
 
 E-Mail: support@teuvex.de
-Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV (Rundfunkstaatsvertrag)
 
-Lars Teuscher
-Dresdner Str. 153
-01705 Freital
+**Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV (Medienstaatsvertrag)**
+
+Lars Teuscher  
+Dresdner Str. 153  
+01705 Freital  
 Deutschland
 
 ### Haftung für Inhalte
@@ -31,4 +35,3 @@ Die von den Seitenbetreibern auf diesen Seiten erstellten Inhalte und Werke unte
 ### Streitbeilegung für Verbraucher
 
 Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
-
