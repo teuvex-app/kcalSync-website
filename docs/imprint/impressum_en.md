@@ -1,5 +1,5 @@
 ### Legal Notice
-Information according to § 5 TMG (German Telemedia Act)
+Information according to § 5 DDG (German Digital Services Act)
 Operator
 
 Lars Teuscher
@@ -18,7 +18,7 @@ Germany
 
 ### Liability for Content
 
-As a service provider, we are responsible for our own content on these pages in accordance with general law pursuant to § 7 Abs. 1 DDG (German Data Protection Act). However, according to §§ 8 to 10 DDG, we are not obligated as a service provider to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.
+As a service provider, we are responsible for our own content on these pages in accordance with general law pursuant to § 7 (1) DDG (German Digital Services Act). However, according to §§ 8 to 10 DDG, we are not obligated as a service provider to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.
 
 ### Liability for Links
 

@@ -1,7 +1,7 @@
 # Privacy Policy for the mobile app "KcalSync"
 
 ### Preamble
-With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: May 19, 2026
+With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: September 13, 2026
 
 ### Table of Contents
 •   Preamble
@@ -175,7 +175,8 @@ We process the data of users to be able to provide them with our online services
 •   Legal bases: Legitimate interests (Art. 6 (1) (f) GDPR).
 
 Further information on processing operations, procedures and services:
-•   Provision of online offer on rented storage space: For the provision of our online offer, we use storage space, computing capacity and software that we rent or otherwise obtain from a corresponding server provider (also called "web hoster"); legal bases: Legitimate interests (Art. 6 (1) (f) GDPR).
+•   Firebase Hosting (Google): This website is provided via Firebase Hosting, a hosting and content delivery service by Google. The website is delivered through a globally distributed content delivery network. In this process the IP address of users is processed, as it is technically required to transmit the content to their browser. Our database (Google Cloud Firestore), which stores messages submitted via the contact form as well as app data, is operated in the region europe-west3 (Frankfurt am Main, Germany). This data is therefore stored within the European Union. A data processing agreement pursuant to Art. 28 GDPR (Google Cloud Data Processing Addendum) is in place with Google; service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; legal bases: Legitimate interests (Art. 6 (1) (f) GDPR); website: https://firebase.google.com; privacy policy: https://policies.google.com/privacy; basis for third-country transfers: Data Privacy Framework (DPF), Standard Contractual Clauses.
+•   Retrieval of legal texts via GitHub: The content of our legal texts (imprint, privacy policy, terms of use, contact) is maintained in a public repository on GitHub. When you open the corresponding pages, your browser loads the current version directly from GitHub; your IP address is transmitted to GitHub, as it is technically required for delivery. If the content cannot be loaded, we display the version bundled with the website, so that the legal texts remain available at all times; service provider: GitHub B.V., Vijzelstraat 68-72, 1017 HL Amsterdam, Netherlands; parent company: GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA; legal bases: Legitimate interests (Art. 6 (1) (f) GDPR); privacy policy: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement; basis for third-country transfers: Data Privacy Framework (DPF), Standard Contractual Clauses.
 •   Collection of access data and log files: Access to our online offer is logged in the form of so-called "server log files". The server log files may include the address and name of the accessed websites and files, date and time of access, amount of data transferred, notification of successful access, browser type and version, the user's operating system, referrer URL (the previously visited page) and usually IP addresses and the requesting provider. The server log files can be used on the one hand for security purposes, e.g., to avoid overloading the servers (especially in the case of abusive attacks, so-called DDoS attacks), and on the other hand to ensure the utilization of the servers and their stability; legal bases: Legitimate interests (Art. 6 (1) (f) GDPR). Deletion of data: Log file information is stored for a maximum of 30 days and then deleted or anonymized. Data whose further storage is required for evidence purposes are excluded from deletion until the final clarification of the respective incident.
 
 ### Registration, Login and User Account
@@ -355,9 +356,6 @@ Since you store body weight, calories and nutrition data in this app, we process
 •   **Storage:** The app stores data locally on your device to ensure fast offline usability.
 •   **Microphone & Speech:** For optional AI voice control, the app uses native operating system services (Google Speech on Android, Apple Speech Framework on iOS). Audio recordings are never permanently stored on external servers.
 •   **Apple Health / HealthKit (iOS):** If you enable synchronization with Apple Health, KcalSync only accesses data you explicitly grant. HealthKit data is never shared with third parties for advertising, marketing, or data mining purposes.
-
-### Affiliate Offers (Awin)
-Product offers (e.g., via Awin) may be displayed in the app. Clicking an offer transmits a tracking ID to attribute the referral (Art. 6 (1) (f) GDPR).
 
 ### App Distribution (Apple App Store & Google Play Store)
 When downloading the app via the Apple App Store (Apple Inc.) or Google Play Store (Google Ireland Ltd.), platform data is processed by the store operator according to their respective privacy policies.

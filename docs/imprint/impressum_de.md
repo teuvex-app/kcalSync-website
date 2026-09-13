@@ -1,5 +1,5 @@
 ### Rechtliche Hinweise
-Angaben gemäß § 5 TMG (Telemediengesetz)
+Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz)
 Betreiber
 
 Lars Teuscher
