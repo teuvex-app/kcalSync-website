@@ -275,7 +275,7 @@ Zahlungsdaten umfassen sämtliche Informationen, die zur Abwicklung von Zahlungs
 **Nutzung von Google-Diensten (Firebase & Gemini)**
 Unsere App nutzt für die Anmeldung (Google Sign-In sowie E-Mail/Passwort-Authentifizierung) und Datenspeicherung Google Firebase (Firestore und Cloud Storage). Dabei werden technische Daten und Ihre E-Mail-Adresse auf Google-Servern verarbeitet. Wenn Sie Produkte oder Rezepte mit der Community teilen, werden hochgeladene Bilder im Firebase Cloud Storage gespeichert und für andere Nutzer abrufbar gemacht. Zusätzlich werden Ihre Profildaten (wie Alter, Gewicht, Größe und Geschlecht) verschlüsselt in Google Firebase gespeichert. Dies dient ausschließlich der automatisierten Berechnung Ihres täglichen Kalorienbedarfs sowie der Synchronisierung Ihrer Daten zwischen Ihren Geräten innerhalb eines Haushalts.
 
-Für die Analyse von Lebensmitteldaten nutzen wir Google Gemini AI. Ihre Texteingaben (inklusive der gesprochenen Befehle unseres KI-Sprachassistenten ab Version 2.0.1) sowie zur Analyse aufgenommene Bilder (z. B. Teller-Scans) werden hierzu an Google übertragen. Die Verarbeitung erfolgt zur Erfüllung unserer App-Funktionen sowie auf Grundlage unserer berechtigten Interessen an einer modernen, KI-gestützten Analyse und Community-Funktionen (Art. 6 Abs. 1 lit. f DSGVO).
+Für die Analyse von Lebensmitteldaten nutzen wir Google Gemini AI. Ihre Texteingaben (inklusive der gesprochenen Befehle unseres KI-Sprachassistenten ab Version 2.0.1) sowie zur Analyse aufgenommene Bilder (z. B. Teller-Scans) werden hierzu an Google übertragen. Soweit diese Eingaben Rückschlüsse auf Ihre Ernährung oder Ihren Gesundheitszustand zulassen, handelt es sich um Gesundheitsdaten; die Übermittlung erfolgt dann ausschließlich auf Grundlage Ihrer ausdrücklichen Einwilligung nach Art. 9 Abs. 2 lit. a DSGVO (siehe Abschnitt "Verarbeitung von Gesundheitsdaten"). Im Übrigen stützen wir die Verarbeitung auf die Erfüllung unserer vertraglichen Pflichten (Art. 6 Abs. 1 lit. b DSGVO). Wir setzen Gemini so ein, dass Ihre Eingaben von Google nicht zum Training allgemeiner Modelle verwendet werden.
 
 **Erhebung von Geräte- und Nutzungsdaten**
 Um die Stabilität der App zu gewährleisten, technische Fehler (Crash-Reports) zu analysieren und einen Missbrauch der kostenlosen Testphasen zu verhindern, erhebt und speichert die App folgende Daten in unserer Cloud-Datenbank (Google Firebase):
@@ -284,7 +284,15 @@ Um die Stabilität der App zu gewährleisten, technische Fehler (Crash-Reports) 
 Diese Daten dienen ausschließlich der technischen Administration, der Fehlerbehebung sowie der Verwaltung inaktiver Benutzerkonten gemäß den gesetzlichen Löschfristen (Art. 6 Abs. 1 lit. f DSGVO).
 
 ### Verarbeitung von Gesundheitsdaten (Art. 9 DSGVO)
-Da Sie in dieser App Körpergewicht, Kalorien und Ernährungsdaten speichern, verarbeiten wir Gesundheitsdaten. Dies geschieht ausschließlich mit Ihrer ausdrücklichen Einwilligung, die Sie bei der ersten Nutzung der App erteilen.
+Da Sie in dieser App Körpergewicht, Körpergröße, Alter, Geschlecht, Kalorien und Ernährungsdaten speichern, verarbeiten wir Gesundheitsdaten im Sinne des Art. 9 Abs. 1 DSGVO. Für diese Datenkategorie reicht ein berechtigtes Interesse als Rechtsgrundlage nicht aus.
+
+Wir verarbeiten diese Daten deshalb ausschließlich auf Grundlage Ihrer ausdrücklichen Einwilligung nach Art. 9 Abs. 2 lit. a DSGVO. Die Einwilligung holen wir mit einem eigenen Bestätigungsfeld ein, das getrennt von der Zustimmung zu den Nutzungsbedingungen steht und benennt, um welche Daten es geht und wozu sie verwendet werden. Ohne diese Bestätigung ist eine Nutzung der App nicht möglich, weil die Erfassung von Ernährungs- und Körperdaten ihr eigentlicher Zweck ist.
+
+Das gilt auch für die Nutzung der KI-Funktionen: Werden Ihre Ernährungsangaben oder aufgenommene Bilder zur Auswertung an Google Gemini übertragen, stützt sich diese Übermittlung ebenfalls auf Ihre ausdrückliche Einwilligung nach Art. 9 Abs. 2 lit. a DSGVO.
+
+Wir halten Zeitpunkt und Fassung der Einwilligung fest, um unserer Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO nachkommen zu können. Ändern wir den Einwilligungstext inhaltlich, fragen wir erneut.
+
+**Widerruf:** Sie können Ihre Einwilligung jederzeit widerrufen, in der App unter **Einstellungen → Einwilligung Gesundheitsdaten**. Der Widerruf ist so einfach wie die Erteilung und wirkt für die Zukunft; die bis dahin erfolgte Verarbeitung bleibt rechtmäßig. Da wir ohne Einwilligung keine Gesundheitsdaten mehr verarbeiten dürfen und die App ohne diese Verarbeitung keinen Zweck hat, führt der Widerruf zugleich zur Löschung Ihres Kontos und der gespeicherten Daten. Darauf weisen wir Sie vor dem Widerruf hin.
 
 ### Mindestalter
 Die App richtet sich ausschließlich an Personen ab 18 Jahren und ist im Google Play Store entsprechend ausgewiesen. Wir verarbeiten wissentlich keine Daten von Kindern und Jugendlichen. Sollten wir Kenntnis davon erhalten, dass Daten einer minderjährigen Person ohne die erforderliche Einwilligung verarbeitet werden, löschen wir diese unverzüglich. Erziehungsberechtigte können sich hierzu jederzeit an support@teuvex.de wenden.

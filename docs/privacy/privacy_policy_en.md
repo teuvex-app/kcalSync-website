@@ -275,7 +275,7 @@ Payment data include all information required for the settlement of payment tran
 **Use of Google Services (Firebase & Gemini)**
 Our app uses Google Firebase (Firestore and Cloud Storage) for login (Google Sign-In as well as email/password authentication) and data storage. In this process, technical data and your email address are processed on Google servers. If you share products or recipes with the community, uploaded images are stored in Firebase Cloud Storage and made available to other users. Additionally, your profile data (such as age, weight, height and gender) are stored in encrypted form in Google Firebase. This serves exclusively for the automated calculation of your daily calorie requirement as well as the synchronization of your data between your devices within a household.
 
-For the analysis of food data, we use Google Gemini AI. Your text inputs (including the spoken commands of our AI voice assistant from version 2.0.1) as well as images taken for analysis (e.g., plate scans) are transmitted to Google for this purpose. The processing takes place to fulfill our app functions as well as on the basis of our legitimate interests in modern, AI-supported analysis and community functions (Art. 6 (1) (f) GDPR).
+For the analysis of food data, we use Google Gemini AI. Your text inputs (including the spoken commands of our AI voice assistant from version 2.0.1) as well as images taken for analysis (e.g., plate scans) are transmitted to Google for this purpose. Where these inputs allow conclusions to be drawn about your diet or your state of health, they constitute health data; the transfer then relies exclusively on your explicit consent under Art. 9 (2) (a) GDPR (see the section "Processing of Health Data"). Otherwise we base the processing on the performance of our contractual obligations (Art. 6 (1) (b) GDPR). We use Gemini in such a way that your inputs are not used by Google to train general-purpose models.
 
 **Collection of Device and Usage Data**
 In order to ensure the stability of the app, analyze technical errors (crash reports) and prevent abuse of the free trial phases, the app collects and stores the following data in our cloud database (Google Firebase):
@@ -287,7 +287,15 @@ These data serve exclusively for technical administration, troubleshooting and t
 The app is intended exclusively for persons aged 18 and over and is listed accordingly in the Google Play Store. We do not knowingly process data of children or adolescents. Should we become aware that data of a minor is being processed without the required consent, we will delete it without delay. Parents and guardians can contact us at support@teuvex.de regarding this.
 
 ### Processing of Health Data (Art. 9 GDPR)
-Since you store body weight, calories and nutrition data in this app, we process health data. This takes place exclusively with your express consent, which you give when using the app for the first time.
+Since you store body weight, height, age, sex, calories and nutrition data in this app, we process health data within the meaning of Art. 9 (1) GDPR. For this category of data, a legitimate interest is not a sufficient legal basis.
+
+We therefore process this data exclusively on the basis of your explicit consent under Art. 9 (2) (a) GDPR. We obtain that consent through a dedicated confirmation box, kept separate from your acceptance of the terms of use, which states which data is involved and what it is used for. The app cannot be used without this confirmation, because recording nutrition and body data is its very purpose.
+
+The same applies to the AI features: where your nutrition entries or photos you take are transmitted to Google Gemini for analysis, that transfer likewise relies on your explicit consent under Art. 9 (2) (a) GDPR.
+
+We record the time and the version of the consent in order to meet our accountability obligation under Art. 5 (2) GDPR. If we change the substance of the consent text, we ask again.
+
+**Withdrawal:** You can withdraw your consent at any time, in the app under **Settings → Health data consent**. Withdrawing is as easy as giving consent and takes effect for the future; processing carried out beforehand remains lawful. Since we may no longer process health data without your consent, and the app serves no purpose without that processing, withdrawal also results in the deletion of your account and your stored data. We point this out to you before you withdraw.
 
 ### Permissions & Native Frameworks (iOS & Android)
 •   **Camera:** Access is used exclusively for scanning food barcodes and optional photos for AI meal analysis.
