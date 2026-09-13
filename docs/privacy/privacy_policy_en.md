@@ -23,8 +23,7 @@ With the following privacy policy, we would like to inform you about the types o
 •   Definitions of Terms
 
 ### Controller
-Lars Teuscher
-Teuvex
+Lars Teuscher (Teuvex)
 Dresdner Str. 153
 01705 Freital
 Germany

@@ -4,7 +4,7 @@ Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz)
 
 **Betreiber**
 
-Lars Teuscher  
+Lars Teuscher (Teuvex)  
 Dresdner Str. 153  
 01705 Freital  
 Deutschland

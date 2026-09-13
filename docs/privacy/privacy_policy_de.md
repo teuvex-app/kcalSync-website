@@ -23,8 +23,7 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 •   Begriffsdefinitionen
 
 ### Verantwortlicher
-Lars Teuscher
-Teuvex
+Lars Teuscher (Teuvex)
 Dresdner Str. 153
 01705 Freital
 Deutschland

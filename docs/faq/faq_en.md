@@ -36,7 +36,7 @@ Simply take a photo of your meal or scan a product barcode. The AI identifies fo
 
 ## 5. How can I contact support if I have questions or suggestions?
 
-You can contact our support team anytime using the **Feedback** option in the app's **Settings** or by email at **teuvex@gmx.de**. We usually reply within 24 hours and are happy to receive questions, bug reports, and feature suggestions.
+You can contact our support team anytime using the **Feedback** option in the app's **Settings** or by email at **support@teuvex.de**. We usually reply within 24 hours and are happy to receive questions, bug reports, and feature suggestions.
 
 ## 6. How can I manage or cancel my Premium subscription?
 
