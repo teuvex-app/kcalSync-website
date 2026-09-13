@@ -12,7 +12,6 @@ With the following privacy policy, we would like to inform you about the types o
 •   International Data Transfers
 •   General Information on Data Storage and Deletion
 •   Rights of Data Subjects
-•   Performance of Tasks according to Statutes or Rules of Procedure
 •   Business Services
 •   Provision of Online Services and Web Hosting
 •   Registration, Login, and User Account
@@ -20,11 +19,11 @@ With the following privacy policy, we would like to inform you about the types o
 •   Contact and Inquiry Management
 •   Plug-ins and Embedded Functions and Content
 •   Management, Organization, and Support Tools
-•   Data Protection Information for Whistleblowers
 •   Changes and Updates
 •   Definitions of Terms
 
 ### Controller
+Lars Teuscher
 Teuvex
 Dresdner Str. 153
 01705 Freital
@@ -36,7 +35,6 @@ The following overview summarizes the types of data processed and the purposes o
 
 ### Types of Processed Data
 •   Inventory data.
-•   Employee data.
 •   Payment data.
 •   Contact data.
 •   Content data.
@@ -44,18 +42,14 @@ The following overview summarizes the types of data processed and the purposes o
 •   Usage data.
 •   Meta, communication, and procedural data.
 •   Log data.
-•   Member data.
 
 ### Categories of Data Subjects
 •   Service recipients and clients.
-•   Employees.
 •   Prospective customers.
 •   Communication partners.
 •   Users.
-•   Members.
 •   Business and contractual partners.
 •   Third parties.
-•   Whistleblowers.
 
 ### Purposes of Processing
 •   Provision of contractual services and fulfillment of contractual obligations.
@@ -67,7 +61,6 @@ The following overview summarizes the types of data processed and the purposes o
 •   Registration procedures.
 •   Provision of our online services and user-friendliness.
 •   Information technology infrastructure.
-•   Whistleblower protection.
 •   Business processes and economic procedures.
 
 ### Relevant Legal Bases
@@ -76,7 +69,6 @@ Relevant legal bases under the GDPR: Below is an overview of the legal bases of 
 •   Fulfillment of contract and pre-contractual inquiries (Art. 6 (1) (b) GDPR) - Processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract.
 •   Legal obligation (Art. 6 (1) (c) GDPR) - Processing is necessary for compliance with a legal obligation to which the controller is subject.
 •   Legitimate interests (Art. 6 (1) (f) GDPR) - Processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data.
-•   Contract on membership (statutes) (Art. 6 (1) (b) GDPR).
 
 
 ### National Data Protection Regulations in Germany
@@ -130,16 +122,6 @@ Rights of data subjects under the GDPR: As a data subject under the GDPR, you ha
 •   Right to deletion and restriction of processing: You have the right, in accordance with legal requirements, to request that data concerning you be deleted immediately, or alternatively, in accordance with legal requirements, to request a restriction of processing of the data.
 •   Right to data portability: You have the right to receive the data concerning you that you have provided to us in a structured, commonly used and machine-readable format in accordance with legal requirements or to demand its transmission to another controller.
 •   Right to lodge a complaint with a supervisory authority: Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement, if you believe that the processing of personal data concerning you violates the provisions of the GDPR.
-
-### Performance of Tasks according to Statutes or Rules of Procedure
-We process the data of our members, supporters, interested parties, business partners or other persons (collectively "data subjects") if we are in a membership or other business relationship with them and perform our tasks as well as are recipients of services and grants. Otherwise, we process the data of data subjects based on our legitimate interests, e.g., if it concerns administrative tasks or public relations.
-The data processed in this context, the nature, scope and purpose and necessity of their processing are determined by the underlying membership or contractual relationship, from which the necessity of any data information also arises (otherwise we point out required data).
-We delete data that are no longer required to provide our statutory and business purposes. This is determined according to the respective tasks and contractual relationships. We keep the data as long as they can be relevant for business processing, as well as with regard to any warranty or liability obligations based on our legitimate interest in their regulation. The necessity of keeping the data is checked regularly; otherwise, the statutory retention obligations apply.
-•   Processed data types: Inventory data (e.g., full name, residential address, contact information, customer number, etc.); contact data (e.g., postal and email addresses or telephone numbers); contract data (e.g., subject matter of the contract, term, customer category). Member data (e.g., personal data such as name, age, gender, contact data (email address, telephone number), member number, information on membership fees, participation in events, etc.).
-•   Data subjects: Members.
-•   Purposes of processing and legitimate interests: Communication. Organizational and administrative procedures.
-•   Storage and deletion: Deletion according to the information in the section "General Information on Data Storage and Deletion".
-•   Legal bases: Legitimate interests (Art. 6 (1) (f) GDPR). Contract on membership (statutes) (Art. 6 (1) (b) GDPR).
 
 ### Business Services
 We process personal data of our contractual and business partners, such as customers, clients, interested parties, suppliers and other cooperation partners (collectively "contractual partners"), for the initiation, execution and settlement of contractual relationships and comparable legal relationships. This also includes pre-contractual measures taken at request, as well as communication in connection with the respective contractual relationship.
@@ -247,46 +229,6 @@ We use services, platforms and software from other providers (hereinafter referr
 
 ---
 
-### Data Protection Information for Whistleblowers
-In this section you will find information about how we handle data from persons who provide tips (whistleblowers), as well as from affected and involved parties in the context of our whistleblower procedure.
-
----
-
-### Legal Bases (Germany)
-Insofar as we process data to fulfill our legal obligations in accordance with the Whistleblower Protection Act (HinSchG), the legal basis for processing is Article 6 (1) sentence 1 (c) GDPR and in the case of special categories of personal data Art. 9 (2) (g) GDPR, § 22 BDSG, each in conjunction with § 10 HinSchG. This refers to the obligation to establish and operate an internal whistleblower reporting office, the fulfillment of its legal tasks and, in the case of using the data collected in the reporting procedure.
-
----
-
-### Processed Data Types
-In the context of receiving and processing tips as well as in the subsequent whistleblower procedure, we can collect various data. These include in particular the data provided by a whistleblower, such as: name, contact data and location of the person who gives the tip, names and data on possible witnesses or persons affected by the tip, names and data on the persons against whom the tip is directed, data about the suspected misconduct, further relevant details. Special categories of personal data: It may happen that we collect special types of personal data in the context of our activities, especially if these are communicated by a whistleblower. These include: health-related data of a person, data on racial or ethnic origin. Use of our online forms: Please note that it is possible to provide tips anonymously. To ensure the security of your data when using our online forms, we recommend calling them up in the so-called 'incognito mode' of your browser. You can open an incognito window as follows: a) On a Windows PC: Open your browser and press Ctrl+Shift+N; b) On a Mac: Open your browser and press Command+Shift+N; c) On mobile devices: Switch to private mode via the tab menu.
-
----
-
-### Providing Names
-You have the option to provide tips anonymously. Insofar as it is not prohibited by national legislation, we recommend, however, providing your name and contact data. This allows us to follow up on the report more effectively and, if necessary, to get in direct contact with you. If you provide your name and contact data, your identity will be treated as strictly confidential.
-
----
-
-### Provision of Data to Third Parties
-Data related to the tips provided will only be passed on to third parties by us under certain circumstances. This happens either a) if you have given us your express consent to do so, or b) if there is a legal obligation to pass on the data. Possible third parties include public authorities, government, regulatory or tax authorities if the disclosure is necessary to fulfill a legal or regulatory obligation. In addition, we may commission lawyers and other professional advisors within the framework of legal provisions. These are entitled to examine suspected misconduct and take necessary measures after an investigation, such as initiating disciplinary or legal proceedings. In addition, service providers carefully selected and monitored by us can receive data for these purposes (for example, operators of a web-based reporting system). However, these service providers are contractually obligated in the context of order data processing to comply with the applicable data protection regulations.
-
----
-
-### Data Retention and Deletion
-Personal data are only processed for as long as is necessary to fulfill the processing purposes described above. If these data are no longer necessary for the stated purposes, they are deleted.
-
----
-
-### Technical and Organizational Measures
-We have implemented the necessary contractual, technical and organizational measures to ensure the security of all data processed by us. These data are processed exclusively for the specified purposes.
-•   Processed data types: Inventory data (e.g., full name, residential address, contact information, customer number); employee data (information on employees and other persons in one); contact data (e.g., postal and email addresses); content data (e.g., textual or pictorial messages and contributions as well as information concerning them, such as information on authorship); usage data (e.g., page views and duration of stay, click paths, intensity and frequency of use, types of devices and operating systems used).
-•   Data subjects: Employees (e.g., employees, applicants, temporary workers and others); third parties; whistleblowers.
-•   Purposes of processing and legitimate interests: Whistleblower protection.
-•   Storage and deletion: Deletion according to the information in the section "General Information on Data Storage and Deletion".
-•   Legal bases: Consent (Art. 6 (1) (a) GDPR); legal obligation (Art. 6 (1) (c) GDPR); legitimate interests (Art. 6 (1) (f) GDPR).
-
----
-
 ### Changes and Updates
 We ask you to inform yourself regularly about the content of our privacy policy. We adapt the privacy policy as soon as changes in the data processing carried out by us make this necessary. We will inform you as soon as a cooperation action on your part (e.g., consent) or other individual notification becomes necessary due to the changes. Insofar as we provide addresses and contact information of companies and organizations in this privacy policy, please note that the addresses may change over time and please check the details before contacting them.
 
@@ -294,9 +236,6 @@ We ask you to inform yourself regularly about the content of our privacy policy.
 
 ### Definitions of Terms
 In this section you will find an overview of the terms used in this privacy policy. Insofar as the terms are legally defined, their legal definitions apply. The following explanations, on the other hand, are intended primarily for understanding.
-
-### Employees:
-Employees are persons who are in an employment relationship, whether as employees, staff or in similar positions. An employment relationship is a legal relationship between an employer and an employee, which is established by an employment contract or an agreement. It includes the obligation of the employer to pay the employee a remuneration while the employee performs his work. The employment relationship includes various phases, including the establishment in which the employment contract is concluded, the execution in which the employee carries out his work activity, and the termination when the employment relationship ends, whether through notice of termination, rescission agreement or otherwise. Employee data is all information that relates to these persons and is in the context of their employment. This includes aspects such as personal identification data, identification numbers, salary and bank details, working hours, vacation entitlements, health data and performance appraisals.
 
 ### Inventory Data:
 Inventory data include essential information necessary for the identification and management of contractual partners, user accounts, profiles and similar assignments. These data can include, among others, personal and demographic information such as names, contact information (addresses, telephone numbers, email addresses), dates of birth and specific identifiers (user IDs). Inventory data form the basis for any formal interaction between persons and services, facilities or systems by enabling clear assignment and communication.
@@ -309,9 +248,6 @@ Contact data are essential information enabling communication with persons or or
 
 ### Meta, Communication and Procedural Data:
 Meta, communication and procedural data are categories containing information about the way data is processed, transmitted and managed. Metadata, also known as data about data, include information describing the context, origin and structure of other data. They can include information on file size, creation date, the author of a document and change histories. Communication data capture the exchange of information between users via various channels, such as email traffic, call logs, messages in social networks and chat histories, including the persons involved, timestamps and transmission paths. Procedural data describe the processes and procedures within systems or organizations, including workflow documentation, logs of transactions and activities, as well as audit logs used to track and review operations.
-
-### Member Data:
-Member data include information relating to the individuals who are part of an organization, an association, an online service or another group. These data serve to manage memberships, enable communication and provide services or benefits associated with membership. Member data can include personal identification information, contact information, information on membership status and duration, contribution payments, participation in events and activities as well as preferences and interests. They can also include data about the use of offers of the organization. The collection and processing of these data takes place in compliance with data protection regulations and serves both administrative handling and the promotion of engagement and satisfaction of members.
 
 ### Usage Data:
 Usage data refer to information capturing how users interact with digital products, services or platforms. These data include a wide range of information showing how users use applications, which functions they prefer, how long they stay on certain pages and via which paths they navigate through an application. Usage data can also include frequency of use, timestamps of activities, IP addresses, device information and location data. They are particularly valuable for analyzing user behavior, optimizing user experiences, personalizing content and improving products or services. In addition, usage data play a decisive role in identifying trends, preferences and possible problem areas within digital offers.

@@ -12,7 +12,6 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 •   Internationale Datentransfers
 •   Allgemeine Informationen zur Datenspeicherung und Löschung
 •   Rechte der betroffenen Personen
-•   Wahrnehmung von Aufgaben nach Satzung oder Geschäftsordnung
 •   Geschäftliche Leistungen
 •   Bereitstellung des Onlineangebots und Webhosting
 •   Registrierung, Anmeldung und Nutzerkonto
@@ -20,14 +19,15 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 •   Kontakt- und Anfrageverwaltung
 •   Plug-ins und eingebettete Funktionen sowie Inhalte
 •   Management, Organisation und Hilfswerkzeuge
-•   Datenschutzinformationen für Hinweisgeber
 •   Änderung und Aktualisierung
 •   Begriffsdefinitionen
 
 ### Verantwortlicher
+Lars Teuscher
 Teuvex
 Dresdner Str. 153
 01705 Freital
+Deutschland
 E-Mail-Adresse: support@teuvex.de
 
 ### Übersicht der Verarbeitungen
@@ -35,7 +35,6 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 
 ### Arten der verarbeiteten Daten
 •   Bestandsdaten.
-•   Beschäftigtendaten.
 •   Zahlungsdaten.
 •   Kontaktdaten.
 •   Inhaltsdaten.
@@ -43,21 +42,17 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 •   Nutzungsdaten.
 •   Meta-, Kommunikations- und Verfahrensdaten.
 •   Protokolldaten.
-•   Mitgliederdaten.
 
 ### Kategorien betroffener Personen
 •   Leistungsempfänger und Auftraggeber.
-•   Beschäftigte.
 •   Interessenten.
 •   Kommunikationspartner.
 •   Nutzer.
-•   Mitglieder.
 •   Geschäfts- und Vertragspartner.
 •   Dritte Personen.
-•   Hinweisgeber.
 
 ### Zwecke der Verarbeitung
-•   Erbringung vertuallicher Leistungen und Erfüllung vertraglicher Pflichten.
+•   Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten.
 •   Kommunikation.
 •   Sicherheitsmaßnahmen.
 •   Büro- und Organisationsverfahren.
@@ -66,7 +61,6 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 •   Anmeldeverfahren.
 •   Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
 •   Informationstechnische Infrastruktur.
-•   Hinweisgeberschutz.
 •   Geschäftsprozesse und betriebswirtschaftliche Verfahren.
 
 ### Maßgebliche Rechtsgrundlagen
@@ -75,7 +69,6 @@ Maßgebliche Rechtsgrundlagen nach der DSGVO: Im Folgenden erhalten Sie eine Üb
 •   Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO) - Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen.
 •   Rechtliche Verpflichtung (Art. 6 Abs. 1 S. 1 lit. c) DSGVO) - Die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich, der der Verantwortliche unterliegt.
 •   Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO) - die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten notwendig, vorausgesetzt, dass die Interessen, Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten verlangen, nicht überwiegen.
-•   Vertrag über die Mitgliedschaft (Satzung) (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
 
 
 ### Nationale Datenschutzregelungen in Deutschland
@@ -129,16 +122,6 @@ Rechte der betroffenen Personen aus der DSGVO: Ihnen stehen als Betroffene nach 
 •   Recht auf Löschung und Einschränkung der Verarbeitung: Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht, zu verlangen, dass Sie betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.
 •   Recht auf Datenübertragbarkeit: Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an einen anderen Verantwortlichen zu fordern.
 •   Beschwerde bei Aufsichtsbehörde: Sie haben unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die Vorgaben der DSGVO verstößt.
-
-### Wahrnehmung von Aufgaben nach Satzung oder Geschäftsordnung
-Wir verarbeiten die Daten unserer Mitglieder, Unterstützer, Interessenten, Geschäftspartner oder sonstiger Personen (zusammenfassend "Betroffene"), wenn wir mit ihnen in einem Mitgliedschafts- oder sonstigem geschäftlichen Verhältnis stehen und unsere Aufgaben wahrnehmen sowie Empfänger von Leistungen und Zuwendungen sind. Im Übrigen verarbeiten wir die Daten Betroffener auf Grundlage unserer berechtigten Interessen, z. B. wenn es sich um administrative Aufgaben oder Öffentlichkeitsarbeit handelt.
-Die hierbei verarbeiteten Daten, die Art, der Umfang und der Zweck und die Erforderlichkeit ihrer Verarbeitung, bestimmen sich nach dem zugrundeliegenden Mitgliedschafts- oder Vertragsverhältnis, aus dem sich auch die Erforderlichkeit etwaiger Datenangaben ergeben (im Übrigen weisen wir auf erforderliche Daten hin).
-Wir löschen Daten, die zur Erbringung unserer satzungs- und geschäftsmäßigen Zwecke nicht mehr erforderlich sind. Dies bestimmt sich entsprechend der jeweiligen Aufgaben und vertraglichen Beziehungen. Wir bewahren die Daten so lange auf, wie sie zur Geschäftsabwicklung, als auch im Hinblick auf etwaige Gewährleistungs- oder Haftungspflichten auf Grundlage unserer berechtigten Interesse an deren Regelung relevant sein können. Die Erforderlichkeit der Aufbewahrung der Daten wird regelmäßig überprüft; im Übrigen gelten die gesetzlichen Aufbewahrungspflichten.
-•   Verarbeitete Datenarten: Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Vertragsdaten (z. B. Vertragsgegenstand, Laufzeit, Kundenkategorie). Mitgliederdaten (z.B. persönliche Daten wie Name, Alter, Geschlecht, Kontaktdaten (E-Mail-Adresse, Telefonnummer), Mitgliedsnummer, Informationen über Mitgliedsbeiträge, Teilnahme an Veranstaltungen, etc.).
-•   Betroffene Personen: Mitglieder.
-•   Zwecke der Verarbeitung und berechtigte Interessen: Kommunikation. Organisations- und Verwaltungsverfahren.
-•   Aufbewahrung und Löschung: Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
-•   Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Vertrag über die Mitgliedschaft (Satzung) (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
 
 ### Geschäftliche Leistungen
 Wir verarbeiten personenbezogene Daten unserer Vertrags- und Geschäftspartner, etwa Kunden, Auftraggeber, Interessenten, Lieferanten und sonstige Kooperationspartner (zusammenfassend „Vertragspartner"), zur Anbahnung, Durchführung und Abwicklung von Vertragsverhältnissen sowie vergleichbaren Rechtsverhältnissen. Dies umfasst auch vorvertragliche Maßnahmen, die auf Anfrage erfolgen, sowie die Kommunikation im Zusammenhang mit dem jeweiligen Vertragsverhältnis.
@@ -246,46 +229,6 @@ Wir setzen Dienstleistungen, Plattformen und Software anderer Anbieter (nachfolg
 
 ---
 
-### Datenschutzinformationen für Hinweisgeber
-In diesem Abschnitt finden Sie Informationen darüber, wie wir Daten von Personen, die Hinweise geben (Hinweisgeber), sowie von betroffenen und beteiligten Parteien im Rahmen unseres Hinweisgeberverfahrens handhaben.
-
----
-
-### Rechtsgrundlagen (Deutschland)
-Soweit wir Daten zur Erfüllung unserer gesetzlichen Pflichten entsprechend dem Hinweisgeberschutzgesetz (HinSchG) verarbeiten, ist die rechtliche Basis der Verarbeitung Artikel 6 Abs. 1 S. 1 lit. c) DSGVO und im Fall besonderer Kategorien personenbezogener Daten Art. 9 Abs. 2 lit. g) DSGVO, § 22 BDSG, jeweils in Verbindung mit § 10 HinSchG. Dies bezieht sich auf die Verpflichtung zur Einrichtung und zum Betrieb einer internen Hinweisgebermeldestelle, die Erfüllung ihrer gesetzlichen Aufgaben und, im Fall der Nutzung der im Meldeverfahren erhobenen Daten.
-
----
-
-### Verarbeitete Datenarten
-Im Rahmen der Entgegennahme und Bearbeitung von Hinweisen sowie im anschließenden Hinweisgeber-Verfahren können wir verschiedene Daten erheben. Diese umfassen insbesondere die von einem Hinweisgeber bereitgestellten Daten, wie zum Beispiel: Name, Kontaktdaten und Aufenthaltsort der Person, die den Hinweis gibt, Namen und Daten zu möglichen Zeugen oder Personen, die von dem Hinweis betroffen sind, Namen und Daten zu den Personen, gegen die der Hinweis gerichtet ist, Daten über das mutmaßliche Fehlverhalten, Weitere relevante Details. Besondere Kategorien personenbezogener Daten: Es kann vorkommen, dass wir im Rahmen unserer Tätigkeiten besondere Arten von personenbezogenen Daten erfassen, insbesondere dann, wenn diese von einem Hinweisgeber mitgeteilt werden. Dazu gehören: Gesundheitsbezogene Daten einer Person, Daten zur rassischen oder ethnischen Herkunft. Nutzung unserer online forms: Bitte beachten Sie, dass die Möglichkeit besteht, Hinweise anonym abzugeben. Um die Sicherheit Ihrer Daten bei der Nutzung unserer online forms zu gewährleisten, empfehlen wir, diese im sogenannten 'Inkognito-Modus' Ihres Browsers aufzurufen. So können Sie ein Inkognito-Fenster öffnen: a) Auf einem Windows-PC: Öffnen Sie Ihren Browser und drücken Sie Strg+Shift+N; b) Auf einem Mac: Öffnen Sie Ihren Browser und drücken Sie Command+Shift+N; c) Auf mobilen Endgeräten: Wechseln Sie über das Tab-Menü in den privaten Modus.
-
----
-
-### Angabe von Namen
-Sie haben die Möglichkeit, Hinweise anonym abzugeben. Insofern es nicht durch nationale Gesetzgebungen untersagt ist, empfehlen wir jedoch die Angabe Ihres Namens und Ihrer Kontaktdaten. Dies ermöglicht uns, die Meldung effektiver nachzugehen und gegebenenfalls direkt mit Ihnen in Kontakt zu treten. Falls Sie Ihren Namen und Kontaktdaten angeben, wird Ihre Identität streng vertraulich behandelt.
-
----
-
-### Bereitstellung von Daten an Dritte
-Daten, die im Zusammenhang mit den abgegebenen Hinweisen stehen, werden von uns nur unter bestimmten Umständen an Dritte weitergegeben. Dies geschieht entweder a) wenn Sie uns Ihre ausdrückliche Einwilligung dazu erteilt haben, oder b) wenn eine gesetzliche Verpflichtung zur Weitergabe der Daten besteht. Zu den möglichen Dritten gehören öffentliche Behörden, Regierungs-, Regulierungs- oder Steuerbehörden, falls die Weitergabe zur Erfüllung einer gesetzlichen oder regulatorischen Verpflichtung notwendig ist. Außerdem können wir im Rahmen gesetzlicher Bestimmungen Rechtsanwälte und andere Fachberater beauftragen. Diese sind dazu berechtigt, vermutetes Fehlverhalten zu prüfen und erforderliche Maßnahmen nach einer Untersuchung zu ergreifen, wie beispielsweise die Einleitung von Disziplinar- oder Gerichtsverfahren. Zudem können von uns sorgfältig ausgewählte und überwachte Dienstleister Daten zu diesen Zwecken erhalten (beispielsweise Betreiber eines webbasierten Meldesystems). Diese Dienstleister sind jedoch im Rahmen einer Auftragsdatenverarbeitung vertraglich zur Einhaltung der geltenden Datenschutzbestimmungen verpflichtet.
-
----
-
-### Datenaufbewahrung und -löschung
-Personenbezogene Daten werden nur so lange verarbeitet, wie es zur Erfüllung der oben beschriebenen Verarbeitungszwecke erforderlich ist. Sind diese Daten für die genannten Zwecke nicht mehr notwendig, erfolgt eine Löschung.
-
----
-
-### Technische und organisatorische Maßnahmen
-Wir haben die erforderlichen vertraglichen, technischen und organisatorischen Maßnahmen implementiert, um die Sicherheit aller von uns verarbeiteten Daten zu gewährleisten. Diese Daten werden ausschließlich für die festgelegten Zwecke verarbeitet.
-•   Verarbeitete Datenarten: Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer); Beschäftigtendaten (Informationen zu Mitarbeitern und anderen Personen in einem); Kontaktdaten (z. B. Post- und E-Mail-Adressen); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme).
-•   Betroffene Personen: Beschäftigte (z. B. Angestellte, Bewerber, Aushilfskräfte und sonstige); Dritte Personen; Hinweisgeber.
-•   Zwecke der Verarbeitung und berechtigte Interessen: Hinweisgeberschutz.
-•   Aufbewahrung und Löschung: Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
-•   Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO); Rechtliche Verpflichtung (Art. 6 Abs. 1 S. 1 lit. c) DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
-
----
-
 ### Änderung und Aktualisierung
 Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z. B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird. Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.
 
@@ -293,9 +236,6 @@ Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung
 
 ### Begriffsdefinitionen
 In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutzerklärung verwendeten Begrifflichkeiten. Soweit die Begrifflichkeiten gesetzlich definiert sind, gelten deren gesetzliche Definitionen. Die nachfolgenden Erläuterungen sollen dagegen vor allem dem Verständnis dienen.
-
-### Beschäftigte:
-Als Beschäftigte werden Personen bezeichnet, die in einem Beschäftigungsverhältnis stehen, sei es als Mitarbeiter, Angestellte oder in ähnlichen Positionen. Ein Beschäftigungsverhältnis ist eine rechtliche Beziehung zwischen einem Arbeitgeber und einem Arbeitnehmer, die durch einen Arbeitsvertrag oder eine Vereinbarung festgelegt wird. Es beinhaltet die Verpflichtung des Arbeitgebers, dem Arbeitnehmer eine Vergütung zu zahlen, während der Arbeitnehmer seine Arbeitsleistung erbringt. Das Beschäftigungsverhältnis umfasst verschiedene Phasen, darunter die Begründung, in der der Arbeitsvertrag geschlossen wird, die Durchführung, in der der Arbeitnehmer seine Arbeitstätigkeit ausübt, und die Beendigung, wenn das Beschäftigungsverhältnis endet, sei es durch Kündigung, Aufhebungsvertrag oder anderweitig. Beschäftigtendaten sind alle Informationen, die sich auf diese Personen beziehen und im Kontext ihrer Beschäftigung stehen. Dies umfasst Aspekte wie persönliche Identifikationsdaten, Identifikationsnummern, Gehalts- und Bankdaten, Arbeitszeiten, Urlaubsansprüche, Gesundheitsdaten und Leistungsbeurteilungen.
 
 ### Bestandsdaten:
 Bestandsdaten umfassen wesentliche Informationen, die für die Identifikation und Verwaltung von Vertragspartnern, Benutzerkonten, Profilen und ähnlichen Zuordnungen notwendig sind. Diese Daten können u.a. persönliche und demografische Angaben wie Namen, Kontaktinformationen (Adressen, Telefonnummern, E-Mail-Adressen), Geburtsdaten und spezifische Identifikatoren (Benutzer-IDs) beinhalten. Bestandsdaten bilden die Grundlage für jegliche formelle Interaktion zwischen Personen und Diensten, Einrichtungen oder Systemen, indem sie eine eindeutige Zuordnung und Kommunikation ermöglichen.
@@ -308,9 +248,6 @@ Kontaktdaten sind essentielle Informationen, die die Kommunikation mit Personen 
 
 ### Meta-, Kommunikations- und Verfahrensdaten:
 Meta-, Kommunikations- und Verfahrensdaten sind Kategorien, die Informationen über die Art und Weise enthalten, wie Daten verarbeitet, übermittelt und verwaltet werden. Meta-Daten, auch bekannt als Daten über Daten, umfassen Informationen, die den Kontext, die Herkunft und die Struktur anderer Daten beschreiben. Sie können Angaben zur Dateigröße, dem Erstellungsdatum, dem Autor eines Dokuments und den Änderungshistorien beinhalten. Kommunikationsdaten erfassen den Austausch von Informationen zwischen Nutzern über verschiedene Kaläle, wie E-Mail-Verkehr, Anrufprotokolle, Nachrichten in sozialen Netzwerken und Chat-Verläufe, inklusive der beteiligten Personen, Zeitstempel und Übertragungswege. Verfahrensdaten beschreiben die Prozesse und Abläufe innerhalb von Systemen oder Organisationen, einschließlich Workflow-Dokumentationen, Protokolle von Transaktionen und Aktivitäten, sowie Audit-Logs, die zur Nachverfolgung und Überprüfung von Vorgängen verwendet werden.
-
-### Mitgliederdaten:
-Mitgliederdaten umfassen Informationen, die sich auf die Individuen beziehen, die Teil einer Organisation, eines Vereins, eines Online-Dienstes oder einer sonstigen Gruppe sind. Diese Daten dienen dazu, Mitgliedschaften zu verwalten, Kommunikation zu ermöglichen und Dienstleistungen oder Vorteile zu erbringen, die mit der Mitgliedschaft verbunden sind. Mitgliederdaten können persönliche Identifikationsinformationen, Kontaktinformationen, Informationen zu Mitgliedschaftsstatus und -dauer, Beitragszahlungen, Teilnahme an Veranstaltungen und Aktivitäten sowie Präferenzen und Interessen umfassen. Sie können auch Daten über die Nutzung von Angeboten der Organisation einschließen. Die Erfassung und Verarbeitung dieser Daten erfolgt unter Einhaltung datenschutzrechtlicher Bestimmungen und dient sowohl der administrativen Abwicklung als auch der Förderung des Engagements und der Zufriedenheit der Mitglieder.
 
 ### Nutzungsdaten:
 Nutzungsdaten beziehen sich auf Informationen, die erfassen, wie Nutzer mit digitalen Produkten, Dienstleistungen oder Plattformen interagieren. Diese Daten umfassen eine breite Palette von Informationen, die aufzeigen, wie Nutzer Anwendungen nutzen, welche Funktionen sie bevorzugen, wie lange sie auf bestimmten Seiten verweilen und über welche Pfade sie durch eine Anwendung navigieren. Nutzungsdaten können auch die Häufigkeit der Nutzung, Zeitstempel von Aktivitäten, IP-Adressen, Geräteinformationen und Standortdaten einschließen. Sie ist besonders wertvoll für die Analyse des Nutzerverhaltens, die Optimierung von Benutzererfahrungen, das Personalisieren von Inhalten und das Verbessern von Produkten oder Dienstleistungen. Darüber hinaus spielen Nutzungsdaten eine entscheidende Rolle beim Erkennen von Trends, Vorlieben und möglichen Problembereichen innerhalb digitaler Angebote.
