@@ -1,4 +1,4 @@
-# Datenschutzerklärung für die mobile App "KcalSync"
+# Datenschutzerklärung für die App "KcalSync" und diese Website
 
 ### Präambel
 Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten. Die verwendeten Begriffe sind nicht geschlechtsspezifisch. Stand: 13. September 2026
@@ -196,7 +196,7 @@ Bei der Kontaktaufnahme mit uns (z. B. per Post, Kontaktformular, E-Mail, Telefo
 •   Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO). Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
 
 Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
-•   Kontaktformular: Bei Kontaktaufnahme über unser Kontaktformular, per E-Mail oder anderen Kommunikationswegen, verarbeiten wir die uns übermittelten personenbezogenen Daten zur Beantwortung und Bearbeitung des jeweiligen Anliegens. Dies umfasst in der Regel Angaben wie Name, Kontaktinformationen und gegebenenfalls weitere Informationen, die uns mitgeteilt werden und zur angemessenen Bearbeitung erforderlich sind. Wir nutzen diese Daten ausschließlich für den angegebenen Zweck der Kontaktaufnahme und Kommunikation; Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+•   Kontaktformular: Bei Kontaktaufnahme über unser Kontaktformular, per E-Mail oder anderen Kommunikationswegen, verarbeiten wir die uns übermittelten personenbezogenen Daten zur Beantwortung und Bearbeitung des jeweiligen Anliegens. Dies umfasst in der Regel Angaben wie Name, Kontaktinformationen und gegebenenfalls weitere Informationen, die uns mitgeteilt werden und zur angemessenen Bearbeitung erforderlich sind. Wir nutzen diese Daten ausschließlich für den angegebenen Zweck der Kontaktaufnahme und Kommunikation. Die Absendung des Formulars läuft über eine von uns betriebene Serverfunktion (Google Cloud Functions, Region europe-west3, Frankfurt am Main); die Nachricht wird anschließend per E-Mail an unsere Support-Adresse zugestellt. Für das Formular ist keine Anmeldung erforderlich, und es wird hierfür kein Nutzerkonto angelegt. Zum Schutz vor automatisierten Massenzusendungen wird Ihre IP-Adresse während der Verarbeitung Ihrer Anfrage kurzzeitig im Arbeitsspeicher ausgewertet; sie wird dabei nicht dauerhaft gespeichert und nicht protokolliert. Gespeichert wird lediglich die Anzahl der Anfragen je Stunde ohne Personenbezug; Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
 ---
 
@@ -299,7 +299,9 @@ Die App richtet sich ausschließlich an Personen ab 18 Jahren und ist im Google 
 Beim Download der App über den Apple App Store (Apple Inc., Cupertino, USA) oder den Google Play Store (Google Ireland Limited) werden Daten durch den jeweiligen Store-Betreiber verarbeitet. Wir haben darauf keinen Einfluss und verweisen auf die Datenschutzbestimmungen von Apple bzw. Google.
 
 ### Konto- und Datenlöschung
-Wenn Sie Ihr Benutzerkonto oder die zu Ihrer Person gespeicherten Daten (z. B. Profilangaben, Ernährungstagebuch oder Haushaltsdaten) vollständig und unwiderruflich löschen lassen möchten, senden Sie bitte eine kurze, formlose E-Mail an: **support@teuvex.de**. Wir werden Ihre Daten anschließend unverzüglich und vollständig aus unseren Systemen entfernen.
+Sie können Ihr Benutzerkonto samt der zu Ihrer Person gespeicherten Daten (z. B. Profilangaben, Ernährungstagebuch oder Haushaltsdaten) jederzeit selbst und ohne Rückfrage löschen: in der App unter **Einstellungen → Konto löschen**. Aus Sicherheitsgründen bestätigen Sie dabei zunächst Ihre Identität erneut; anschließend werden die Cloud-Daten und das Anmeldekonto endgültig entfernt. Der Vorgang lässt sich nicht rückgängig machen.
+
+Alternativ genügt eine kurze, formlose E-Mail an **support@teuvex.de**. Wir entfernen Ihre Daten dann unverzüglich und vollständig aus unseren Systemen.
 
 ---
 *Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke*

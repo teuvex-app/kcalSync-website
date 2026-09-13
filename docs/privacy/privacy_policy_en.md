@@ -1,4 +1,4 @@
-# Privacy Policy for the mobile app "KcalSync"
+# Privacy Policy for the "KcalSync" app and this website
 
 ### Preamble
 With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: September 13, 2026
@@ -196,7 +196,7 @@ When contacting us (e.g., by post, contact form, email, telephone or via social 
 •   Legal bases: Legitimate interests (Art. 6 (1) (f) GDPR). Fulfillment of contract and pre-contractual inquiries (Art. 6 (1) (b) GDPR).
 
 Further information on processing operations, procedures and services:
-•   Contact form: When contacting us via our contact form, by email or other communication channels, we process the personal data transmitted to us to answer and process the respective concern. This usually includes information such as name, contact information and, if applicable, further information that is communicated to us and is necessary for appropriate processing. We use this data exclusively for the stated purpose of contacting and communication; legal bases: Fulfillment of contract and pre-contractual inquiries (Art. 6 (1) (b) GDPR), legitimate interests (Art. 6 (1) (f) GDPR).
+•   Contact form: When contacting us via our contact form, by email or other communication channels, we process the personal data transmitted to us to answer and process the respective concern. This usually includes information such as name, contact information and, if applicable, further information that is communicated to us and is necessary for appropriate processing. We use this data exclusively for the stated purpose of contacting and communication. The form is submitted through a server function we operate (Google Cloud Functions, region europe-west3, Frankfurt am Main, Germany); the message is then delivered by email to our support address. No sign-in is required to use the form and no user account is created for it. To protect against automated bulk submissions, your IP address is evaluated in memory for the duration of processing your request; it is neither stored permanently nor logged. All that is stored is the number of requests per hour, without any reference to a person; legal bases: Fulfillment of contract and pre-contractual inquiries (Art. 6 (1) (b) GDPR), legitimate interests (Art. 6 (1) (f) GDPR).
 
 ---
 
@@ -299,7 +299,9 @@ Since you store body weight, calories and nutrition data in this app, we process
 When downloading the app via the Apple App Store (Apple Inc.) or Google Play Store (Google Ireland Ltd.), platform data is processed by the store operator according to their respective privacy policies.
 
 ### Account & Data Deletion
-If you wish to permanently delete your user account or any associated stored data (such as profile details, nutrition logs, or household data), please send an informal email request to: **support@teuvex.de**. We will process your request and delete all your data from our systems promptly and completely.
+You can delete your user account together with all associated stored data (such as profile details, nutrition logs, or household data) yourself at any time and without having to ask us: in the app under **Settings → Delete account**. For security reasons you will first be asked to confirm your identity again; your cloud data and your sign-in account are then removed permanently. The process cannot be undone.
+
+Alternatively, an informal email to **support@teuvex.de** is enough. We will then remove your data from our systems promptly and completely.
 
 ---
 *Created with the free privacy policy generator from Datenschutz-Generator.de by Dr. Thomas Schwenke*
