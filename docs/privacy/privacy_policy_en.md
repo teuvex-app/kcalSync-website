@@ -25,7 +25,7 @@ With the following privacy policy, we would like to inform you about the types o
 •   Definitions of Terms
 
 ### Controller
-Teuvex
+Lars Teuscher (Teuvex)
 Dresdner Str. 153
 01705 Freital
 Germany
@@ -365,5 +365,3 @@ When downloading the app via the Apple App Store (Apple Inc.) or Google Play Sto
 ### Account & Data Deletion
 If you wish to permanently delete your user account or any associated stored data (such as profile details, nutrition logs, or household data), please send an informal email request to: **support@teuvex.de**. We will process your request and delete all your data from our systems promptly and completely.
 
----
-*Created with the free privacy policy generator from Datenschutz-Generator.de by Dr. Thomas Schwenke*

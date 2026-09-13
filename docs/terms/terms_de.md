@@ -1,5 +1,5 @@
 ### 1 Geltungsbereich & Gegenstand
-Diese Nutzungsbedingungen gelten für die Nutzung der mobilen App KcalSync auf Android-Betriebssystemen. Durch das Herunterladen, Installieren oder Nutzen der App erklärst du dich mit diesen Bedingungen einverstanden.
+Diese Nutzungsbedingungen gelten für die Nutzung der mobilen App KcalSync auf Android- und iOS-Betriebssystemen. Durch das Herunterladen, Installieren oder Nutzen der App erklärst du dich mit diesen Bedingungen einverstanden.
 
 ### 2 Leistungsumfang & Funktionen
 KcalSync stellt Werkzeuge zur Verfügung, die Nutzer bei der Erfassung ihrer täglichen Kalorien- und Nährstoffzufuhr, der Verwaltung von Einkaufslisten sowie der Nutzung von KI-gestützten Rezeptvorschlägen unterstützen.
@@ -15,6 +15,10 @@ Angaben im Nutzerprofil wahrheitsgemäß machen.
 Keine rechtswidrigen Inhalte in gemeinsamen Einkaufslisten oder Rezeptkommentaren verbreiten.
 Den Quellcode der Anwendung nicht manipulieren, dekompilieren oder anderweitig zurückentwickeln.
 
+### 5 Widerrufsrecht bei Premium-Abonnements
+
+Der Kauf und die Abrechnung von Premium-Abonnements erfolgen über den Google Play Store bzw. den Apple App Store. Für das Widerrufsrecht bei digitalen Inhalten und Abonnements gelten daher ergänzend die jeweiligen Bedingungen von Google bzw. Apple als Anbieter des Vertriebskanals.
+
 ### Anwendbares Recht
 
-Es gilt das Recht der Bundesrepublik Deutschland, soweit gesetzlich zulässig.
+Es gilt das Recht der Bundesrepublik Deutschland, soweit gesetzlich zulässig. Bist du Verbraucher und hast deinen gewöhnlichen Aufenthalt in einem anderen Staat, bleiben zwingende verbraucherschutzrechtliche Bestimmungen dieses Staates von dieser Rechtswahl unberührt.

@@ -1,8 +1,8 @@
 ### Legal Notice
-Information according to § 5 TMG (German Telemedia Act)
+Information according to § 5 DDG (German Digital Services Act)
 Operator
 
-Lars Teuscher
+Lars Teuscher (Teuvex)
 Dresdner Str. 153
 01705 Freital
 Germany

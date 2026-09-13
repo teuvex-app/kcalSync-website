@@ -25,7 +25,7 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 •   Begriffsdefinitionen
 
 ### Verantwortlicher
-Teuvex
+Lars Teuscher (Teuvex)
 Dresdner Str. 153
 01705 Freital
 E-Mail-Adresse: support@teuvex.de
@@ -364,5 +364,3 @@ Beim Download der App über den Apple App Store (Apple Inc., Cupertino, USA) ode
 ### Konto- und Datenlöschung
 Wenn Sie Ihr Benutzerkonto oder die zu Ihrer Person gespeicherten Daten (z. B. Profilangaben, Ernährungstagebuch oder Haushaltsdaten) vollständig und unwiderruflich löschen lassen möchten, senden Sie bitte eine kurze, formlose E-Mail an: **support@teuvex.de**. Wir werden Ihre Daten anschließend unverzüglich und vollständig aus unseren Systemen entfernen.
 
----
-*Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke*
