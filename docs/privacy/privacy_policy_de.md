@@ -288,6 +288,13 @@ Bitte beachten Sie, dass die Nährwertangaben aus dieser offenen Datenbank von D
 **Texterkennung auf dem Gerät**
 Wenn Sie eine Nährwerttabelle oder einen Einkaufszettel abfotografieren, wertet die App das Bild mit Googles ML Kit unmittelbar auf Ihrem Gerät aus. Das Foto verlässt Ihr Gerät dabei nicht und wird nicht an uns oder an Google übertragen. Nach der Auswertung wird es nicht gespeichert.
 
+**Schrittdaten aus Health Connect (Android) bzw. Apple Health (iOS)**
+Wenn Sie die Schrittanzeige nutzen, ruft die App die Schrittzahl der letzten sieben Tage bei Health Connect (Android) beziehungsweise Apple Health (iOS) ab. Der Zugriff ist ausschließlich lesend und auf den Datentyp "Schritte" beschränkt; andere Gesundheitswerte fragen wir nicht ab. Die Freigabe erteilen Sie im Betriebssystem und können sie dort jederzeit widerrufen; die übrigen Funktionen der App stehen Ihnen auch ohne die Freigabe uneingeschränkt zur Verfügung.
+
+Die abgerufenen Schrittzahlen bleiben auf Ihrem Gerät. Sie werden weder an uns noch an Dritte übertragen und nicht in unserer Datenbank gespeichert. Den daraus geschätzten Kalorienverbrauch berechnet die App auf dem Gerät. Schrittdaten sind Gesundheitsdaten im Sinne des Art. 9 Abs. 1 DSGVO; Rechtsgrundlage ist Ihre ausdrückliche Einwilligung nach Art. 9 Abs. 2 lit. a DSGVO, die Sie mit der Freigabe im Betriebssystem erteilen.
+
+Tragen Sie eine sportliche Aktivität von Hand ein und lassen den Kalorienverbrauch schätzen, werden hierfür die Bezeichnung der Aktivität, die Dauer und Ihr Körpergewicht an Google Gemini übermittelt (siehe Abschnitt "Nutzung von Google-Diensten (Firebase & Gemini)").
+
 **Erhebung von Geräte- und Nutzungsdaten**
 Um die Stabilität der App zu gewährleisten, technische Fehler (Crash-Reports) zu analysieren und einen Missbrauch der kostenlosen Testphasen zu verhindern, erhebt und speichert die App folgende Daten in unserer Cloud-Datenbank (Google Firebase):
 • Gerätedaten: Modellname, Hersteller und eine anonymisierte Geräte-ID Ihres Smartphones.

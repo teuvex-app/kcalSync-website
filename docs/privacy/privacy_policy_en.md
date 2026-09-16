@@ -288,6 +288,13 @@ Please note that the nutritional values in this open database are entered by thi
 **On-device text recognition**
 When you photograph a nutrition table or a shopping list, the app analyses the image with Google's ML Kit directly on your device. The photo does not leave your device and is transmitted neither to us nor to Google. It is not stored after the analysis.
 
+**Step data from Health Connect (Android) and Apple Health (iOS)**
+When you use the step display, the app reads the step count of the last seven days from Health Connect (Android) or Apple Health (iOS). Access is read-only and limited to the data type "steps"; we do not request any other health values. You grant the permission in your operating system and can revoke it there at any time; all other functions of the app remain fully available without it.
+
+The step counts retrieved stay on your device. They are transmitted neither to us nor to any third party and are not stored in our database. The estimated calorie consumption derived from them is calculated on the device. Step data is health data within the meaning of Art. 9 (1) GDPR; the legal basis is your explicit consent under Art. 9 (2) (a) GDPR, which you give by granting the permission in your operating system.
+
+If you enter a sports activity manually and have the calorie consumption estimated, the name of the activity, its duration and your body weight are transmitted to Google Gemini for that purpose (see the section "Use of Google services (Firebase & Gemini)").
+
 **Collection of Device and Usage Data**
 In order to ensure the stability of the app, analyze technical errors (crash reports) and prevent abuse of the free trial phases, the app collects and stores the following data in our cloud database (Google Firebase):
 • Device data: Model name, manufacturer and an anonymized device ID of your smartphone.
