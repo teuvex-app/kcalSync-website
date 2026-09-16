@@ -320,6 +320,8 @@ Beim Download der App über den Apple App Store (Apple Inc., Cupertino, USA) ode
 ### Konto- und Datenlöschung
 Sie können Ihr Benutzerkonto samt der zu Ihrer Person gespeicherten Daten (z. B. Profilangaben, Ernährungstagebuch oder Haushaltsdaten) jederzeit selbst und ohne Rückfrage löschen: in der App unter **Einstellungen → Konto löschen**. Aus Sicherheitsgründen bestätigen Sie dabei zunächst Ihre Identität erneut; anschließend werden die Cloud-Daten und das Anmeldekonto endgültig entfernt. Der Vorgang lässt sich nicht rückgängig machen.
 
+Eine ausführliche Anleitung mit beiden Wegen steht auf der Seite [Konto und Daten löschen](/konto-loeschen).
+
 Alternativ genügt eine kurze, formlose E-Mail an **support@teuvex.de**. Wir entfernen Ihre Daten dann unverzüglich und vollständig aus unseren Systemen.
 
 ---

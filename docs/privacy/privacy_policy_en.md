@@ -320,6 +320,8 @@ When downloading the app via the Apple App Store (Apple Inc.) or Google Play Sto
 ### Account & Data Deletion
 You can delete your user account together with all associated stored data (such as profile details, nutrition logs, or household data) yourself at any time and without having to ask us: in the app under **Settings → Delete account**. For security reasons you will first be asked to confirm your identity again; your cloud data and your sign-in account are then removed permanently. The process cannot be undone.
 
+Step-by-step instructions covering both routes are set out on the page [Delete your account and data](/konto-loeschen).
+
 Alternatively, an informal email to **support@teuvex.de** is enough. We will then remove your data from our systems promptly and completely.
 
 ---
