@@ -28,6 +28,14 @@ Schreibe dazu, dass du die Löschung deines KcalSync-Kontos wünschst, und sende
 
 Wir bearbeiten deine Anfrage unverzüglich, spätestens innerhalb eines Monats (Art. 12 Abs. 3 DSGVO).
 
+### Nur die Daten löschen, das Konto behalten
+
+Möchtest du dein Konto behalten, aber von vorn anfangen, geht das auch: in der App unter **Einstellungen → Gefahrenzone → Alle App-Daten löschen**.
+
+Dabei werden dein Ernährungstagebuch, deine Rezepte, Einkaufslisten und Einstellungen gelöscht — sowohl auf dem Gerät als auch in der Cloud. Erhalten bleiben dein Konto, deine Anmeldung, dein Premium-Status und deine Haushaltszugehörigkeit.
+
+Auch dieser Vorgang lässt sich nicht rückgängig machen.
+
 ### Was gelöscht wird
 
 - Dein Anmeldekonto und deine E-Mail-Adresse

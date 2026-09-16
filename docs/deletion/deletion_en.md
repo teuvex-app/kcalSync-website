@@ -28,6 +28,14 @@ State that you would like your KcalSync account deleted, and send the message **
 
 We will act on your request without undue delay and at the latest within one month (Art. 12 (3) GDPR).
 
+### Delete only the data and keep the account
+
+If you would like to keep your account but start over, you can: in the app under **Settings → Danger zone → Delete all app data**.
+
+This deletes your nutrition diary, your recipes, shopping lists and settings — both on the device and in the cloud. Your account, your sign-in, your Premium status and your household membership are kept.
+
+This cannot be undone either.
+
 ### What is deleted
 
 - Your sign-in account and your email address
