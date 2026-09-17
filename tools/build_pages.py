@@ -64,8 +64,37 @@ def inline(text):
     return "".join(out)
 
 
-def to_html(md):
+def to_html(md, page_title=None):
+    """Wandelt einen Rechtstext in HTML.
+
+    Die Texte benutzen unterschiedliche Ueberschriftsebenen als ihre jeweils
+    oberste: die Datenschutzerklaerung beginnt mit `#`, die uebrigen mit `###`.
+    Fest zu rechnen - etwa `###` immer zu h4 - ergaebe deshalb in einem Text
+    eine sinnvolle Gliederung und im naechsten eine falsche. Stattdessen wird
+    die flachste vorkommende Ebene ermittelt und auf h2 abgebildet; der
+    Seitentitel bleibt h1.
+    """
     lines = md.replace("\r\n", "\n").split("\n")
+
+    levels = sorted({len(m.group(1)) for m in
+                     (re.match(r"(#{1,6})\s+", l.strip()) for l in lines) if m})
+    # Die tatsaechlich vorkommenden Ebenen werden auf h2, h3, h4 ... abgebildet.
+    # Die Datenschutzerklaerung benutzt `#` und `###` ohne `##` dazwischen;
+    # wuerde man die Zahlen einfach verschieben, wuerde daraus h2 und h4, und
+    # die Abschnittsueberschriften waeren kleiner als der Fliesstext.
+    depth = {lvl: min(n + 2, 6) for n, lvl in enumerate(levels)}
+    top = levels[0] if levels else 1
+
+    if page_title:
+        # Traegt der Text seine eigene Ueberschrift und deckt sie sich mit dem
+        # Seitentitel, stuende er sonst zweimal untereinander.
+        for k, line in enumerate(lines):
+            if not line.strip():
+                continue
+            m = re.match(r"(#{1,6})\s+(.*)", line.strip())
+            if m and len(m.group(1)) == top and m.group(2).strip() == page_title:
+                lines = lines[k + 1:]
+            break
     out, i = [], 0
     list_open = None  # "ul" | "ol" | None
 
@@ -88,7 +117,7 @@ def to_html(md):
         m = re.match(r"(#{1,6})\s+(.*)", stripped)
         if m:
             close_list()
-            lvl = min(len(m.group(1)) + 1, 6)   # # wird zu h2, der Seitentitel ist h1
+            lvl = depth.get(len(m.group(1)), 6)
             out.append("<h%d>%s</h%d>" % (lvl, inline(m.group(2)), lvl))
             i += 1; continue
 
@@ -126,9 +155,8 @@ STYLE = """
 --bg:#f7f9f8;--card:#fff;--ink:#16211c;--soft:#54645b;--faint:#7d8c84;
 --line:#dde4e0;--accent:#0f6e52;--accent-bg:#e4f0ea}
 @media(prefers-color-scheme:dark){:root{
---bg:#101613;--card:#18201c;--ink:#e6ede9;--soft:#9cab a3;--faint:#7a8981;
+--bg:#101613;--card:#18201c;--ink:#e6ede9;--soft:#9caba3;--faint:#7a8981;
 --line:#28322c;--accent:#57c397;--accent-bg:#16302688}}
-@media(prefers-color-scheme:dark){:root{--soft:#9caba3}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);
 font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
@@ -243,8 +271,8 @@ def main():
         for p in (p_de, p_en):
             if not os.path.exists(p):
                 sys.exit("Fehlt: %s" % p)
-        body_de = to_html(io.open(p_de, encoding="utf-8").read())
-        body_en = to_html(io.open(p_en, encoding="utf-8").read())
+        body_de = to_html(io.open(p_de, encoding="utf-8").read(), page_title=title_de)
+        body_en = to_html(io.open(p_en, encoding="utf-8").read(), page_title=title_en)
         target_dir = os.path.join(DOCS, slug)
         os.makedirs(target_dir, exist_ok=True)
         target = os.path.join(target_dir, "index.html")
