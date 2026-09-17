@@ -17,7 +17,8 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 •   Registrierung, Anmeldung und Nutzerkonto
 •   Single-Sign-On-Anmeldung
 •   Kontakt- und Anfrageverwaltung
-•   Plug-ins und eingebettete Funktionen sowie Inhalte
+•   Schriftarten in der mobilen App
+•   Speicherung auf Ihrem Endgerät
 •   Management, Organisation und Hilfswerkzeuge
 •   Änderung und Aktualisierung
 •   Begriffsdefinitionen
