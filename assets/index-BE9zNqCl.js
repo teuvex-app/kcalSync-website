@@ -478,7 +478,8 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 •   Registrierung, Anmeldung und Nutzerkonto
 •   Single-Sign-On-Anmeldung
 •   Kontakt- und Anfrageverwaltung
-•   Plug-ins und eingebettete Funktionen sowie Inhalte
+•   Schriftarten in der mobilen App
+•   Speicherung auf Ihrem Endgerät
 •   Management, Organisation und Hilfswerkzeuge
 •   Änderung und Aktualisierung
 •   Begriffsdefinitionen
@@ -811,7 +812,8 @@ With the following privacy policy, we would like to inform you about the types o
 •   Registration, Login, and User Account
 •   Single Sign-On Login
 •   Contact and Inquiry Management
-•   Plug-ins and Embedded Functions and Content
+•   Fonts in the Mobile App
+•   Storage on Your Device
 •   Management, Organization, and Support Tools
 •   Changes and Updates
 •   Definitions of Terms
