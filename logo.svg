@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <!-- Background Card Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+
+    <!-- Heart Stroke Gradient -->
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="50%" stop-color="#9d4edf"/>
+      <stop offset="100%" stop-color="#ff2a85"/>
+    </linearGradient>
+
+    <!-- Man Gradient -->
+    <linearGradient id="manGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00c6ff"/>
+      <stop offset="100%" stop-color="#0072ff"/>
+    </linearGradient>
+
+    <!-- Woman Gradient -->
+    <linearGradient id="womanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f857a6"/>
+      <stop offset="100%" stop-color="#ff5858"/>
+    </linearGradient>
+
+    <!-- Bag Gradient -->
+    <linearGradient id="bagGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="100%" stop-color="#0080ff"/>
+    </linearGradient>
+
+    <!-- Soft Drop Shadow -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0f172a" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Outer Rounded Frame -->
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="url(#cardBg)" stroke="#e2e8f0" stroke-width="12" filter="url(#shadow)"/>
+
+  <!-- Heart Outline -->
+  <path d="M 256 128 C 210 60 110 60 80 140 C 45 230 150 320 256 420 C 362 320 467 230 432 140 C 402 60 302 60 256 128 Z" fill="none" stroke="url(#heartGrad)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Small floating heart above couple -->
+  <path d="M 276 142 C 268 132 254 132 248 142 C 240 132 226 132 218 142 C 210 154 220 168 248 184 C 276 168 286 154 276 142 Z" fill="#ff2a85"/>
+
+  <!-- Couple Silhouettes -->
+  <!-- Man (Left - Blue) -->
+  <path d="M 180 230 C 180 210 195 190 215 190 C 235 190 250 210 250 230 C 250 240 242 250 230 250 M 160 320 C 160 260 200 250 235 250 C 270 250 310 260 310 320 L 310 400 L 160 400 Z" fill="url(#manGrad)"/>
+
+  <!-- Woman (Right - Pink) -->
+  <path d="M 310 240 C 310 220 325 200 345 200 C 365 200 380 220 380 240 M 270 330 C 270 270 305 260 340 260 C 375 260 410 270 410 330 L 410 400 L 270 400 Z" fill="url(#womanGrad)"/>
+
+  <!-- Veggies in Bag -->
+  <!-- Leafy Greens -->
+  <path d="M 130 270 C 120 240 140 230 150 250 C 160 230 180 240 170 270 Z" fill="#22c55e"/>
+  <path d="M 110 280 C 100 250 120 240 130 260 C 140 240 160 250 150 280 Z" fill="#4ade80"/>
+  <!-- Carrot -->
+  <path d="M 175 285 L 195 245 C 198 240 205 242 202 248 L 188 288 Z" fill="#f97316"/>
+
+  <!-- Shopping Tote Bag -->
+  <path d="M 140 310 C 140 290 160 280 180 280 C 200 280 220 290 220 310" fill="none" stroke="#e0f2fe" stroke-width="12" stroke-linecap="round"/>
+  <rect x="110" y="310" width="140" height="120" rx="20" fill="url(#bagGrad)"/>
+  <!-- Smartwatch Icon on Bag -->
+  <rect x="160" y="340" width="40" height="50" rx="10" fill="#ffffff"/>
+  <rect x="170" y="332" width="20" height="66" rx="4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="180" cy="365" r="12" fill="#0072ff"/>
+  <path d="M 175 365 L 178 368 L 185 361" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Clipboard Checklist (Right) -->
+  <rect x="290" y="290" width="120" height="140" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="4" filter="url(#shadow)"/>
+  <!-- Clip -->
+  <rect x="330" y="278" width="40" height="20" rx="8" fill="#3b82f6"/>
+  <!-- Checkmark Lines -->
+  <!-- Check 1 -->
+  <path d="M 310 330 L 320 340 L 335 320" fill="none" stroke="#2563eb" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="350" y1="330" x2="390" y2="330" stroke="#3b82f6" stroke-width="6" stroke-linecap="round"/>
+  <!-- Check 2 -->
+  <path d="M 310 365 L 320 375 L 335 355" fill="none" stroke="#2563eb" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="350" y1="365" x2="390" y2="365" stroke="#3b82f6" stroke-width="6" stroke-linecap="round"/>
+  <!-- Check 3 -->
+  <path d="M 310 400 L 320 410 L 335 390" fill="none" stroke="#2563eb" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="350" y1="400" x2="390" y2="400" stroke="#3b82f6" stroke-width="6" stroke-linecap="round"/>
+</svg>
