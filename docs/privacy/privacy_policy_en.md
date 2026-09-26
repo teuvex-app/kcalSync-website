@@ -15,11 +15,13 @@ With the following privacy policy, we would like to inform you about the types o
 •   Business Services
 •   Provision of the Online Offer and Web Hosting
 •   Registration, Login and User Account
+•   Images in the App: Profile Picture and Product Photos
 •   Single Sign-On Login
 •   Contact and Inquiry Management
 •   Fonts in the App and on the Website
 •   Storage on Your Device
 •   Management, Organization and Support Tools
+•   Presence in Social Networks (Social Media)
 •   Changes and Updates
 •   Definitions of Terms
 
@@ -175,6 +177,20 @@ Further information on processing operations, procedures and services:
 •   Deletion of data after termination: If users have terminated their user account, their data with regard to the user account will be deleted, subject to legal permission, obligation or consent of the users; legal bases: Fulfillment of contract and pre-contractual inquiries (Art. 6 (1) (b) GDPR).
 •   No storage obligation for data: It is the responsibility of the users to back up their data before the end of the contract in the event of termination. We are entitled to irretrievably delete all of the user's data stored during the term of the contract; legal bases: Fulfillment of contract and pre-contractual inquiries (Art. 6 (1) (b) GDPR).
 
+### Images in the App: Profile Picture and Product Photos
+Users may set a **profile picture** in the app and take **photos of products**. These images are stored with our hosting provider so that they are available on all of the user's devices and – in the case of the profile picture – to the other members of a shared household. Until 25 September 2026 no image left the device on which it was selected; since then the images are actually transferred.
+
+The profile picture is **optional**. Users who do not set one are displayed without an image. It can be retrieved by signed-in users of the app so that household members can identify one another in the shared shopping list; it is not publicly accessible. Product photos belong to the shared product database and show goods, not persons. Each file is limited to 5 MB.
+
+•   Processed data types: Content data (e.g., text or image messages and contributions along with related information, such as authorship or time of creation).
+•   Data subjects: Users (e.g., website visitors, users of online services).
+•   Purposes of processing: Provision of contractual services and fulfillment of contractual obligations; provision of our online offering and user-friendliness.
+•   Retention and deletion: The profile picture is removed when the user account is deleted. Product photos are retained because they belong to the household's shared product database and continue to be used by its other members; they carry no reference to an individual person. Uploading again for the same product replaces the existing file.
+•   Legal basis: Performance of a contract and prior requests (Article 6(1)(b) GDPR).
+
+Further information on processing operations, procedures and services:
+•   Firebase Storage: Storage of image files that users place in the app; service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; legal basis: Performance of a contract and prior requests (Article 6(1)(b) GDPR); website: https://firebase.google.com; privacy policy: https://policies.google.com/privacy; data processing agreement: https://cloud.google.com/terms/data-processing-addendum; basis for third-country transfers: Data Privacy Framework (DPF).
+
 ### Single Sign-On Login
 "Single Sign-On" or "Single Sign-On Login" or "Authentication" refers to procedures that allow users to log in using a user account with a provider of Single Sign-On procedures (e.g., a social network), also to our online offer. A prerequisite for Single Sign-On authentication is that the users are registered with the respective Single Sign-On provider and enter the required access data in the online form provided for this purpose, or are already logged in with the Single Sign-On provider and confirm the Single Sign-On login via a button. Authentication takes place directly with the respective Single Sign-On provider. In the context of such authentication, we receive a user ID with the information that the user is logged in under this user ID with the respective Single Sign-On provider and an ID that is not further usable for us for other purposes (so-called "User Handle"). Whether additional data is transmitted to us depends solely on the Single Sign-On procedure used, on the selected data releases in the context of authentication and also on which data users have released in the privacy or other settings of the user account with the Single Sign-On provider. Depending on the Single Sign-On provider and the choice of users, it can be various data, usually it is the email address and the username. The password entered with the Single Sign-On provider in the context of the Single Sign-On procedure is neither visible to us nor is it stored by us. Users are asked to note that their information stored with us can be automatically matched with their user account with the Single Sign-On provider, but this is not always possible or actually takes place. If, for example, the email addresses of the users change, they must change them manually in their user account with us. We can use the Single Sign-On login, if agreed with the users, in the context of or before the fulfillment of the contract, insofar as the users were asked for it, process it in the context of a consent and otherwise use it based on our legitimate interests and the interests of the users in an effective and secure login system. Should users decide once that they no longer want to use the linking of their user account with the Single Sign-On provider for the Single Sign-On procedure, they must cancel this connection within their user account with the Single Sign-On provider. If users want to delete their data with us, they must terminate their registration with us.
 •   Processed data types: Inventory data (e.g., full name, residential address, contact information, customer number, etc.); contact data (e.g., postal and email addresses or telephone numbers); usage data (e.g., page views and duration of stay, click paths, intensity and frequency of use, types of devices and operating systems used, interactions with content and functions). Meta, communication and procedural data (e.g., IP addresses, times, identification numbers, persons involved).
@@ -224,6 +240,30 @@ We use services, platforms and software from other providers (hereinafter referr
 •   Purposes of processing and legitimate interests: Provision of contractual services and fulfillment of contractual obligations. Office and organizational procedures.
 •   Storage and deletion: Deletion according to information in the section "General Information on Data Storage and Deletion".
 •   Legal bases: Legitimate interests (Art. 6 (1) (f) GDPR).
+
+---
+
+### Presence in Social Networks (Social Media)
+We maintain profiles on social networks in order to provide information about our app there and to communicate with interested persons. In doing so, users' data is regularly also processed outside the European Union. This may entail risks for users, for example because the enforcement of their rights may be made more difficult.
+
+Within social networks, users' data is generally also processed for market research and advertising purposes. Usage profiles may be created on the basis of usage behaviour, which in turn serve to display advertisements inside and outside the networks. For these purposes, cookies are usually stored on users' devices. If users are members of the respective platform and logged in there, data may additionally be combined across devices.
+
+We have neither influence over nor access to this processing. For details and for objection options, we refer to the privacy notices of the respective providers. Requests for information and other data subject rights can also be asserted most effectively there, because only the providers have access to the data. Should you need assistance with this, please feel free to contact us.
+
+**Joint controllership with Meta:** For the collection and transmission of the data underlying the page and profile statistics ("Insights") of our Facebook page and our Instagram profile, we are jointly responsible together with Meta (Art. 26 GDPR; CJEU, judgment of 05 June 2018, C-210/16). Meta has set out the essential content of this arrangement in the "Page Insights Addendum". We receive only aggregated statistics and cannot identify individual visitors; the actual processing is carried out by Meta. You may also assert your data subject rights vis-à-vis us, in which case we will forward them.
+
+•   Types of processed data: Contact data (e.g. email, telephone numbers); Content data (e.g. textual or pictorial messages and posts); Usage data (e.g. page views and time spent, interactions with content and functions); Meta, communication and procedural data (e.g. IP addresses, timestamps, identification numbers).
+•   Data subjects: Users (e.g. website visitors, users of online services). Communication partners.
+•   Purposes of processing and legitimate interests: Communication with interested persons. Public relations and information about our app. Reach measurement.
+•   Storage and deletion: The storage period is determined by the respective provider's specifications, over which we have no influence. For messages that reach us via the networks, the information in the section "General Information on Data Storage and Deletion" applies.
+•   Legal bases: Legitimate interests (Art. 6 (1) sentence 1 lit. f) GDPR).
+•   Right to object: You may object at any time, pursuant to Art. 21 GDPR, to processing that is based on legitimate interests.
+
+Networks used by us:
+
+•   Facebook and Instagram; Service provider: Meta Platforms Ireland Limited, Dublin, Ireland; Privacy policy: https://www.facebook.com/privacy/policy/; Page Insights Addendum: https://www.facebook.com/legal/terms/page_controller_addendum.
+•   TikTok; Service provider: TikTok Technology Limited, Dublin, Ireland; Privacy policy: https://www.tiktok.com/legal/privacy-policy.
+•   YouTube; Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; Privacy policy: https://policies.google.com/privacy.
 
 ---
 

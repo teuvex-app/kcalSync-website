@@ -15,11 +15,13 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 •   Geschäftliche Leistungen
 •   Bereitstellung des Onlineangebots und Webhosting
 •   Registrierung, Anmeldung und Nutzerkonto
+•   Bilder in der App: Profilbild und Produktfotos
 •   Single-Sign-On-Anmeldung
 •   Kontakt- und Anfrageverwaltung
 •   Schriftarten in App und Website
 •   Speicherung auf Ihrem Endgerät
 •   Management, Organisation und Hilfswerkzeuge
+•   Präsenzen in sozialen Netzwerken (Social Media)
 •   Änderung und Aktualisierung
 •   Begriffsdefinitionen
 
@@ -175,6 +177,20 @@ Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
 •   Löschung von Daten nach Kündigung: Wenn Nutzer ihr Nutzerkonto gekündigt haben, werden deren Daten im Hinblick auf das Nutzerkonto, vorbehaltlich einer gesetzlichen Erlaubnis, Pflicht oder Einwilligung der Nutzer, gelöscht; Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
 •   Keine Aufbewahrungspflicht für Daten: Es obliegt den Nutzern, ihre Daten bei erfolgter Kündigung vor dem Vertragsende zu sichern. Wir sind berechtigt, sämtliche während der Vertragsdauer gespeicherte Daten des Nutzers unwiederbringlich zu löschen; Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
 
+### Bilder in der App: Profilbild und Produktfotos
+Nutzer können in der App ein **Profilbild** hinterlegen und **Fotos von Produkten** aufnehmen. Diese Bilder werden bei unserem Hosting-Anbieter gespeichert, damit sie auf allen Geräten des Nutzers und – im Fall des Profilbilds – den übrigen Mitgliedern des geteilten Haushalts zur Verfügung stehen. Bis zum 25. September 2026 verließ kein Bild das Gerät, auf dem es ausgewählt wurde; seither werden die Bilder tatsächlich übertragen.
+
+Das Profilbild ist **freiwillig**. Wer keines hinterlegt, wird ohne Bild angezeigt. Es ist für angemeldete Nutzer der App abrufbar, damit Haushaltsmitglieder einander in der gemeinsamen Einkaufsliste zuordnen können; öffentlich zugänglich ist es nicht. Produktfotos gehören zur gemeinsam genutzten Produktdatenbank und zeigen Waren, nicht Personen. Jede Datei ist auf 5 MB begrenzt.
+
+•   Verarbeitete Datenarten: Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge sowie die sie betreffenden Informationen, wie z. B. Angaben zur Autorenschaft oder Zeitpunkt der Erstellung).
+•   Betroffene Personen: Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten).
+•   Zwecke der Verarbeitung: Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten; Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+•   Aufbewahrung und Löschung: Das Profilbild wird mit der Löschung des Nutzerkontos entfernt. Produktfotos bleiben erhalten, da sie der gemeinsamen Produktdatenbank des Haushalts zugeordnet sind und von den übrigen Mitgliedern weiter genutzt werden; sie tragen keinen Bezug zu einer einzelnen Person. Ein erneutes Hochladen für dasselbe Produkt ersetzt die vorhandene Datei.
+•   Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO).
+
+Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten:
+•   Firebase Storage: Speicherung von Bilddateien, die Nutzer in der App hinterlegen; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO); Website: https://firebase.google.com; Datenschutzerklärung: https://policies.google.com/privacy; Auftragsverarbeitungsvertrag: https://cloud.google.com/terms/data-processing-addendum; Grundlage Drittlandtransfers: Data Privacy Framework (DPF).
+
 ### Single-Sign-On-Anmeldung
 Als "Single-Sign-On" oder "Single-Sign-On-Anmeldung bzw. "-Authentifizierung" werden Verfahren bezeichnet, die es Nutzern erlauben, sich mit Hilfe eines Nutzerkontos bei einem Anbieter von Single-Sign-On-Verfahren (z. B. einem sozialen Netzwerk), auch bei unserem Onlineangebot, anzumelden. Voraussetzung der Single-Sign-On-Authentifizierung ist, dass die Nutzer bei dem jeweiligen Single-Sign-On-Anbieter registriert sind und die erforderlichen Zugangsdaten in dem dafür vorgesehenen Onlineformular eingeben, bzw. schon bei dem Single-Sign-On-Anbieter angemeldet sind und die Single-Sign-On-Anmeldung via Schaltfläche bestätigen. Die Authentifizierung erfolgt direkt bei dem jeweiligen Single-Sign-On-Anbieter. Im Rahmen einer solchen Authentifizierung erhalten wir eine Nutzer-ID mit der Information, dass der Nutzer unter dieser Nutzer-ID beim jeweiligen Single-Sign-On-Anbieter eingeloggt ist und eine für uns für andere Zwecke nicht weiter nutzbare ID (sog "User Handle"). Ob uns zusätzliche Daten übermittelt werden, hängt allein von dem genutzten Single-Sign-On-Verfahren ab, von den gewählten Datenfreigaben im Rahmen der Authentifizierung und zudem davon, welche Daten Nutzer in den Privatsphäre- oder sonstigen Einstellungen des Nutzerkontos beim Single-Sign-On-Anbieter freigegeben haben. Es können je nach Single-Sign-On-Anbieter und der Wahl der Nutzer verschiedene Daten sein, in der Regel sind es die E-Mail-Adresse und der Benutzername. Das im Rahmen des Single-Sign-On-Verfahrens eingegebene Passwort bei dem Single-Sign-On-Anbieter ist für uns weder einsehbar, noch wird es von uns gespeichert. Die Nutzer werden gebeten, zu beachten, dass deren bei uns gespeicherte Angaben automatisch mit ihrem Nutzerkonto beim Single-Sign-On-Anbieter abgeglichen werden können, dies jedoch nicht immer möglich ist oder tatsächlich erfolgt. Ändern sich z. B. die E-Mail-Adressen der Nutzer, müssen sie diese manuell in ihrem Nutzerkonto bei uns ändern. Die Single-Sign-On-Anmeldung können wir, sofern mit den Nutzern vereinbart, im Rahmen der oder vor der Vertragserfüllung einsetzen, soweit die Nutzer darum gebeten wurden, im Rahmen einer Einwilligung verarbeiten und setzen sie ansonsten auf Grundlage der berechtigten Interessen unsererseits und der Interessen der Nutzer an einem effektiven und sicheren Anmeldesystem ein. Sollten Nutzer sich einmal entscheiden, die Verknüpfung ihres Nutzerkontos beim Single-Sign-On-Anbieter nicht mehr für das Single-Sign-On-Verfahren nutzen zu wollen, müssen sie diese Verbindung innerhalb ihres Nutzerkontos beim Single-Sign-On-Anbieter aufheben. Möchten Nutzer deren Daten bei uns löschen, müssen sie ihre Registrierung bei uns kündigen.
 •   Verarbeitete Datenarten: Bestandsdaten (z. B. der vollständige Name, Wohnadresse, Kontaktinformationen, Kundennummer, etc.); Kontaktdaten (z. B. Post- und E-Mail-Adressen oder Telefonnummern); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, klickpfade, Nutzungsintensität und -frequenz, verwendete Gerätetypen und Betriebssysteme, Interaktionen mit Inhalten und Funktionen). Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, beteiligte Personen).
@@ -224,6 +240,30 @@ Wir setzen Dienstleistungen, Plattformen und Software anderer Anbieter (nachfolg
 •   Zwecke der Verarbeitung und berechtigte Interessen: Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten. Büro- und Organisationsverfahren.
 •   Aufbewahrung und Löschung: Löschung entsprechend Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
 •   Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+
+---
+
+### Präsenzen in sozialen Netzwerken (Social Media)
+Wir unterhalten Profile in sozialen Netzwerken, um dort über unsere App zu informieren und mit interessierten Personen zu kommunizieren. Die Daten der Nutzer werden dabei regelmäßig auch außerhalb der Europäischen Union verarbeitet. Hierdurch können sich für die Nutzer Risiken ergeben, weil etwa die Durchsetzung ihrer Rechte erschwert werden kann.
+
+Innerhalb sozialer Netzwerke werden die Daten der Nutzer im Regelfall zusätzlich für Marktforschungs- und Werbezwecke verarbeitet. So können anhand des Nutzungsverhaltens Nutzungsprofile erstellt werden, die wiederum der Schaltung von Werbeanzeigen innerhalb und außerhalb der Netzwerke dienen. Zu diesen Zwecken werden in der Regel Cookies auf den Geräten der Nutzer gespeichert. Sind die Nutzer Mitglieder der jeweiligen Plattform und dort angemeldet, können die Daten zudem geräteübergreifend zusammengeführt werden.
+
+Auf diese Verarbeitungen haben wir weder Einfluss noch Zugriff. Für die Einzelheiten und für Widerspruchsmöglichkeiten verweisen wir auf die Datenschutzhinweise der jeweiligen Anbieter. Auch Auskunftsanfragen und andere Betroffenenrechte lassen sich dort am wirksamsten geltend machen, weil allein die Anbieter Zugriff auf die Daten haben. Sollten Sie dabei Hilfe benötigen, wenden Sie sich gern an uns.
+
+**Gemeinsame Verantwortlichkeit mit Meta:** Für die Erhebung und Übermittlung der Daten, die den Seiten- und Profilstatistiken ("Insights") unserer Facebook-Seite und unseres Instagram-Profils zugrunde liegen, sind wir gemeinsam mit Meta verantwortlich (Art. 26 DSGVO; EuGH, Urteil vom 05.06.2018, C-210/16). Die wesentlichen Inhalte dieser Vereinbarung hat Meta in der "Seiten-Insights-Ergänzung" festgehalten. Wir erhalten dabei ausschließlich zusammengefasste Statistiken und können einzelne Besucher nicht identifizieren; die eigentliche Verarbeitung nimmt Meta vor. Sie können Ihre Betroffenenrechte auch uns gegenüber geltend machen, wir leiten sie dann weiter.
+
+•   Verarbeitete Datenarten: Kontaktdaten (z. B. E-Mail, Telefonnummern); Inhaltsdaten (z. B. textliche oder bildliche Nachrichten und Beiträge); Nutzungsdaten (z. B. Seitenaufrufe und Verweildauer, Interaktionen mit Inhalten und Funktionen); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern).
+•   Betroffene Personen: Nutzer (z. B. Webseitenbesucher, Nutzer von Onlinediensten). Kommunikationspartner.
+•   Zwecke der Verarbeitung und berechtigte Interessen: Kommunikation mit interessierten Personen. Öffentlichkeitsarbeit und Information über unsere App. Reichweitenmessung.
+•   Aufbewahrung und Löschung: Die Speicherdauer richtet sich nach den Vorgaben des jeweiligen Anbieters; auf sie haben wir keinen Einfluss. Für Nachrichten, die uns über die Netzwerke erreichen, gelten die Angaben im Abschnitt "Allgemeine Informationen zur Datenspeicherung und Löschung".
+•   Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
+•   Widerspruchsrecht: Sie können der Verarbeitung, die auf berechtigten Interessen beruht, jederzeit nach Art. 21 DSGVO widersprechen.
+
+Von uns genutzte Netzwerke:
+
+•   Facebook und Instagram; Dienstanbieter: Meta Platforms Ireland Limited, Dublin, Irland; Datenschutzerklärung: https://www.facebook.com/privacy/policy/; Seiten-Insights-Ergänzung: https://www.facebook.com/legal/terms/page_controller_addendum.
+•   TikTok; Dienstanbieter: TikTok Technology Limited, Dublin, Irland; Datenschutzerklärung: https://www.tiktok.com/legal/privacy-policy.
+•   YouTube; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; Datenschutzerklärung: https://policies.google.com/privacy.
 
 ---
 
