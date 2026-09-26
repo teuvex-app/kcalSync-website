@@ -2,7 +2,7 @@
 
 ## 1. Was unterscheidet KcalSync von anderen Kalorienzähl-Apps?
 
-KcalSync vereint Kalorientracking, intelligente KI-Funktionen, eine automatische Nährwertanalyse per Foto, smarte Einkaufslisten und einen Familienmodus in einer einzigen App. Mit nur einem Premium-Abo können bis zu fünf Familienmitglieder die Premium-Funktionen gemeinsam nutzen. So musst du nicht mehrere Apps verwenden – alles ist an einem Ort.
+KcalSync vereint Kalorientracking, intelligente KI-Funktionen, eine automatische Nährwertanalyse per Foto, smarte Einkaufslisten und einen Familienmodus in einer einzigen App. Mit nur einem Premium-Abo können bis zu fünf Personen im Haushalt die Premium-Funktionen gemeinsam nutzen, der Zahler eingerechnet. So musst du nicht mehrere Apps verwenden – alles ist an einem Ort.
 
 ## 2. Ist KcalSync kostenlos nutzbar?
 
@@ -17,7 +17,7 @@ Ja. KcalSync kann dauerhaft kostenlos genutzt werden. Zu den kostenlosen Funktio
 Mit KcalSync Premium erhältst du zusätzlich:
 
 - KI-Pro-Modus mit höherer Analysegenauigkeit
-- Unbegrenzte KI-Scans
+- 80 KI-Scans pro Tag (kostenlos: 5)
 - Beleg-Scanner
 - Rezept-Extraktor
 - KI-Einkaufszettel
