@@ -30,11 +30,20 @@ We will act on your request without undue delay and at the latest within one mon
 
 ### Delete only the data and keep the account
 
-If you would like to keep your account but start over, you can: in the app under **Settings → Danger zone → Delete all app data**.
+If you would like to keep your account but start fresh, you can do so in part: in the app under **Settings → Danger zone → Delete all app data**.
 
-This deletes your nutrition diary, your recipes, shopping lists and settings — both on the device and in the cloud. Your account, your sign-in, your Premium status and your household membership are kept.
+This takes effect **on that device only**. Permanently deleted are your nutrition diary, your weight history, your pantry, the store products you entered and your settings — this data exists on the device alone.
 
-This cannot be undone either.
+Not deleted:
+
+-   **Shopping lists and recipes.** They belong to the entire household and are stored in the cloud. They reappear after a short while because the app reloads them from there. This is deliberate: otherwise a single device would remove the lists of every household member.
+-   **Your profile** (age, weight, height, gender) and your **Premium status**. Both are stored in the cloud and are restored the next time they are loaded.
+-   **Your account, your sign-in and your household membership.**
+-   **Your community posts and your profile picture.**
+
+If you really want to delete everything, use **Delete account permanently** in the app, or the form further up this page.
+
+The data deleted on the device cannot be recovered.
 
 ### What is deleted
 
