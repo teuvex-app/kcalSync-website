@@ -352,11 +352,14 @@ Since you store body weight, height, age, sex, calories and nutrition data in th
 
 We therefore process this data exclusively on the basis of your explicit consent under Art. 9 (2) (a) GDPR. We obtain that consent through a dedicated confirmation box, kept separate from your acceptance of the terms of use, which states which data is involved and what it is used for. The app cannot be used without this confirmation, because recording nutrition and body data is its very purpose.
 
-The same applies to the AI features: where your nutrition entries or photos you take are transmitted to Google Gemini for analysis, that transfer likewise relies on your explicit consent under Art. 9 (2) (a) GDPR.
+For the AI features we obtain a **separate** consent. Where your nutrition entries or photos you take are transmitted to Google Gemini for analysis, that transfer relies on your explicit consent under Art. 9 (2) (a) GDPR. This consent is **optional**: you can use all of KcalSync without giving it. In that case the photo scan, receipt scanner, voice assistant, recipe extractor, AI shopping list and offer recognition stay switched off, and nothing is transmitted to Google Gemini. We keep the two consents separate because the AI features are not necessary in order to use the app: a consent tied to usability although it is not needed for it would not be freely given (Art. 7 (4) GDPR).
 
 We record the time and the version of the consent in order to meet our accountability obligation under Art. 5 (2) GDPR. If we change the substance of the consent text, we ask again.
 
-**Withdrawal:** You can withdraw your consent at any time, in the app under **Settings → Health data consent**. Withdrawing is as easy as giving consent and takes effect for the future; processing carried out beforehand remains lawful. Since we may no longer process health data without your consent, and the app serves no purpose without that processing, withdrawal also results in the deletion of your account and your stored data. We point this out to you before you withdraw.
+**Withdrawal:** You can withdraw either consent at any time, in the app under **Settings → Service & Legal**. Withdrawing is as easy as giving consent and takes effect for the future; processing carried out beforehand remains lawful. The consequences differ:
+
+•   **Health data consent.** Since we may no longer process health data without it, and the app serves no purpose without that processing, withdrawal also results in the deletion of your account and your stored data. We point this out to you before you withdraw.
+•   **AI features (Google Gemini).** Withdrawal switches off the transfer alone. Your account, your data and every other function remain unaffected; you can give the consent again at the same place at any time.
 
 ### Permissions & Native Frameworks (iOS & Android)
 •   **Camera:** Access is used exclusively for scanning food barcodes and optional photos for AI meal analysis.
