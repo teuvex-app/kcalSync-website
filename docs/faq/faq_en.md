@@ -42,9 +42,19 @@ You can contact our support team anytime using the **Feedback** option in the ap
 
 Your Premium subscription is managed directly through the Google Play Store. Open the **"Subscriptions"** section in Google Play to change or cancel your subscription at any time.
 
+**Free trial:** Premium can be tried free of charge once, for **10 days**. The trial ends automatically after 10 days and does not turn into a paid subscription – there are no costs, and there is nothing to cancel. The trial is available once per account and once per device.
+
 ## 7. Are my personal data shared with other family members?
 
-No. Your personal data, such as calories, meals, weight, and nutrition statistics, always remain private. In Family Mode, only shared shopping lists are visible to invited family members.
+Not your personal data. Your nutrition diary, your calories, your weight and your nutrition statistics stay private – the database security rules permit access to them for your own account only, within a household too.
+
+What is shared in Family Mode:
+
+- the shared **shopping list**
+- the shared **recipes**
+- your **display name** and your **profile picture**, so the other members can tell who is who
+
+If you additionally share a product or a recipe with the **community**, that contribution is visible to all users of the app – not only to your household. The only author information shown is your display name, or "Anonym" where none is set. You decide for each contribution whether to share it with the community.
 
 
 ## 8. Can I scan food products using a barcode?

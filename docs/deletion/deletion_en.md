@@ -54,6 +54,8 @@ The data deleted on the device cannot be recovered.
 - Device data and the time of your last use
 - Your Premium entitlement record
 
+**Where this data is held.** Your account, your profile, your household membership and the Premium record are held in the cloud; we delete those in every case. Your nutrition diary, your weight history, your pantry and your settings, by contrast, exist on your device alone. If you delete your account **in the app**, they are removed along with it. If you use the **form at the top of this page**, we cannot reach them – they stay on your device until you uninstall the app.
+
 ### What happens to your household
 
 If you belong to a household, your membership is removed. The shared data — the family shopping list, for instance — remains available to the other members. If you were the household administrator, that role is passed on to another member automatically.

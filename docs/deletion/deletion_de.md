@@ -54,6 +54,8 @@ Die auf dem Gerät gelöschten Daten lassen sich nicht zurückholen.
 - Gerätedaten und der Zeitpunkt deiner letzten Nutzung
 - Dein Premium-Freischaltvermerk
 
+**Wo diese Daten liegen.** Konto, Profil, Haushaltszugehörigkeit und der Premium-Vermerk liegen in der Cloud; die löschen wir in jedem Fall. Dein Ernährungstagebuch, dein Gewichtsverlauf, deine Speisekammer und deine Einstellungen liegen dagegen allein auf deinem Gerät. Löschst du dein Konto **in der App**, werden sie dabei mitentfernt. Nutzt du das **Formular oben auf dieser Seite**, können wir sie nicht erreichen – sie bleiben auf deinem Gerät, bis du die App deinstallierst.
+
 ### Was mit deinem Haushalt passiert
 
 Gehörst du zu einem Haushalt, wird deine Mitgliedschaft entfernt. Die gemeinsamen Daten — etwa die Einkaufsliste der Familie — bleiben für die übrigen Mitglieder erhalten. Warst du der Verwalter des Haushalts, wird diese Rolle automatisch an ein anderes Mitglied übergeben.

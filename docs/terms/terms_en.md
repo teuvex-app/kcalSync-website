@@ -8,7 +8,9 @@ Use of KcalSync is restricted to persons aged 18 and over. The app is listed in 
 KcalSync provides tools to help users track their daily calorie and nutrient intake, manage shopping lists, and use AI-powered recipe suggestions. Important medical disclaimer KcalSync provides lifestyle and nutritional support, but is not a medical device and does not replace medical advice, nutritional advice or medical diagnosis. Before making drastic changes to your diet or exercise activities, you should consult a doctor or qualified nutritionist. 
 
 ### 4 Family Mode & Subscriptions
-With a Premium subscription, up to 4 additional family members in the same household can be invited (up to 5 premium accesses in total). Passing on access keys to third parties outside the household for commercial purposes is prohibited. 
+With a Premium subscription, up to 4 additional family members in the same household can be invited (up to 5 premium accesses in total). Passing on access keys to third parties outside the household for commercial purposes is prohibited.
+
+Premium can be tried free of charge once, for 10 days. The trial ends automatically after 10 days and does not turn into a paid subscription; no cancellation is required. The trial is available once per account and once per device. 
 
 ### 5 User obligations 
 Provide truthful information in the user profile. Do not distribute illegal content in shared shopping lists or recipe comments. Do not tamper with, decompile or otherwise reverse engineer the source code of the Application. 
@@ -42,6 +44,18 @@ Your data is synchronised across your devices and stored in the cloud. This does
 We may amend these Terms of Use where there is an objective reason to do so - for example a change in the law, a ruling by a higher court, new or discontinued features, or a change at an integrated service. We will inform you of any amendment at least 30 days before it takes effect, in the app or by email, pointing out the passages that have changed.
 
 If you do not agree with an amendment, you may object to it before it takes effect and terminate a running Premium subscription as of the date of the change. We do not treat mere silence as acceptance.
+
+### 11 Community content, notices and moderation
+
+If you share recipes or product entries with the community, we store and disseminate that content on your behalf. This makes us the provider of a hosting service within the meaning of Regulation (EU) 2022/2065 (Digital Services Act). The following rules follow from that.
+
+**What may not be shared.** Content that breaks the law or infringes the rights of others, in particular copyright, trade mark and personality rights; insulting, threatening or discriminatory content; advertising and spam; claims attributing a healing or alleviating effect to a food (§ 3 HWG); photographs in which people are recognisable, without their consent (§ 22 KUG).
+
+**How to report content (Art. 16 DSA).** Community recipes carry a report icon in the app. Independently of that, you can report any content by email to support@teuvex.de. Identify the contribution – by title where possible – and explain as precisely as you can why you consider it unlawful or in breach of these rules; Art. 16 (2) DSA requires a sufficiently substantiated explanation. We confirm receipt and inform you of our decision.
+
+**How we decide (Art. 17 DSA).** We examine every notice individually and by hand; we do not use automated means for this. If we remove a contribution or suspend an account, we tell the author the reason, name the legal provision or the rule in these terms we rely on, and point out that they may object by email to the same address. We then review the decision again.
+
+**What we do not provide.** We do not offer an internal complaint-handling system under Art. 20 DSA, out-of-court dispute settlement under Art. 21 DSA, trusted flaggers under Art. 22 DSA, or transparency reports under Art. 24 (1) and (2) DSA. Art. 19 DSA exempts micro and small enterprises from these obligations; KcalSync is operated by a sole trader. Your right to go to the courts or to the competent supervisory authority is unaffected.
 
 ### Applicable Law 
 The law of the Federal Republic of Germany applies to the extent permitted by law. If you are a consumer with your habitual residence in another country, mandatory consumer protection provisions of that country remain unaffected by this choice of law.

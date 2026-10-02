@@ -42,9 +42,19 @@ Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Eins
 
 Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffne im Google Play Store den Bereich **„Abonnements“**, um dein Abo jederzeit zu ändern oder zu kündigen.
 
+**Kostenlose Testphase:** Premium lässt sich einmalig **10 Tage** kostenlos testen. Die Testphase endet nach 10 Tagen automatisch und geht nicht in ein kostenpflichtiges Abonnement über – es entstehen keine Kosten, und du musst nichts kündigen. Der Test ist je Konto und je Gerät einmal möglich.
+
 ## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
 
-Nein. Persönliche Daten wie Kalorien, Mahlzeiten, Gewicht und Ernährungsstatistiken bleiben immer privat. Im Familienmodus werden ausschließlich gemeinsame Einkaufslisten mit den eingeladenen Familienmitgliedern geteilt.
+Deine persönlichen Daten nicht. Dein Ernährungstagebuch, deine Kalorien, dein Gewicht und deine Ernährungsstatistiken bleiben privat – die Sicherheitsregeln der Datenbank lassen den Zugriff darauf nur für dein eigenes Konto zu, auch innerhalb eines Haushalts.
+
+Geteilt werden im Familienmodus:
+
+- die gemeinsame **Einkaufsliste**
+- die gemeinsamen **Rezepte**
+- dein **Anzeigename** und dein **Profilbild**, damit die anderen Mitglieder sehen, wer wer ist
+
+Teilst du ein Produkt oder ein Rezept zusätzlich mit der **Community**, ist dieser Beitrag für alle Nutzer der App sichtbar – nicht nur für deinen Haushalt. Als Urheber erscheint dabei allein dein Anzeigename, ersatzweise „Anonym“. Ob du etwas mit der Community teilst, entscheidest du bei jedem Beitrag selbst.
 
 ## 8. Kann ich Lebensmittel auch per Barcode scannen?
 
