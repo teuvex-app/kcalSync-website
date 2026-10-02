@@ -6,23 +6,22 @@ KcalSync combines calorie tracking, AI-powered food recognition from photos, bar
 
 ## 2. Is KcalSync free to use?
 
-Yes. KcalSync can be used for free permanently. Free features include:
+Yes. The diary and all basic features stay free permanently:
 
 - Barcode scanner
-- Manual meal and water tracking
-- Shopping lists
-- Calorie tracking
-- Other core features
+- Entering meals and water by hand
+- Calorie and nutrient tracking
+- Shopping lists and recipes, shared within a household too
+- Pantry management
 
-KcalSync Premium also includes:
+The **AI features are part of Premium**. These are the plate scan, receipt scanner, fridge scan, recipe extractor, product recognition from a photo, recipe suggestions from your pantry, offer recognition, AI shopping list, activity estimation and the voice assistant. The reason is simple: every one of those analyses runs through a paid service that we pay for.
 
-- AI Pro Mode with enhanced analysis
-- 80 AI scans per day (free: 5)
-- Receipt scanner
-- Recipe extractor
-- AI shopping list scanner
-- Activity sync
-- Family Mode and additional premium features
+**KcalSync Premium** gives you:
+
+- **80 AI analyses per day.** A household shares at most 200 between them.
+- **One subscription for up to 5 people** in the same household – including you. Each member has their own 80 analyses a day.
+
+**To try it out:** Premium can be tried free of charge once, for 10 days, with all AI features and the full daily allowance. The trial ends automatically and does not turn into a paid subscription.
 
 ## 3. How does Family Mode work?
 

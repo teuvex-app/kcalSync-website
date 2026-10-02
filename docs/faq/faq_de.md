@@ -6,23 +6,22 @@ KcalSync vereint Kalorientracking, intelligente KI-Funktionen, eine automatische
 
 ## 2. Ist KcalSync kostenlos nutzbar?
 
-Ja. KcalSync kann dauerhaft kostenlos genutzt werden. Zu den kostenlosen Funktionen gehören unter anderem:
+Ja. Das Tagebuch und alle Grundfunktionen bleiben dauerhaft kostenlos:
 
 - Barcode-Scanner
-- Manuelles Erfassen von Mahlzeiten und Wasser
-- Einkaufslisten
-- Kalorientracking
-- Weitere Basisfunktionen
+- Mahlzeiten und Wasser von Hand erfassen
+- Kalorien- und Nährwerttracking
+- Einkaufslisten und Rezepte, auch gemeinsam im Haushalt
+- Vorratsverwaltung
 
-Mit KcalSync Premium erhältst du zusätzlich:
+Die **KI-Funktionen gehören zu Premium**. Dazu zählen Teller-Scan, Beleg-Scanner, Kühlschrank-Scan, Rezept-Extraktor, Produkterkennung per Foto, Rezeptvorschläge aus dem Vorrat, Angebotserkennung, KI-Einkaufszettel, Aktivitätsschätzung und der Sprachassistent. Der Grund ist einfach: Jede dieser Analysen läuft über einen kostenpflichtigen Dienst, den wir bezahlen.
 
-- KI-Pro-Modus mit höherer Analysegenauigkeit
-- 80 KI-Scans pro Tag (kostenlos: 5)
-- Beleg-Scanner
-- Rezept-Extraktor
-- KI-Einkaufszettel
-- Aktivitäten-Sync
-- Familienmodus und weitere Premium-Funktionen
+Mit **KcalSync Premium** bekommst du:
+
+- **80 KI-Analysen pro Tag.** Ein Haushalt teilt sich zusammen höchstens 200.
+- **Ein Abo für bis zu 5 Personen** im selben Haushalt – dich eingerechnet. Jedes Mitglied hat eigene 80 Analysen am Tag.
+
+**Zum Ausprobieren:** Premium lässt sich einmalig 10 Tage kostenlos testen, mit allen KI-Funktionen und dem vollen Tageskontingent. Die Testphase endet automatisch und geht nicht in ein kostenpflichtiges Abonnement über.
 
 ## 3. Wie funktioniert der Familienmodus?
 
