@@ -1735,11 +1735,11 @@ Die App fragt bei Google Play bzw. im App Store ab, ob die Vollversion gekauft w
 
 ### 7. Keine Werbung, keine Analyse
 
-Tsimply9 enthält keine Werbung, keine Analyse- oder Tracking-Werkzeuge und kein Benutzerkonto.
+Tsimply9 enthält keine Werbung, keine Analyse- oder Tracking-Werkzeuge und kein Benutzerkonto. Die App richtet sich an Personen ab 18 Jahren.
 
 ### 8. Ihre Rechte nach DSGVO
 
-Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten (Art. 15–18 DSGVO) sowie auf Widerspruch (Art. 21 DSGVO). Da die App Ihre Daten ausschließlich lokal auf Ihrem Gerät verarbeitet (Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO zur Bereitstellung der App-Funktionen), haben Sie die volle Kontrolle und können sie jederzeit löschen. Berechtigungen wie den Mikrofonzugriff können Sie jederzeit in den Systemeinstellungen widerrufen (Art. 6 Abs. 1 lit. a DSGVO).
+Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten (Art. 15–18 DSGVO) sowie auf Widerspruch (Art. 21 DSGVO). Da die App Ihre Eingaben und gespeicherten Daten ausschließlich lokal auf Ihrem Gerät verarbeitet (Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO zur Bereitstellung der App-Funktionen), haben Sie die volle Kontrolle und können sie jederzeit löschen. Lokal gespeicherte Daten bleiben erhalten, bis Sie sie löschen oder die App deinstallieren. Berechtigungen wie den Mikrofonzugriff können Sie jederzeit in den Systemeinstellungen widerrufen (Art. 6 Abs. 1 lit. a DSGVO).
 
 Zudem steht Ihnen ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde zu. Bei Fragen erreichen Sie uns unter [support@teuvex.de](mailto:support@teuvex.de).
 
@@ -1797,11 +1797,11 @@ The app asks Google Play or the App Store whether the full version has been purc
 
 ### 7. No Ads, No Analytics
 
-Tsimply9 contains no advertising, no analytics or tracking tools and no user account.
+Tsimply9 contains no advertising, no analytics or tracking tools and no user account. The app is intended for people aged 18 and over.
 
 ### 8. Your Rights Under GDPR
 
-You have the right to access, rectification, erasure and restriction of processing of your data (Art. 15–18 GDPR) and the right to object (Art. 21 GDPR). Since the app processes your data exclusively locally on your device (legal basis: Art. 6(1)(b) GDPR to provide the app's functions), you have full control and can delete it at any time. You can revoke permissions such as microphone access at any time in the system settings (Art. 6(1)(a) GDPR).
+You have the right to access, rectification, erasure and restriction of processing of your data (Art. 15–18 GDPR) and the right to object (Art. 21 GDPR). Since the app processes your input and stored data exclusively locally on your device (legal basis: Art. 6(1)(b) GDPR to provide the app's functions), you have full control and can delete it at any time. Locally stored data remains until you delete it or uninstall the app. You can revoke permissions such as microphone access at any time in the system settings (Art. 6(1)(a) GDPR).
 
 You also have the right to lodge a complaint with a data protection supervisory authority. For questions, contact us at [support@teuvex.de](mailto:support@teuvex.de).
 
