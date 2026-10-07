@@ -45,7 +45,7 @@ Your Premium subscription is managed directly through the Google Play Store. Ope
 
 ## 7. Are my personal data shared with other family members?
 
-Not your personal data. Your nutrition diary, your calories, your weight and your nutrition statistics stay private – the database security rules permit access to them for your own account only, within a household too.
+Not your personal data. Your nutrition diary, your body history and your calorie goals are stored only on your device and are shared with no one, not even within a household. Profile details such as your weight are stored in the cloud; the database security rules permit access to them for your own account only.
 
 What is shared in Family Mode:
 
@@ -67,6 +67,15 @@ Yes. In addition to AI meal recognition and barcode scanning, you can add foods 
 ## 10. Are new features added regularly?
 
 Yes. KcalSync is continuously being improved. We regularly release updates with new features, improvements, and bug fixes. User feedback plays an important role in shaping future updates.
+
+## 11. What happens to my diary when I switch phones?
+
+Your nutrition diary, your body history and your calorie goals are stored only on your device, not with us. Whether they are there again on a new device depends on your phone's backup.
+
+- **Android:** Your phone can back up the data to your Google account and restore it on the new device. This only works if backup is switched on in the system settings and you have set a screen lock (Android 9 and later). The backup runs about once a day; your most recent entries may be missing.
+- **iPhone:** We cannot promise that the data comes along. Please check your iCloud backup.
+
+Check the backup before you switch devices, remove the app or reset to factory settings. We cannot restore local data.
 
 
 

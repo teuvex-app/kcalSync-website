@@ -313,6 +313,13 @@ The step counts retrieved stay on your device. They are transmitted neither to u
 
 If you enter a sports activity manually and have the calorie consumption estimated, the name of the activity, its duration and your body weight are transmitted to Google Gemini for that purpose (see the section "Use of Google services (Firebase & Gemini)").
 
+**Locally Stored Data and Device Backup**
+Your nutrition diary, your body history and your calorie goals are stored exclusively on your device. They are not transmitted to our servers, and we can neither view nor restore them. They are deleted when you choose "Delete all app data" or "Delete account" in the app, and when you uninstall the app.
+
+On Android, your operating system can back up this data to a private folder in your Google account as part of its device backup (Android Auto Backup) and restore it on a new device. We have permitted this function in the app and limited it to one file that holds the data mentioned above and the app's settings. The backup only takes place if you have switched it on in your phone's system settings, and only with end-to-end encryption, which requires a screen lock (Android 9 and later); older devices are not backed up. We have no access to this backup. You control it in the system settings, where you can switch it off and delete it. Google stores only the most recent backup. Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; basis for third-country transfers: Data Privacy Framework (DPF), standard contractual clauses.
+
+On iOS, this data can be part of the device backup (iCloud or computer) that you control in your iPhone settings.
+
 **Collection of Device and Usage Data**
 In order to ensure the stability of the app, analyze technical errors (crash reports) and prevent abuse of the free trial phases, the app collects and stores the following data in our cloud database (Google Firebase):
 • Device data: Model name, manufacturer and a device identifier of your smartphone. This identifier is **not anonymous but pseudonymous** within the meaning of Art. 4 (5) GDPR: it does not contain your name, but it does recognise your device – which is precisely what prevents a free trial from being claimed more than once. Reading this information from your device is an access within the meaning of § 25 (1) TDDDG; we base it on § 25 (2) no. 2 TDDDG, because repeated claims cannot be detected without recognising the device.
@@ -328,6 +335,8 @@ The app is intended exclusively for persons aged 18 and over and is listed accor
 
 ### Processing of Health Data (Art. 9 GDPR)
 Since you store body weight, height, age, sex, calories and nutrition data in this app, we process health data within the meaning of Art. 9 (1) GDPR. For this category of data, a legitimate interest is not a sufficient legal basis.
+
+**Where this data is stored:** Your nutrition diary, body history and calorie goals are stored exclusively on your device (see "Locally Stored Data and Device Backup"). Your profile details (age, weight, height, sex) are stored in Google Firebase.
 
 We therefore process this data exclusively on the basis of your explicit consent under Art. 9 (2) (a) GDPR. We obtain that consent through a dedicated confirmation box, kept separate from your acceptance of the terms of use, which states which data is involved and what it is used for. The app cannot be used without this confirmation, because recording nutrition and body data is its very purpose.
 
@@ -350,7 +359,7 @@ We record the time and the version of the consent in order to meet our accountab
 When downloading the app via the Apple App Store (Apple Inc.) or Google Play Store (Google Ireland Ltd.), platform data is processed by the store operator according to their respective privacy policies.
 
 ### Account & Data Deletion
-You can delete your user account together with all associated stored data (such as profile details, nutrition logs, or household data) yourself at any time and without having to ask us: in the app under **Settings → Delete account**. For security reasons you will first be asked to confirm your identity again; your cloud data and your sign-in account are then removed permanently. The process cannot be undone.
+You can delete your user account together with all associated stored data (such as profile details or household data) yourself at any time and without having to ask us: in the app under **Settings → Delete account**. For security reasons you will first be asked to confirm your identity again; your cloud data and your sign-in account are then removed permanently. Your nutrition diary, body history and calorie goals, which exist on your device only, are deleted from this device as well. A device backup that has already been created is only replaced at the next backup. The process cannot be undone.
 
 Step-by-step instructions covering both routes are set out on the page [Delete your account and data](/konto-loeschen).
 

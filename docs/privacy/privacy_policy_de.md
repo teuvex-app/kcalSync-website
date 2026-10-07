@@ -313,6 +313,13 @@ Die abgerufenen Schrittzahlen bleiben auf Ihrem Gerät. Sie werden weder an uns 
 
 Tragen Sie eine sportliche Aktivität von Hand ein und lassen den Kalorienverbrauch schätzen, werden hierfür die Bezeichnung der Aktivität, die Dauer und Ihr Körpergewicht an Google Gemini übermittelt (siehe Abschnitt "Nutzung von Google-Diensten (Firebase & Gemini)").
 
+**Lokal gespeicherte Daten und Gerätesicherung**
+Ihr Ernährungstagebuch, Ihr Körperverlauf und Ihre Kalorienziele werden ausschließlich auf Ihrem Gerät gespeichert. Sie werden nicht an unsere Server übertragen; wir können sie weder einsehen noch wiederherstellen. Gelöscht werden sie, wenn Sie in der App „Alle App-Daten löschen“ oder „Konto löschen“ wählen und wenn Sie die App deinstallieren.
+
+Unter Android kann Ihr Betriebssystem diese Daten im Rahmen seiner Gerätesicherung (Android Auto Backup) in einem privaten Ordner Ihres Google-Kontos sichern und auf einem neuen Gerät zurückspielen. Wir haben diese Funktion in der App zugelassen und auf eine Datei beschränkt, in der die genannten Daten und die Einstellungen der App liegen. Die Sicherung findet nur statt, wenn Sie sie in den Systemeinstellungen Ihres Telefons eingeschaltet haben, und nur mit einer Ende-zu-Ende-Verschlüsselung, für die eine Bildschirmsperre gesetzt sein muss (Android 9 und neuer); auf älteren Geräten wird nicht gesichert. Wir haben auf diese Sicherung keinen Zugriff. Sie steuern sie in den Systemeinstellungen und können sie dort abschalten und löschen. Google speichert nur die jeweils letzte Sicherung. Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland; Grundlage Drittlandtransfers: Data Privacy Framework (DPF), Standardvertragsklauseln.
+
+Unter iOS können diese Daten Teil der Gerätesicherung (iCloud oder Computer) sein, die Sie in den Einstellungen Ihres iPhones steuern.
+
 **Erhebung von Geräte- und Nutzungsdaten**
 Um die Stabilität der App zu gewährleisten, technische Fehler (Crash-Reports) zu analysieren und einen Missbrauch der kostenlosen Testphasen zu verhindern, erhebt und speichert die App folgende Daten in unserer Cloud-Datenbank (Google Firebase):
 • Gerätedaten: Modellname, Hersteller und eine Gerätekennung Ihres Smartphones. Diese Kennung ist **nicht anonym, sondern pseudonym** im Sinne des Art. 4 Nr. 5 DSGVO: Sie enthält Ihren Namen nicht, erkennt Ihr Gerät aber wieder – genau darauf beruht die Abwehr des mehrfachen Bezugs einer kostenlosen Testphase. Das Auslesen dieser Angaben aus Ihrem Endgerät ist ein Zugriff im Sinne des § 25 Abs. 1 TDDDG; wir stützen ihn auf § 25 Abs. 2 Nr. 2 TDDDG, weil sich der Mehrfachbezug ohne Wiedererkennung des Geräts nicht feststellen lässt.
@@ -325,6 +332,8 @@ Diese Daten dienen ausschließlich der technischen Administration, der Fehlerbeh
 
 ### Verarbeitung von Gesundheitsdaten (Art. 9 DSGVO)
 Da Sie in dieser App Körpergewicht, Körpergröße, Alter, Geschlecht, Kalorien und Ernährungsdaten speichern, verarbeiten wir Gesundheitsdaten im Sinne des Art. 9 Abs. 1 DSGVO. Für diese Datenkategorie reicht ein berechtigtes Interesse als Rechtsgrundlage nicht aus.
+
+**Wo diese Daten liegen:** Ernährungstagebuch, Körperverlauf und Kalorienziele liegen ausschließlich auf Ihrem Gerät (siehe „Lokal gespeicherte Daten und Gerätesicherung“). Ihre Profilangaben (Alter, Gewicht, Größe, Geschlecht) werden in Google Firebase gespeichert.
 
 Wir verarbeiten diese Daten deshalb ausschließlich auf Grundlage Ihrer ausdrücklichen Einwilligung nach Art. 9 Abs. 2 lit. a DSGVO. Die Einwilligung holen wir mit einem eigenen Bestätigungsfeld ein, das getrennt von der Zustimmung zu den Nutzungsbedingungen steht und benennt, um welche Daten es geht und wozu sie verwendet werden. Ohne diese Bestätigung ist eine Nutzung der App nicht möglich, weil die Erfassung von Ernährungs- und Körperdaten ihr eigentlicher Zweck ist.
 
@@ -350,7 +359,7 @@ Die App richtet sich ausschließlich an Personen ab 18 Jahren und ist im Google 
 Beim Download der App über den Apple App Store (Apple Inc., Cupertino, USA) oder den Google Play Store (Google Ireland Limited) werden Daten durch den jeweiligen Store-Betreiber verarbeitet. Wir haben darauf keinen Einfluss und verweisen auf die Datenschutzbestimmungen von Apple bzw. Google.
 
 ### Konto- und Datenlöschung
-Sie können Ihr Benutzerkonto samt der zu Ihrer Person gespeicherten Daten (z. B. Profilangaben, Ernährungstagebuch oder Haushaltsdaten) jederzeit selbst und ohne Rückfrage löschen: in der App unter **Einstellungen → Konto löschen**. Aus Sicherheitsgründen bestätigen Sie dabei zunächst Ihre Identität erneut; anschließend werden die Cloud-Daten und das Anmeldekonto endgültig entfernt. Der Vorgang lässt sich nicht rückgängig machen.
+Sie können Ihr Benutzerkonto samt der zu Ihrer Person gespeicherten Daten (z. B. Profilangaben oder Haushaltsdaten) jederzeit selbst und ohne Rückfrage löschen: in der App unter **Einstellungen → Konto löschen**. Aus Sicherheitsgründen bestätigen Sie dabei zunächst Ihre Identität erneut; anschließend werden die Cloud-Daten und das Anmeldekonto endgültig entfernt. Ihr Ernährungstagebuch, Ihr Körperverlauf und Ihre Kalorienziele, die nur auf Ihrem Gerät liegen, werden dabei von diesem Gerät gelöscht. Eine bereits erstellte Gerätesicherung wird erst durch die nächste Sicherung ersetzt. Der Vorgang lässt sich nicht rückgängig machen.
 
 Eine ausführliche Anleitung mit beiden Wegen steht auf der Seite [Konto und Daten löschen](/konto-loeschen).
 

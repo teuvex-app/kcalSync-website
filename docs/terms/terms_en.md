@@ -37,7 +37,9 @@ Please also note the medical disclaimer in section 3: the values calculated in t
 
 ### 9 Data Backup
 
-Your data is synchronised across your devices and stored in the cloud. This does not replace a backup of your own. Before deleting your account you should save any data you wish to keep; once deleted, we cannot restore it.
+Your nutrition diary, your body history and your calorie goals are stored only on your device, not on our servers. Your account, profile, household and shared lists are stored in the cloud.
+
+Whether your local data survives a device change depends on your phone's backup. On Android this can happen through your Google backup; it only works if backup is switched on in the system settings and you have set a screen lock. We cannot promise that a backup exists or is up to date. Check this before you switch devices, remove the app or delete your account; after deletion we cannot restore local data.
 
 ### 10 Changes to These Terms
 

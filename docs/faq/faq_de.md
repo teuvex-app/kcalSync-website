@@ -45,7 +45,7 @@ Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffn
 
 ## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
 
-Deine persönlichen Daten nicht. Dein Ernährungstagebuch, deine Kalorien, dein Gewicht und deine Ernährungsstatistiken bleiben privat – die Sicherheitsregeln der Datenbank lassen den Zugriff darauf nur für dein eigenes Konto zu, auch innerhalb eines Haushalts.
+Deine persönlichen Daten nicht. Dein Ernährungstagebuch, dein Körperverlauf und deine Kalorienziele liegen nur auf deinem Gerät und werden mit niemandem geteilt, auch nicht innerhalb eines Haushalts. Profilangaben wie dein Gewicht liegen in der Cloud; die Sicherheitsregeln der Datenbank lassen den Zugriff darauf nur für dein eigenes Konto zu.
 
 Geteilt werden im Familienmodus:
 
@@ -66,6 +66,15 @@ Ja. Neben der KI-Erkennung und dem Barcode-Scanner kannst du Lebensmittel und Ma
 ## 10. Werden regelmäßig neue Funktionen hinzugefügt?
 
 Ja. KcalSync wird kontinuierlich weiterentwickelt. Wir veröffentlichen regelmäßig Updates mit neuen Funktionen, Verbesserungen und Fehlerbehebungen. Feedback unserer Nutzer fließt direkt in die Weiterentwicklung der App ein.
+
+## 11. Was passiert mit meinem Tagebuch, wenn ich das Handy wechsle?
+
+Dein Ernährungstagebuch, dein Körperverlauf und deine Kalorienziele liegen nur auf deinem Gerät, nicht bei uns. Ob sie auf einem neuen Gerät wieder da sind, hängt von der Sicherung deines Telefons ab.
+
+- **Android:** Dein Telefon kann die Daten in deinem Google-Konto sichern und auf dem neuen Gerät zurückspielen. Das klappt nur, wenn die Sicherung in den Systemeinstellungen eingeschaltet ist und du eine Bildschirmsperre gesetzt hast (ab Android 9). Die Sicherung läuft etwa einmal am Tag; die letzten Einträge können fehlen.
+- **iPhone:** Wir können nicht zusagen, dass die Daten mitkommen. Prüfe deine iCloud-Sicherung.
+
+Prüfe die Sicherung, bevor du das Gerät wechselst, die App entfernst oder auf Werkseinstellungen zurücksetzt. Wir können lokale Daten nicht wiederherstellen.
 
 
 

@@ -42,7 +42,9 @@ Bitte beachte außerdem den medizinischen Hinweis in Abschnitt 3: Die in der App
 
 ### 9 Datensicherung
 
-Deine Daten werden zwischen deinen Geräten synchronisiert und in der Cloud gespeichert. Das ersetzt keine eigene Sicherung. Vor einer Kontolöschung solltest du dir die Daten, die du behalten möchtest, selbst sichern; nach der Löschung können wir sie nicht wiederherstellen.
+Dein Ernährungstagebuch, dein Körperverlauf und deine Kalorienziele liegen nur auf deinem Gerät, nicht auf unseren Servern. Konto, Profil, Haushalt und gemeinsame Listen werden in der Cloud gespeichert.
+
+Ob deine lokalen Daten bei einem Gerätewechsel erhalten bleiben, hängt von der Sicherung deines Telefons ab. Auf Android kann sie über deine Google-Sicherung erfolgen; das funktioniert nur, wenn die Sicherung in den Systemeinstellungen eingeschaltet ist und du eine Bildschirmsperre gesetzt hast. Wir können dir nicht zusagen, dass eine Sicherung vorhanden oder aktuell ist. Prüfe das, bevor du dein Gerät wechselst, die App entfernst oder dein Konto löschst; nach einer Löschung können wir lokale Daten nicht wiederherstellen.
 
 ### 10 Änderungen dieser Bedingungen
 

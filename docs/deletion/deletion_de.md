@@ -43,7 +43,7 @@ Nicht gelöscht werden:
 
 Möchtest du wirklich alles löschen, nutze **Konto endgültig löschen** in der App oder das Formular weiter oben auf dieser Seite.
 
-Die auf dem Gerät gelöschten Daten lassen sich nicht zurückholen.
+Die auf dem Gerät gelöschten Daten lassen sich nicht zurückholen. Hast du die Gerätesicherung deines Telefons eingeschaltet, kann in deinem Google-Konto noch eine ältere Sicherung liegen; sie wird erst bei der nächsten Sicherung ersetzt. Wer direkt nach dem Löschen neu installiert, kann diesen älteren Stand zurückbekommen.
 
 ### Was gelöscht wird
 

@@ -43,7 +43,7 @@ Not deleted:
 
 If you really want to delete everything, use **Delete account permanently** in the app, or the form further up this page.
 
-The data deleted on the device cannot be recovered.
+The data deleted on the device cannot be recovered. If you have switched on your phone's device backup, an older backup may still exist in your Google account; it is only replaced at the next backup. If you reinstall right after deleting, you may get that older state back.
 
 ### What is deleted
 
