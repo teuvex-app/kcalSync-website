@@ -77,6 +77,27 @@ Your nutrition diary, your body history and your calorie goals are stored only o
 
 Check the backup before you switch devices, remove the app or reset to factory settings. We cannot restore local data.
 
+## 12. How can I back up my data?
+
+Your nutrition diary, body history and calorie goals are stored only on your device. You can back them up through your phone's backup. KcalSync currently has no export function of its own.
+
+**Android**
+
+1. Open your phone's system settings and look for **Backup**. Depending on the manufacturer it is under *System → Backup* or *Google → Backup*.
+2. Switch backup on. There you can usually also see when the last backup took place.
+3. Set a **screen lock** (PIN, pattern or password). Without it, Android does not back up KcalSync: the backup is end-to-end encrypted and uses your lock as the key. This applies from Android 9; older devices are not backed up.
+4. The backup runs about once a day, when the phone is on Wi-Fi and not in use. Your most recent entries before a switch may therefore be missing.
+
+**iPhone**
+
+Check in your iPhone settings that iCloud Backup is switched on. We cannot promise that your data comes along.
+
+**Good to know**
+
+- Google keeps only the most recent backup. It is not an archive.
+- We have no access to the backup and cannot restore your data for you.
+- After "Delete all app data" or "Delete account", an older backup remains until the next one replaces it.
+
 
 
 

@@ -76,6 +76,27 @@ Dein Ernährungstagebuch, dein Körperverlauf und deine Kalorienziele liegen nur
 
 Prüfe die Sicherung, bevor du das Gerät wechselst, die App entfernst oder auf Werkseinstellungen zurücksetzt. Wir können lokale Daten nicht wiederherstellen.
 
+## 12. Wie kann ich meine Daten sichern?
+
+Ernährungstagebuch, Körperverlauf und Kalorienziele liegen nur auf deinem Gerät. Sichern kannst du sie über die Sicherung deines Telefons. Eine eigene Export-Funktion gibt es in KcalSync derzeit nicht.
+
+**Android**
+
+1. Öffne die Systemeinstellungen deines Telefons und suche den Bereich **Sicherung**. Je nach Hersteller liegt er unter *System → Sicherung* oder *Google → Sicherung*.
+2. Schalte die Sicherung ein. Dort siehst du in der Regel auch, wann zuletzt gesichert wurde.
+3. Lege eine **Bildschirmsperre** fest (PIN, Muster oder Passwort). Ohne sie sichert Android KcalSync nicht: Die Sicherung ist Ende-zu-Ende verschlüsselt und nutzt deine Sperre als Schlüssel. Das gilt ab Android 9; auf älteren Geräten wird nichts gesichert.
+4. Die Sicherung läuft etwa einmal am Tag, wenn das Telefon im WLAN ist und gerade nicht benutzt wird. Die letzten Einträge vor einem Wechsel können deshalb fehlen.
+
+**iPhone**
+
+Prüfe in den iPhone-Einstellungen, ob die iCloud-Sicherung eingeschaltet ist. Wir können nicht zusagen, dass die Daten dabei mitkommen.
+
+**Gut zu wissen**
+
+- Google behält nur die jeweils letzte Sicherung. Sie ist kein Archiv.
+- Wir haben keinen Zugriff auf die Sicherung und können deine Daten nicht für dich wiederherstellen.
+- Nach „Alle App-Daten löschen“ oder „Konto löschen“ bleibt eine ältere Sicherung bestehen, bis die nächste sie ersetzt.
+
 
 
 
