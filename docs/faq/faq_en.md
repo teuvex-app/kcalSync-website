@@ -53,7 +53,7 @@ What is shared in Family Mode:
 - the shared **recipes**
 - your **display name** and your **profile picture**, so the other members can tell who is who
 
-If you additionally share a product or a recipe with the **community**, that contribution is visible to all users of the app – not only to your household. The only author information shown is your display name, or "Anonym" where none is set. You decide for each contribution whether to share it with the community.
+If you additionally share a product or a recipe with the **community**, that contribution is visible to all users of the app – not only to your household. The only author information shown is your display name, or "Anonym" where none is set. For products, your city is added if you have entered one in your profile, so that others can find prices from their area. We do not need a postal code. You decide for each contribution whether to share it with the community.
 
 
 ## 8. Can I scan food products using a barcode?

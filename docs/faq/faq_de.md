@@ -53,7 +53,7 @@ Geteilt werden im Familienmodus:
 - die gemeinsamen **Rezepte**
 - dein **Anzeigename** und dein **Profilbild**, damit die anderen Mitglieder sehen, wer wer ist
 
-Teilst du ein Produkt oder ein Rezept zusätzlich mit der **Community**, ist dieser Beitrag für alle Nutzer der App sichtbar – nicht nur für deinen Haushalt. Als Urheber erscheint dabei allein dein Anzeigename, ersatzweise „Anonym“. Ob du etwas mit der Community teilst, entscheidest du bei jedem Beitrag selbst.
+Teilst du ein Produkt oder ein Rezept zusätzlich mit der **Community**, ist dieser Beitrag für alle Nutzer der App sichtbar – nicht nur für deinen Haushalt. Als Urheber erscheint dabei allein dein Anzeigename, ersatzweise „Anonym“. Bei Produkten kommt deine Stadt dazu, wenn du sie im Profil eingetragen hast, damit andere Preise aus ihrer Gegend finden. Eine Postleitzahl brauchen wir nicht. Ob du etwas mit der Community teilst, entscheidest du bei jedem Beitrag selbst.
 
 ## 8. Kann ich Lebensmittel auch per Barcode scannen?
 
