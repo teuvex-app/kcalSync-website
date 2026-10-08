@@ -45,7 +45,7 @@ Your Premium subscription is managed directly through the Google Play Store. Ope
 
 ## 7. Are my personal data shared with other family members?
 
-Not your personal data. Your nutrition diary, your body history and your calorie goals are stored only on your device and are shared with no one, not even within a household. Profile details such as your weight are stored in the cloud; the database security rules permit access to them for your own account only.
+Not your personal data. Your nutrition diary, your body history and your calorie goals are stored only on your device and are shared with no one, not even within a household. Your profile with weight, height, sex, date of birth and diet style is also stored only on your device.
 
 What is shared in Family Mode:
 

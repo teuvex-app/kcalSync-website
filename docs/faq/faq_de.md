@@ -45,7 +45,7 @@ Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffn
 
 ## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
 
-Deine persönlichen Daten nicht. Dein Ernährungstagebuch, dein Körperverlauf und deine Kalorienziele liegen nur auf deinem Gerät und werden mit niemandem geteilt, auch nicht innerhalb eines Haushalts. Profilangaben wie dein Gewicht liegen in der Cloud; die Sicherheitsregeln der Datenbank lassen den Zugriff darauf nur für dein eigenes Konto zu.
+Deine persönlichen Daten nicht. Dein Ernährungstagebuch, dein Körperverlauf und deine Kalorienziele liegen nur auf deinem Gerät und werden mit niemandem geteilt, auch nicht innerhalb eines Haushalts. Auch dein Profil mit Gewicht, Größe, Geschlecht, Geburtsdatum und Ernährungsform liegt nur auf deinem Gerät.
 
 Geteilt werden im Familienmodus:
 

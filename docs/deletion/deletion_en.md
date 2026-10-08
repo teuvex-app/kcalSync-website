@@ -32,12 +32,12 @@ We will act on your request without undue delay and at the latest within one mon
 
 If you would like to keep your account but start fresh, you can do so in part: in the app under **Settings → Danger zone → Delete all app data**.
 
-This takes effect **on that device only**. Permanently deleted are your nutrition diary, your weight history, your pantry, the store products you entered and your settings — this data exists on the device alone.
+This takes effect **on that device only**. Permanently deleted are your nutrition diary, your weight history, your profile with age, weight, height and sex, your pantry, the store products you entered and your settings — this data exists on the device alone.
 
 Not deleted:
 
 -   **Shopping lists and recipes.** They belong to the entire household and are stored in the cloud. They reappear after a short while because the app reloads them from there. This is deliberate: otherwise a single device would remove the lists of every household member.
--   **Your profile** (age, weight, height, gender) and your **Premium status**. Both are stored in the cloud and are restored the next time they are loaded.
+-   **Your display name, your city** and your **Premium status**. They are stored in the cloud and are restored the next time they are loaded.
 -   **Your account, your sign-in and your household membership.**
 -   **Your community posts and your profile picture.**
 
@@ -48,13 +48,13 @@ The data deleted on the device cannot be recovered. If you have switched on your
 ### What is deleted
 
 - Your sign-in account and your email address
-- Your profile: age, sex, height, weight, goals
+- Your profile: display name, city (cloud) as well as age, sex, height, weight, goals (on your device only)
 - Your nutrition diary with every meal and nutritional value recorded
 - Your personal recipes, shopping lists and pantry data
 - Device data and the time of your last use
 - Your Premium entitlement record
 
-**Where this data is held.** Your account, your profile, your household membership and the Premium record are held in the cloud; we delete those in every case. Your nutrition diary, your weight history, your pantry and your settings, by contrast, exist on your device alone. If you delete your account **in the app**, they are removed along with it. If you use the **form at the top of this page**, we cannot reach them – they stay on your device until you uninstall the app.
+**Where this data is held.** Your account, your profile, your household membership and the Premium record are held in the cloud; we delete those in every case. Your nutrition diary, your weight history, your profile with age, weight, height and sex, your pantry and your settings, by contrast, exist on your device alone. If you delete your account **in the app**, they are removed along with it. If you use the **form at the top of this page**, we cannot reach them – they stay on your device until you uninstall the app.
 
 ### What happens to your household
 
