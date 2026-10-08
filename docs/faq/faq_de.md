@@ -41,7 +41,7 @@ Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Eins
 
 Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffne im Google Play Store den Bereich **„Abonnements“**, um dein Abo jederzeit zu ändern oder zu kündigen.
 
-**Kostenloses Probeabo:** Das Probeabo läuft über Google Play. Dauer und Preis danach zeigt dir der Store vor dem Abschluss an. Wenn du nicht möchtest, dass es in das bezahlte Abo übergeht, kündigst du im Play Store unter **„Abonnements“** vor Ablauf des Probezeitraums. Ob du teilnehmen darfst, entscheidet Google.
+**Kostenloses Probeabo:** Das Probeabo läuft über Google Play. Dauer und Preis danach zeigt dir der Store vor dem Abschluss an. Wenn du nicht möchtest, dass es in das bezahlte Abo übergeht, kündigst du im Play Store unter **„Abonnements“** vor Ablauf des Probezeitraums. Ob du teilnehmen darfst, entscheidet Google; dafür muss in deinem Google-Konto eine Zahlungsmethode hinterlegt sein.
 
 ## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
 

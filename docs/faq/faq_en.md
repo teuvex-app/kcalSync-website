@@ -41,7 +41,7 @@ You can contact our support team anytime using the **Feedback** option in the ap
 
 Your Premium subscription is managed directly through the Google Play Store. Open the **"Subscriptions"** section in Google Play to change or cancel your subscription at any time.
 
-**Free trial subscription:** The trial runs through Google Play. The store shows you the duration and the price afterwards before you subscribe. If you do not want it to turn into the paid subscription, cancel in the Play Store under **“Subscriptions”** before the trial period ends. Google decides whether you can take part.
+**Free trial subscription:** The trial runs through Google Play. The store shows you the duration and the price afterwards before you subscribe. If you do not want it to turn into the paid subscription, cancel in the Play Store under **“Subscriptions”** before the trial period ends. Google decides whether you can take part; a payment method must be stored in your Google account.
 
 ## 7. Are my personal data shared with other family members?
 
