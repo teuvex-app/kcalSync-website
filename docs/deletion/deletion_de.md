@@ -32,29 +32,29 @@ Wir bearbeiten deine Anfrage unverzüglich, spätestens innerhalb eines Monats (
 
 Möchtest du dein Konto behalten, aber neu anfangen, geht das teilweise: in der App unter **Einstellungen → Gefahrenzone → Alle App-Daten löschen**.
 
-Dieser Vorgang wirkt **nur auf dem Gerät**, auf dem du ihn auslöst. Endgültig gelöscht werden dein Ernährungstagebuch, dein Gewichtsverlauf, deine Speisekammer, deine erfassten Laden-Produkte und deine Einstellungen — diese Daten liegen ausschließlich auf dem Gerät.
+Dieser Vorgang wirkt **nur auf dem Gerät**, auf dem du ihn auslöst. Endgültig gelöscht werden dein Ernährungstagebuch, dein Gewichtsverlauf, dein Profil mit Alter, Gewicht, Größe und Geschlecht, deine Speisekammer, deine erfassten Laden-Produkte und deine Einstellungen — diese Daten liegen ausschließlich auf dem Gerät.
 
 Nicht gelöscht werden:
 
 -   **Einkaufslisten und Rezepte.** Sie gehören dem gesamten Haushalt und liegen in der Cloud. Sie erscheinen nach kurzer Zeit wieder, weil die App sie von dort nachlädt. Das ist Absicht: sonst würde ein einzelnes Gerät die Listen aller Haushaltsmitglieder entfernen.
--   **Dein Profil** (Alter, Gewicht, Größe, Geschlecht) und dein **Premium-Status**. Beides liegt in der Cloud und wird beim nächsten Laden wiederhergestellt.
+-   **Dein Anzeigename, deine Stadt** und dein **Premium-Status**. Sie liegen in der Cloud und werden beim nächsten Laden wiederhergestellt.
 -   **Dein Konto, deine Anmeldung und deine Haushaltszugehörigkeit.**
 -   **Deine Beiträge in der Community und dein Profilbild.**
 
 Möchtest du wirklich alles löschen, nutze **Konto endgültig löschen** in der App oder das Formular weiter oben auf dieser Seite.
 
-Die auf dem Gerät gelöschten Daten lassen sich nicht zurückholen.
+Die auf dem Gerät gelöschten Daten lassen sich nicht zurückholen. Hast du die Gerätesicherung deines Telefons eingeschaltet, kann in deinem Google-Konto noch eine ältere Sicherung liegen; sie wird erst bei der nächsten Sicherung ersetzt. Wer direkt nach dem Löschen neu installiert, kann diesen älteren Stand zurückbekommen.
 
 ### Was gelöscht wird
 
 - Dein Anmeldekonto und deine E-Mail-Adresse
-- Dein Profil: Alter, Geschlecht, Körpergröße, Gewicht, Ziele
+- Dein Profil: Anzeigename, Stadt (Cloud) sowie Alter, Geschlecht, Körpergröße, Gewicht, Ziele (nur auf deinem Gerät)
 - Dein Ernährungstagebuch mit allen erfassten Mahlzeiten und Nährwerten
 - Deine persönlichen Rezepte, Einkaufslisten und Vorratsdaten
 - Gerätedaten und der Zeitpunkt deiner letzten Nutzung
 - Dein Premium-Freischaltvermerk
 
-**Wo diese Daten liegen.** Konto, Profil, Haushaltszugehörigkeit und der Premium-Vermerk liegen in der Cloud; die löschen wir in jedem Fall. Dein Ernährungstagebuch, dein Gewichtsverlauf, deine Speisekammer und deine Einstellungen liegen dagegen allein auf deinem Gerät. Löschst du dein Konto **in der App**, werden sie dabei mitentfernt. Nutzt du das **Formular oben auf dieser Seite**, können wir sie nicht erreichen – sie bleiben auf deinem Gerät, bis du die App deinstallierst.
+**Wo diese Daten liegen.** Konto, Profil, Haushaltszugehörigkeit und der Premium-Vermerk liegen in der Cloud; die löschen wir in jedem Fall. Dein Ernährungstagebuch, dein Gewichtsverlauf, dein Profil mit Alter, Gewicht, Größe und Geschlecht, deine Speisekammer und deine Einstellungen liegen dagegen allein auf deinem Gerät. Löschst du dein Konto **in der App**, werden sie dabei mitentfernt. Nutzt du das **Formular oben auf dieser Seite**, können wir sie nicht erreichen – sie bleiben auf deinem Gerät, bis du die App deinstallierst.
 
 ### Was mit deinem Haushalt passiert
 

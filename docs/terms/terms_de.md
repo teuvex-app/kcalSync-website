@@ -13,7 +13,7 @@ KcalSync bietet Lifestyle- und Ernährungsunterstützung, ist jedoch kein Medizi
 ### 4 Familienmodus & Abonnements
 Mit einem Premium-Abonnement können bis zu 4 weitere Familienmitglieder im selben Haushalt eingeladen werden (insgesamt bis zu 5 Premium-Zugänge). Die Weitergabe von Zugangsschlüsseln an haushaltsfremde Dritte zu kommerziellen Zwecken ist untersagt.
 
-Premium kann einmalig 10 Tage kostenlos getestet werden. Die Testphase endet nach 10 Tagen automatisch und geht nicht in ein kostenpflichtiges Abonnement über; eine Kündigung ist dafür nicht erforderlich. Der Test ist je Konto und je Gerät einmal möglich.
+Zum Ausprobieren kann Google Play ein kostenloses Probeabo anbieten. Es wird über Google Play abgeschlossen und abgerechnet, nicht durch uns. Ob du daran teilnehmen kannst, entscheidet Google; die Dauer und den Preis nach dem Probezeitraum zeigt dir der Store vor dem Abschluss an. **Das Probeabo geht in das reguläre, kostenpflichtige Abonnement über, wenn du es nicht vor Ablauf des Probezeitraums im Google Play Store kündigst.**
 
 ### 5 Pflichten des Nutzers
 Angaben im Nutzerprofil wahrheitsgemäß machen.
@@ -42,7 +42,9 @@ Bitte beachte außerdem den medizinischen Hinweis in Abschnitt 3: Die in der App
 
 ### 9 Datensicherung
 
-Deine Daten werden zwischen deinen Geräten synchronisiert und in der Cloud gespeichert. Das ersetzt keine eigene Sicherung. Vor einer Kontolöschung solltest du dir die Daten, die du behalten möchtest, selbst sichern; nach der Löschung können wir sie nicht wiederherstellen.
+Dein Ernährungstagebuch, dein Körperverlauf und deine Kalorienziele liegen nur auf deinem Gerät, nicht auf unseren Servern. Konto, Profil, Haushalt und gemeinsame Listen werden in der Cloud gespeichert.
+
+Ob deine lokalen Daten bei einem Gerätewechsel erhalten bleiben, hängt von der Sicherung deines Telefons ab. Auf Android kann sie über deine Google-Sicherung erfolgen; das funktioniert nur, wenn die Sicherung in den Systemeinstellungen eingeschaltet ist und du eine Bildschirmsperre gesetzt hast. Wir können dir nicht zusagen, dass eine Sicherung vorhanden oder aktuell ist. Prüfe das, bevor du dein Gerät wechselst, die App entfernst oder dein Konto löschst; nach einer Löschung können wir lokale Daten nicht wiederherstellen.
 
 ### 10 Änderungen dieser Bedingungen
 

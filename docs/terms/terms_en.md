@@ -10,7 +10,7 @@ KcalSync provides tools to help users track their daily calorie and nutrient int
 ### 4 Family Mode & Subscriptions
 With a Premium subscription, up to 4 additional family members in the same household can be invited (up to 5 premium accesses in total). Passing on access keys to third parties outside the household for commercial purposes is prohibited.
 
-Premium can be tried free of charge once, for 10 days. The trial ends automatically after 10 days and does not turn into a paid subscription; no cancellation is required. The trial is available once per account and once per device. 
+To try it out, Google Play may offer a free trial subscription. It is taken out and billed through Google Play, not by us. Google decides whether you can take part; the store shows you the duration and the price after the trial before you subscribe. **The trial turns into the regular, paid subscription unless you cancel it in the Google Play Store before the trial period ends.**
 
 ### 5 User obligations 
 Provide truthful information in the user profile. Do not distribute illegal content in shared shopping lists or recipe comments. Do not tamper with, decompile or otherwise reverse engineer the source code of the Application. 
@@ -37,7 +37,9 @@ Please also note the medical disclaimer in section 3: the values calculated in t
 
 ### 9 Data Backup
 
-Your data is synchronised across your devices and stored in the cloud. This does not replace a backup of your own. Before deleting your account you should save any data you wish to keep; once deleted, we cannot restore it.
+Your nutrition diary, your body history and your calorie goals are stored only on your device, not on our servers. Your account, profile, household and shared lists are stored in the cloud.
+
+Whether your local data survives a device change depends on your phone's backup. On Android this can happen through your Google backup; it only works if backup is switched on in the system settings and you have set a screen lock. We cannot promise that a backup exists or is up to date. Check this before you switch devices, remove the app or delete your account; after deletion we cannot restore local data.
 
 ### 10 Changes to These Terms
 
