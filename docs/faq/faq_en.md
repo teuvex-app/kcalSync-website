@@ -21,7 +21,7 @@ The **AI features are part of Premium**. These are the plate scan, receipt scann
 - **80 AI analyses per day.** A household shares at most 200 between them.
 - **One subscription for up to 5 people** in the same household – including you. Each member has their own 80 analyses a day.
 
-**To try it out:** Premium can be tried free of charge once, for 10 days, with all AI features and the full daily allowance. The trial ends automatically and does not turn into a paid subscription.
+**To try it out:** As long as your Google account is eligible, Google Play offers a free trial subscription – with all AI features and the full daily allowance. It runs through Google Play and **turns into the regular subscription** unless you cancel in the Play Store before it ends.
 
 ## 3. How does Family Mode work?
 
@@ -41,7 +41,7 @@ You can contact our support team anytime using the **Feedback** option in the ap
 
 Your Premium subscription is managed directly through the Google Play Store. Open the **"Subscriptions"** section in Google Play to change or cancel your subscription at any time.
 
-**Free trial:** Premium can be tried free of charge once, for **10 days**. The trial ends automatically after 10 days and does not turn into a paid subscription – there are no costs, and there is nothing to cancel. The trial is available once per account and once per device.
+**Free trial subscription:** The trial runs through Google Play. The store shows you the duration and the price afterwards before you subscribe. If you do not want it to turn into the paid subscription, cancel in the Play Store under **“Subscriptions”** before the trial period ends. Google decides whether you can take part.
 
 ## 7. Are my personal data shared with other family members?
 

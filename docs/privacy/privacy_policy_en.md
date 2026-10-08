@@ -320,11 +320,12 @@ On Android, your operating system can back up this data to a private folder in y
 
 On iOS, this data can be part of the device backup (iCloud or computer) that you control in your iPhone settings.
 
-**Collection of Device and Usage Data**
-In order to ensure the stability of the app, analyze technical errors (crash reports) and prevent abuse of the free trial phases, the app collects and stores the following data in our cloud database (Google Firebase):
-• Device data: Model name, manufacturer and a device identifier of your smartphone. This identifier is **not anonymous but pseudonymous** within the meaning of Art. 4 (5) GDPR: it does not contain your name, but it does recognise your device – which is precisely what prevents a free trial from being claimed more than once. Reading this information from your device is an access within the meaning of § 25 (1) TDDDG; we base it on § 25 (2) no. 2 TDDDG, because repeated claims cannot be detected without recognising the device.
-• Activity data: The time of the last use of the app (Last Activity Timestamp).
-These data serve exclusively for technical administration, troubleshooting and the management of inactive user accounts (Art. 6 (1) (f) GDPR). There are no statutory deletion periods for this; we delete according to our own:
+**Collection of Usage Data**
+To manage inactive user accounts, the app stores the time of the last use of the app (Last Activity Timestamp) in our cloud database (Google Firebase). The app does not store a device identifier, the device name or the manufacturer of your phone there. (Crash reports: see the section on Firebase Crashlytics.)
+
+**Subscription and Free Trial**
+Purchase, free trial and billing run through Google Play. We do not receive payment data from Google but a proof of purchase (token). Our server queries it at Google to check whether and until when the subscription is valid, and stores the product ID, the proof of purchase and the expiry date with your account (Art. 6 (1) (b) GDPR). A proof of purchase can only be assigned to one account; when you delete the account, the assignment is removed. Google decides whether you receive a free trial; we receive no device identifier for this.
+The time of the last use serves exclusively to manage inactive user accounts (Art. 6 (1) (f) GDPR). There are no statutory deletion periods for this; we delete according to our own:
 
 •   Incomplete registrations: after 30 days.
 •   Accounts with no household membership: after 365 days without use.

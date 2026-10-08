@@ -21,7 +21,7 @@ Mit **KcalSync Premium** bekommst du:
 - **80 KI-Analysen pro Tag.** Ein Haushalt teilt sich zusammen höchstens 200.
 - **Ein Abo für bis zu 5 Personen** im selben Haushalt – dich eingerechnet. Jedes Mitglied hat eigene 80 Analysen am Tag.
 
-**Zum Ausprobieren:** Premium lässt sich einmalig 10 Tage kostenlos testen, mit allen KI-Funktionen und dem vollen Tageskontingent. Die Testphase endet automatisch und geht nicht in ein kostenpflichtiges Abonnement über.
+**Zum Ausprobieren:** Google Play bietet, solange dein Google-Konto teilnehmen darf, ein kostenloses Probeabo an – mit allen KI-Funktionen und dem vollen Tageskontingent. Es läuft über Google Play und **geht in das reguläre Abo über**, wenn du nicht vor Ablauf im Play Store kündigst.
 
 ## 3. Wie funktioniert der Familienmodus?
 
@@ -41,7 +41,7 @@ Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Eins
 
 Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffne im Google Play Store den Bereich **„Abonnements“**, um dein Abo jederzeit zu ändern oder zu kündigen.
 
-**Kostenlose Testphase:** Premium lässt sich einmalig **10 Tage** kostenlos testen. Die Testphase endet nach 10 Tagen automatisch und geht nicht in ein kostenpflichtiges Abonnement über – es entstehen keine Kosten, und du musst nichts kündigen. Der Test ist je Konto und je Gerät einmal möglich.
+**Kostenloses Probeabo:** Das Probeabo läuft über Google Play. Dauer und Preis danach zeigt dir der Store vor dem Abschluss an. Wenn du nicht möchtest, dass es in das bezahlte Abo übergeht, kündigst du im Play Store unter **„Abonnements“** vor Ablauf des Probezeitraums. Ob du teilnehmen darfst, entscheidet Google.
 
 ## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
 

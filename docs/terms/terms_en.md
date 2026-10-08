@@ -10,7 +10,7 @@ KcalSync provides tools to help users track their daily calorie and nutrient int
 ### 4 Family Mode & Subscriptions
 With a Premium subscription, up to 4 additional family members in the same household can be invited (up to 5 premium accesses in total). Passing on access keys to third parties outside the household for commercial purposes is prohibited.
 
-Premium can be tried free of charge once, for 10 days. The trial ends automatically after 10 days and does not turn into a paid subscription; no cancellation is required. The trial is available once per account and once per device. 
+To try it out, Google Play may offer a free trial subscription. It is taken out and billed through Google Play, not by us. Google decides whether you can take part; the store shows you the duration and the price after the trial before you subscribe. **The trial turns into the regular, paid subscription unless you cancel it in the Google Play Store before the trial period ends.**
 
 ### 5 User obligations 
 Provide truthful information in the user profile. Do not distribute illegal content in shared shopping lists or recipe comments. Do not tamper with, decompile or otherwise reverse engineer the source code of the Application. 

@@ -320,11 +320,12 @@ Unter Android kann Ihr Betriebssystem diese Daten im Rahmen seiner Gerätesicher
 
 Unter iOS können diese Daten Teil der Gerätesicherung (iCloud oder Computer) sein, die Sie in den Einstellungen Ihres iPhones steuern.
 
-**Erhebung von Geräte- und Nutzungsdaten**
-Um die Stabilität der App zu gewährleisten, technische Fehler (Crash-Reports) zu analysieren und einen Missbrauch der kostenlosen Testphasen zu verhindern, erhebt und speichert die App folgende Daten in unserer Cloud-Datenbank (Google Firebase):
-• Gerätedaten: Modellname, Hersteller und eine Gerätekennung Ihres Smartphones. Diese Kennung ist **nicht anonym, sondern pseudonym** im Sinne des Art. 4 Nr. 5 DSGVO: Sie enthält Ihren Namen nicht, erkennt Ihr Gerät aber wieder – genau darauf beruht die Abwehr des mehrfachen Bezugs einer kostenlosen Testphase. Das Auslesen dieser Angaben aus Ihrem Endgerät ist ein Zugriff im Sinne des § 25 Abs. 1 TDDDG; wir stützen ihn auf § 25 Abs. 2 Nr. 2 TDDDG, weil sich der Mehrfachbezug ohne Wiedererkennung des Geräts nicht feststellen lässt.
-• Aktivitätsdaten: Der Zeitpunkt der letzten Nutzung der App (Last Activity Timestamp).
-Diese Daten dienen ausschließlich der technischen Administration, der Fehlerbehebung und der Verwaltung inaktiver Benutzerkonten (Art. 6 Abs. 1 lit. f DSGVO). Gesetzliche Löschfristen bestehen hierfür nicht; wir löschen nach eigenen Fristen:
+**Erhebung von Nutzungsdaten**
+Zur Verwaltung inaktiver Benutzerkonten speichert die App in unserer Cloud-Datenbank (Google Firebase) den Zeitpunkt der letzten Nutzung der App (Last Activity Timestamp). Eine Gerätekennung, den Gerätenamen oder den Hersteller Ihres Telefons speichert die App dort nicht. (Absturzberichte: siehe Abschnitt zu Firebase Crashlytics.)
+
+**Abonnement und Probeabo**
+Kauf, Probeabo und Abrechnung laufen über Google Play. Wir erhalten von Google keine Zahlungsdaten, sondern einen Kaufnachweis (Token). Unser Server fragt ihn bei Google ab, um zu prüfen, ob und bis wann das Abonnement gilt, und speichert Produktkennung, Kaufnachweis und Ablaufdatum zu Ihrem Konto (Art. 6 Abs. 1 lit. b DSGVO). Ein Kaufnachweis lässt sich nur einem Konto zuordnen; beim Löschen des Kontos entfällt die Zuordnung. Ob Sie ein kostenloses Probeabo erhalten, entscheidet Google; wir erhalten dafür keine Gerätekennung.
+Der Zeitpunkt der letzten Nutzung dient ausschließlich der Verwaltung inaktiver Benutzerkonten (Art. 6 Abs. 1 lit. f DSGVO). Gesetzliche Löschfristen bestehen hierfür nicht; wir löschen nach eigenen Fristen:
 
 •   Unvollständige Registrierungen: nach 30 Tagen.
 •   Konten ohne Haushaltszugehörigkeit: nach 365 Tagen ohne Nutzung.
