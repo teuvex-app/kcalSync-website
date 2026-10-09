@@ -96,7 +96,7 @@ Check in your iPhone settings that iCloud Backup is switched on. We cannot promi
 
 - Google keeps only the most recent backup. It is not an archive.
 - We have no access to the backup and cannot restore your data for you.
-- After "Delete all app data" or "Delete account", an older backup remains until the next one replaces it.
+- After "Delete all app data" or "Delete account permanently", an older backup remains until the next one replaces it.
 
 
 

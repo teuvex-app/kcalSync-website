@@ -95,7 +95,7 @@ Prüfe in den iPhone-Einstellungen, ob die iCloud-Sicherung eingeschaltet ist. W
 
 - Google behält nur die jeweils letzte Sicherung. Sie ist kein Archiv.
 - Wir haben keinen Zugriff auf die Sicherung und können deine Daten nicht für dich wiederherstellen.
-- Nach „Alle App-Daten löschen“ oder „Konto löschen“ bleibt eine ältere Sicherung bestehen, bis die nächste sie ersetzt.
+- Nach „Alle App-Daten löschen“ oder „Konto endgültig löschen“ bleibt eine ältere Sicherung bestehen, bis die nächste sie ersetzt.
 
 
 
