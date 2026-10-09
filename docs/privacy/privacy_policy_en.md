@@ -304,7 +304,7 @@ For barcode and product searches, the app queries the open food database Open Fo
 Please note that the nutritional values in this open database are entered by third parties. We do not verify them and cannot vouch for their accuracy or completeness.
 
 **On-device text recognition**
-When you photograph a nutrition table or a shopping list, the app analyses the image with Google's ML Kit directly on your device. The photo does not leave your device and is transmitted neither to us nor to Google. It is not stored after the analysis.
+When you photograph a nutrition table, the app analyses the image with Google's ML Kit directly on your device. The photo does not leave your device and is transmitted neither to us nor to Google. It is not stored after the analysis. The AI features work differently: if you photograph a shopping list for the AI shopping list, a meal, a receipt or similar for AI analysis, the image is transmitted to Google Gemini – only with your consent to the AI features (see "Use of Google Services (Firebase & Gemini)").
 
 **Step data from Health Connect (Android) and Apple Health (iOS)**
 When you use the step display, the app reads the step count of the last seven days from Health Connect (Android) or Apple Health (iOS). Access is read-only and limited to the data type "steps"; we do not request any other health values. You grant the permission in your operating system and can revoke it there at any time; all other functions of the app remain fully available without it.

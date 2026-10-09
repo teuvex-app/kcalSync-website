@@ -304,7 +304,7 @@ Für die Barcode- und Produktsuche fragt die App die offene Lebensmitteldatenban
 Bitte beachten Sie, dass die Nährwertangaben aus dieser offenen Datenbank von Dritten eingetragen werden. Wir prüfen sie nicht und können für ihre Richtigkeit und Vollständigkeit nicht einstehen.
 
 **Texterkennung auf dem Gerät**
-Wenn Sie eine Nährwerttabelle oder einen Einkaufszettel abfotografieren, wertet die App das Bild mit Googles ML Kit unmittelbar auf Ihrem Gerät aus. Das Foto verlässt Ihr Gerät dabei nicht und wird nicht an uns oder an Google übertragen. Nach der Auswertung wird es nicht gespeichert.
+Wenn Sie eine Nährwerttabelle abfotografieren, wertet die App das Bild mit Googles ML Kit unmittelbar auf Ihrem Gerät aus. Das Foto verlässt Ihr Gerät dabei nicht und wird nicht an uns oder an Google übertragen. Nach der Auswertung wird es nicht gespeichert. Anders ist es bei den KI-Funktionen: Fotografieren Sie einen Einkaufszettel für den KI-Einkaufszettel, ein Essen, einen Beleg oder Ähnliches zur KI-Auswertung, wird das Bild – nur mit Ihrer Einwilligung in die KI-Funktionen – an Google Gemini übertragen (siehe „Nutzung von Google-Diensten (Firebase & Gemini)“).
 
 **Schrittdaten aus Health Connect (Android) bzw. Apple Health (iOS)**
 Wenn Sie die Schrittanzeige nutzen, ruft die App die Schrittzahl der letzten sieben Tage bei Health Connect (Android) beziehungsweise Apple Health (iOS) ab. Der Zugriff ist ausschließlich lesend und auf den Datentyp "Schritte" beschränkt; andere Gesundheitswerte fragen wir nicht ab. Die Freigabe erteilen Sie im Betriebssystem und können sie dort jederzeit widerrufen; die übrigen Funktionen der App stehen Ihnen auch ohne die Freigabe uneingeschränkt zur Verfügung.
