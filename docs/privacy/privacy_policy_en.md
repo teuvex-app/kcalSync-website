@@ -102,6 +102,7 @@ Overview of recipients:
 •   GitHub (delivery of this website and the legal texts): GitHub B.V. (Netherlands) and GitHub, Inc. (USA). Transfer to the USA; basis: DPF, supplemented by standard contractual clauses according to the provider.
 •   Google (login, database in Frankfurt am Main, server functions, image storage, crash reports, AI analysis with Gemini): Google Ireland Limited (Ireland) and Google LLC (USA). Transfer to the USA possible; basis: DPF and standard contractual clauses as part of the data processing agreement.
 •   Apple (Sign in with Apple, App Store): Apple Distribution International Limited (Ireland) and Apple Inc. (USA). Basis: standard contractual clauses, which Apple states that it uses.
+•   Facebook, Instagram, TikTok and YouTube (our profiles under the name "Teuvex"): Meta Platforms Ireland Limited, TikTok Technology Limited and Google Ireland Limited. The providers regularly also process the data of visitors to our profiles outside the EU; the basis and details are set out in their privacy policies (see the section "Presence in Social Networks").
 •   Open Food Facts (product search and product images): France; no transfer to a third country.
 •   IONOS SE (email mailbox): Germany; no transfer to a third country.
 
@@ -233,7 +234,7 @@ Messages to our support address support@teuvex.de come together in one mailbox: 
 ---
 
 ### Presence in Social Networks (Social Media)
-We maintain profiles on social networks in order to provide information about our app there and to communicate with interested persons. In doing so, users' data is regularly also processed outside the European Union. This may entail risks for users, for example because the enforcement of their rights may be made more difficult.
+We maintain profiles on Facebook, Instagram, TikTok and YouTube under the name "Teuvex" in order to provide information about our app there and to communicate with interested persons. In doing so, users' data is regularly also processed outside the European Union. This may entail risks for users, for example because the enforcement of their rights may be made more difficult.
 
 Within social networks, users' data is generally also processed for market research and advertising purposes. Usage profiles may be created on the basis of usage behaviour, which in turn serve to display advertisements inside and outside the networks. For these purposes, cookies are usually stored on users' devices. If users are members of the respective platform and logged in there, data may additionally be combined across devices.
 

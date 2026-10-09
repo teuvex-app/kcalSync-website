@@ -102,6 +102,7 @@ Bei den einzelnen Diensteanbietern informieren wir Sie darüber, auf welcher Gru
 •   GitHub (Auslieferung dieser Website und der Rechtstexte): GitHub B.V. (Niederlande) und GitHub, Inc. (USA). Übermittlung in die USA; Grundlage: DPF, ergänzend Standardvertragsklauseln nach Angabe des Anbieters.
 •   Google (Anmeldung, Datenbank in Frankfurt am Main, Serverfunktionen, Bildspeicher, Absturzberichte, KI-Auswertung mit Gemini): Google Ireland Limited (Irland) und Google LLC (USA). Übermittlung in die USA möglich; Grundlage: DPF sowie Standardvertragsklauseln als Bestandteil des Auftragsverarbeitungsvertrags.
 •   Apple (Anmeldung mit Apple, App Store): Apple Distribution International Limited (Irland) und Apple Inc. (USA). Grundlage: Standardvertragsklauseln, die Apple nach eigener Angabe verwendet.
+•   Facebook, Instagram, TikTok und YouTube (unsere Profile unter dem Namen „Teuvex“): Meta Platforms Ireland Limited, TikTok Technology Limited und Google Ireland Limited. Die Anbieter verarbeiten die Daten der Besucher unserer Profile regelmäßig auch außerhalb der EU; Grundlage und Einzelheiten ergeben sich aus ihren Datenschutzerklärungen (siehe Abschnitt „Präsenzen in sozialen Netzwerken“).
 •   Open Food Facts (Produktsuche und Produktbilder): Frankreich; keine Übermittlung in ein Drittland.
 •   IONOS SE (E-Mail-Postfach): Deutschland; keine Übermittlung in ein Drittland.
 
@@ -233,7 +234,7 @@ Nachrichten an unsere Support-Adresse support@teuvex.de laufen in einem Postfach
 ---
 
 ### Präsenzen in sozialen Netzwerken (Social Media)
-Wir unterhalten Profile in sozialen Netzwerken, um dort über unsere App zu informieren und mit interessierten Personen zu kommunizieren. Die Daten der Nutzer werden dabei regelmäßig auch außerhalb der Europäischen Union verarbeitet. Hierdurch können sich für die Nutzer Risiken ergeben, weil etwa die Durchsetzung ihrer Rechte erschwert werden kann.
+Wir unterhalten unter dem Namen „Teuvex“ Profile bei Facebook, Instagram, TikTok und YouTube, um dort über unsere App zu informieren und mit interessierten Personen zu kommunizieren. Die Daten der Nutzer werden dabei regelmäßig auch außerhalb der Europäischen Union verarbeitet. Hierdurch können sich für die Nutzer Risiken ergeben, weil etwa die Durchsetzung ihrer Rechte erschwert werden kann.
 
 Innerhalb sozialer Netzwerke werden die Daten der Nutzer im Regelfall zusätzlich für Marktforschungs- und Werbezwecke verarbeitet. So können anhand des Nutzungsverhaltens Nutzungsprofile erstellt werden, die wiederum der Schaltung von Werbeanzeigen innerhalb und außerhalb der Netzwerke dienen. Zu diesen Zwecken werden in der Regel Cookies auf den Geräten der Nutzer gespeichert. Sind die Nutzer Mitglieder der jeweiligen Plattform und dort angemeldet, können die Daten zudem geräteübergreifend zusammengeführt werden.
 
