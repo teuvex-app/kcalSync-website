@@ -1,0 +1,26 @@
+name: semgrep-audit
+
+# Kostenloser automatischer Sicherheits-Scan (Semgrep, https://semgrep.dev)
+# bei jedem Push - ersetzt den vorherigen Strix-Workflow. Im Unterschied zu
+# Strix braucht Semgrep kein LLM und verursacht keine laufenden Kosten: es
+# prüft nur gegen feste, offen einsehbare Regeln (OWASP, Secrets, sprach-
+# spezifische Bugs), ganz ohne Account oder API-Key.
+#
+# --config auto wählt automatisch passende Regelsätze für die im Repo
+# gefundenen Sprachen. Schlägt NICHT bei Funden fehl (kein --error), damit
+# der erste Lauf nicht sofort rot wird - die Funde stehen im Workflow-Log.
+# Wer das später als harten Gate will: "semgrep scan --config auto --error".
+
+on:
+  push:
+
+jobs:
+  semgrep:
+    runs-on: ubuntu-latest
+    container:
+      image: semgrep/semgrep
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Semgrep-Scan
+        run: semgrep scan --config auto --metrics=off
