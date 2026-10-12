@@ -1,0 +1,36 @@
+name: strix-audit
+
+# Automatische KI-gestützte Sicherheitsprüfung (Strix, https://strix.ai) bei
+# jedem Push - findet/validiert echte Schwachstellen im Code statt nur
+# Muster abzugleichen. Vorlage 1:1 aus der offiziellen Strix-README
+# übernommen (https://github.com/usestrix/strix#cicd-github-actions), nur
+# der Trigger wurde von "pull_request" auf "push" geändert.
+#
+# WICHTIG - ohne diese zwei Repository-Secrets schlägt der Lauf fehl, da
+# Strix selbst ein LLM zum Testen braucht (Settings -> Secrets and
+# variables -> Actions):
+#   - STRIX_LLM: welches Modell genutzt werden soll, z.B.
+#     "openrouter/z-ai/glm-5.3" oder ein Anthropic-/OpenAI-Modell
+#   - LLM_API_KEY: der passende API-Key für dieses Modell
+# Siehe https://docs.strix.ai/integrations/github-actions für Details und
+# weitere Optionen (z.B. andere --scan-mode-Stufen).
+
+on:
+  push:
+
+jobs:
+  security-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Install Strix
+        run: curl -sSL https://strix.ai/install | bash
+
+      - name: Run Strix
+        env:
+          STRIX_LLM: ${{ secrets.STRIX_LLM }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: strix -n -t ./ --scan-mode quick
