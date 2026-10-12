@@ -1778,7 +1778,7 @@ Tsimply9 verarbeitet sämtliche Tastatureingaben, Texte, Passwörter und Bankdat
 
 ### 2. Persönliches Wörterbuch und lokale Speicherung
 
-Gelernte Wörter, Wortpaare für die Wortvorhersage, eigene Einträge und gemerkte E-Mail-Adressen werden ausschließlich lokal auf Ihrem Gerät gespeichert. Das Lernen und das Merken von E-Mail-Adressen lassen sich in den Einstellungen der App abschalten, gelernte Wörter können Sie im Menü „Wörter“ löschen. Alle gespeicherten Daten werden entfernt, wenn Sie die App-Daten in den Systemeinstellungen löschen oder die App deinstallieren.
+Gelernte Wörter, Wortpaare für die Wortvorhersage, eigene Einträge, gemerkte E-Mail-Adressen sowie Ihre eigenen Tastenbelegungen samt der dafür hinterlegten Texte werden ausschließlich lokal auf Ihrem Gerät gespeichert. Das Lernen und das Merken von E-Mail-Adressen lassen sich in den Einstellungen der App abschalten, gelernte Wörter können Sie im Menü „Wörter“ löschen. Alle gespeicherten Daten werden entfernt, wenn Sie die App-Daten in den Systemeinstellungen löschen oder die App deinstallieren.
 
 In Passwort- und PIN-Feldern wird nichts gelernt, unter Android außerdem nicht in privaten Eingabefeldern (z. B. Inkognito-Tabs).
 
@@ -1842,7 +1842,7 @@ Tsimply9 processes all keystrokes, texts, passwords and banking data exclusively
 
 ### 2. Personal Dictionary and Local Storage
 
-Learned words, word pairs for word prediction, custom entries and remembered email addresses are stored exclusively locally on your device. Learning and remembering email addresses can be switched off in the app's settings, and learned words can be deleted in the "Words" menu. All stored data is removed when you clear the app data in the system settings or uninstall the app.
+Learned words, word pairs for word prediction, custom entries, remembered email addresses and your own key assignments, including the texts stored for them, are stored exclusively locally on your device. Learning and remembering email addresses can be switched off in the app's settings, and learned words can be deleted in the "Words" menu. All stored data is removed when you clear the app data in the system settings or uninstall the app.
 
 Nothing is learned in password and PIN fields, and on Android also not in private input fields (e.g. incognito tabs).
 
