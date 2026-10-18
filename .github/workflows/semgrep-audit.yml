@@ -11,10 +11,11 @@ name: semgrep-audit
 # Fehlermuster ab, p/secrets sucht nach eingecheckten Zugangsdaten.
 #
 # Die Funde stehen als Tabelle auf der Ergebnisseite des Laufs (Actions ->
-# semgrep-audit -> Lauf öffnen -> "Summary"), dazu als Hinweise an den
-# betroffenen Zeilen. Der Lauf schlägt NICHT bei Funden fehl (kein --error).
-# Wer das später als harten Gate will: in der letzten Zeile des Auswertungs-
-# schritts "sys.exit(0)" durch "sys.exit(1 if res else 0)" ersetzen.
+# semgrep-audit -> Lauf öffnen -> "Summary"), neue Funde zusätzlich als
+# Hinweise an den betroffenen Zeilen. Der Lauf wird ROT, sobald es einen Fund
+# gibt, der nicht in .github/semgrep-geprueft.json steht. Dort stehen die
+# geprüften Fehlalarme, jeweils mit Datei, Regel, einem Merkmal der Stelle
+# ("enthaelt") und der Begründung.
 
 on:
   push:
@@ -30,7 +31,7 @@ jobs:
       - name: Semgrep-Scan
         run: semgrep scan --config p/default --config p/secrets --metrics=off --json-output=semgrep.json
 
-      - name: Funde zusammenfassen
+      - name: Funde auswerten
         if: always()
         shell: python3 {0}
         run: |
@@ -40,31 +41,65 @@ jobs:
           except Exception as e:
               print(f"Keine Ergebnisdatei ({e}) - der Scan selbst ist fehlgeschlagen.")
               sys.exit(1)
+          try:
+              akz = json.load(open(".github/semgrep-geprueft.json", encoding="utf-8")).get("geprueft", [])
+          except FileNotFoundError:
+              akz = []
           res = data.get("results", [])
           errs = data.get("errors", [])
+
+          def regel(r):
+              return r["check_id"].split(".")[-1]
+
+          def stelle(r):
+              try:
+                  z = open(r["path"], encoding="utf-8", errors="replace").read().splitlines()
+                  # Fundstelle plus die folgenden Zeilen, damit z. B. der Name einer
+                  # Activity mitzählt, die Semgrep an der öffnenden Zeile meldet.
+                  a = r["start"]["line"] - 1
+                  return "\n".join(z[a : max(r["end"]["line"], a + 5)])
+              except OSError:
+                  return ""
+
+          def passt(r, a):
+              return (r["path"] == a["pfad"] and regel(r) == a["regel"]
+                      and (not a.get("enthaelt") or a["enthaelt"] in stelle(r)))
+
           rang = {"ERROR": 0, "WARNING": 1, "INFO": 2}
           res.sort(key=lambda r: (rang.get(r["extra"].get("severity"), 3), r["path"], r["start"]["line"]))
+          neu = [r for r in res if not any(passt(r, a) for a in akz)]
+          alt = [(r, next(a for a in akz if passt(r, a))) for r in res if r not in neu]
+          ungenutzt = [a for a in akz if not any(passt(r, a) for r in res)]
+
           stufe = {"ERROR": "🔴 hoch", "WARNING": "🟠 mittel", "INFO": "🔵 niedrig"}
           z = ["## Semgrep-Ergebnis", ""]
-          if not res:
-              z.append("✅ **Keine Funde.**")
+          if not neu:
+              z.append("✅ **Keine neuen Funde.**")
           else:
-              n = {k: sum(1 for r in res if r["extra"].get("severity") == k) for k in rang}
-              z.append(f"**{len(res)} Funde:** {n['ERROR']} hoch, {n['WARNING']} mittel, {n['INFO']} niedrig")
+              z.append(f"❌ **{len(neu)} neue Funde** - bitte ansehen. Ist ein Fund nachweislich harmlos, "
+                       "kommt er mit Begründung in `.github/semgrep-geprueft.json`.")
               z += ["", "| Stufe | Datei | Zeile | Regel | Beschreibung |", "|---|---|---|---|---|"]
-              for r in res:
+              for r in neu:
                   ex = r["extra"]
                   msg = " ".join(ex.get("message", "").split())[:200].replace("|", "/")
-                  regel = r["check_id"].split(".")[-1]
-                  z.append(f"| {stufe.get(ex.get('severity'), ex.get('severity'))} | `{r['path']}` | {r['start']['line']} | {regel} | {msg} |")
+                  z.append(f"| {stufe.get(ex.get('severity'), ex.get('severity'))} | `{r['path']}` | {r['start']['line']} | {regel(r)} | {msg} |")
+          if alt:
+              z += ["", f"<details><summary>{len(alt)} geprüfte Fehlalarme (akzeptiert)</summary>", "",
+                    "| Datei | Zeile | Regel | Begründung |", "|---|---|---|---|"]
+              for r, a in alt:
+                  z.append(f"| `{r['path']}` | {r['start']['line']} | {regel(r)} | {a['grund'].replace('|', '/')} |")
+              z += ["", "</details>"]
+          if ungenutzt:
+              z += ["", f"ℹ️ {len(ungenutzt)} Einträge in `.github/semgrep-geprueft.json` treffen nichts mehr und können raus: "
+                    + ", ".join(f"`{a['pfad']}` ({a['regel']})" for a in ungenutzt)]
           if errs:
               z += ["", f"⚠️ {len(errs)} Dateien konnten nicht vollständig geprüft werden."]
           open(os.environ["GITHUB_STEP_SUMMARY"], "a").write("\n".join(z) + "\n")
-          # Hinweise an den Zeilen (GitHub zeigt höchstens 10 je Art und Schritt)
+
           art = {"ERROR": "error", "WARNING": "warning", "INFO": "notice"}
-          for r in res:
+          for r in neu:
               ex = r["extra"]
               msg = " ".join(ex.get("message", "").split())[:300]
-              print(f"::{art.get(ex.get('severity'), 'notice')} file={r['path']},line={r['start']['line']},title=Semgrep {r['check_id'].split('.')[-1]}::{msg}")
-          print(f"{len(res)} Funde")
-          sys.exit(0)
+              print(f"::{art.get(ex.get('severity'), 'notice')} file={r['path']},line={r['start']['line']},title=Semgrep {regel(r)}::{msg}")
+          print(f"{len(neu)} neue Funde, {len(alt)} geprüfte Fehlalarme")
+          sys.exit(1 if neu else 0)
