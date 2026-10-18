@@ -6,10 +6,12 @@ name: semgrep-audit
 # prüft nur gegen feste, offen einsehbare Regeln (OWASP, Secrets, sprach-
 # spezifische Bugs), ganz ohne Account oder API-Key.
 #
-# --config auto wählt automatisch passende Regelsätze für die im Repo
-# gefundenen Sprachen. Schlägt NICHT bei Funden fehl (kein --error), damit
-# der erste Lauf nicht sofort rot wird - die Funde stehen im Workflow-Log.
-# Wer das später als harten Gate will: "semgrep scan --config auto --error".
+# Feste Regelsätze statt "--config auto": auto geht nur mit eingeschalteten
+# Metriken ("Cannot create auto config when metrics are off", Exit-Code 2),
+# die Metriken bleiben aber aus. p/default deckt die gängigen Sicherheits- und
+# Fehlermuster ab, p/secrets sucht nach eingecheckten Zugangsdaten. Schlägt
+# NICHT bei Funden fehl (kein --error) - die Funde stehen im Workflow-Log.
+# Wer das später als harten Gate will: "semgrep scan --config p/default --error".
 
 on:
   push:
@@ -23,4 +25,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Semgrep-Scan
-        run: semgrep scan --config auto --metrics=off
+        run: semgrep scan --config p/default --config p/secrets --metrics=off
