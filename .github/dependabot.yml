@@ -1,6 +1,11 @@
 version: 2
+# cooldown: neue Paketversionen erst nach 7 Tagen vorschlagen (Schutz vor
+# frisch veröffentlichten Schadpaketen). Sicherheitsupdates kommen weiterhin
+# sofort - für die gilt die Wartezeit laut GitHub nicht.
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
+    cooldown:
+      default-days: 7
