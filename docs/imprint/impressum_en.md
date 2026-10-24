@@ -11,7 +11,9 @@ Germany
 
 **Contact**
 
-Email: support@teuvex.de
+Email: support@teuvex.de  
+Contact form: https://teuvex.de/kontakt  
+In the app: Settings, Send feedback
 
 **Responsible for content according to § 18 (2) MStV (German Interstate Media Treaty)**
 
