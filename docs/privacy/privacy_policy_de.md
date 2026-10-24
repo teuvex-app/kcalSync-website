@@ -336,12 +336,12 @@ Unter iOS können diese Daten Teil der Gerätesicherung (iCloud oder Computer) s
 **Widgets auf dem Startbildschirm (Android)**
 Die App bietet für Android drei optionale Widgets an: ein Kalorien-Widget, ein Einkaufs-Widget und ein Kombi-Widget. Ein Widget zeigt seinen Inhalt auf dem Startbildschirm Ihres Geräts, ohne dass die App geöffnet werden muss.
 
-Die Widgets zeigen standardmäßig **keine Angaben**, sondern nur einen Hinweis. Erst wenn Sie in den Einstellungen der App „Kalorien-Widget“ oder „Einkaufs-Widget“ einschalten, legt die App die dafür nötigen Angaben ab. Beim Einschalten weist die App Sie darauf hin, dass jeder, der auf Ihr Gerät schaut, diese Angaben sehen kann, auch ohne Anmeldung in der App. Abgelegt werden:
+Die Widgets zeigen standardmäßig **keine Angaben**, sondern nur einen Hinweis. Erst wenn Sie in den Einstellungen der App „Kalorien-Widget“, „Einkaufs-Widget“ oder „Kombi-Widget“ einschalten, legt die App die dafür nötigen Angaben ab. Beim Einschalten weist die App Sie darauf hin, dass jeder, der auf Ihr Gerät schaut, diese Angaben sehen kann, auch ohne Anmeldung in der App. Abgelegt werden:
 
 - für das Kalorien-Widget: die heute gegessenen Kalorien, Ihr Tagesziel, Eiweiß, Kohlenhydrate und Fett (jeweils Ist und Ziel) und der Zeitpunkt der letzten Aktualisierung. Das sind Angaben zu Ihrer Ernährung und damit Gesundheitsdaten (Art. 9 DSGVO);
 - für das Einkaufs-Widget: die Zahl der offenen Einträge der Einkaufsliste Ihres Haushalts, die ersten Einträge mit Bezeichnung, Menge, Dringlichkeit und Preis, die geschätzten Summen der offenen und der im Korb liegenden Einträge, Ihr Wochenbudget und der Zeitpunkt der letzten Aktualisierung. Namen und Profilbilder von Haushaltsmitgliedern werden nicht abgelegt.
 
-Das Kombi-Widget zeigt beides; jeder Teil erscheint nur, wenn er in den Einstellungen eingeschaltet ist.
+Das Kombi-Widget zeigt beides. Es hat einen eigenen Schalter und einen eigenen Stand: Nur wenn Sie „Kombi-Widget“ einschalten, legt die App diese Angaben auch für das Kombi-Widget ab; die Schalter der beiden anderen Widgets ändern daran nichts.
 
 Diese Angaben liegen in einer privaten Datei der App auf Ihrem Gerät, die das Widget liest. Sie werden nicht an uns und nicht an Dritte übertragen. Die Datei gehört nicht zur Gerätesicherung (siehe „Lokal gespeicherte Daten und Gerätesicherung“). Wenn Sie den jeweiligen Schalter wieder ausschalten, werden die abgelegten Angaben gelöscht; dasselbe geschieht bei „Alle App-Daten löschen“ und „Konto löschen“, und beim Deinstallieren der App entfällt die Datei mit ihr.
 

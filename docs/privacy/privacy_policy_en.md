@@ -336,12 +336,12 @@ On iOS, this data can be part of the device backup (iCloud or computer) that you
 **Widgets on the Home Screen (Android)**
 For Android, the app offers three optional widgets: a calorie widget, a shopping widget and a combined widget. A widget shows its content on your device's home screen without the app having to be opened.
 
-By default, the widgets show **no data**, only a note. Only when you switch on "Calorie widget" or "Shopping widget" in the app's settings does the app store the data they need. When you switch it on, the app points out that anyone who looks at your device can see this data, even without logging in to the app. The following is stored:
+By default, the widgets show **no data**, only a note. Only when you switch on "Calorie widget", "Shopping widget" or "Combined widget" in the app's settings does the app store the data they need. When you switch it on, the app points out that anyone who looks at your device can see this data, even without logging in to the app. The following is stored:
 
 - for the calorie widget: the calories eaten today, your daily goal, protein, carbohydrates and fat (actual and goal in each case) and the time of the last update. This is information about your nutrition and therefore health data (Art. 9 GDPR);
 - for the shopping widget: the number of open items on your household's shopping list, the first items with name, quantity, urgency and price, the estimated totals of the open items and of the items in the basket, your weekly budget and the time of the last update. Names and profile pictures of household members are not stored.
 
-The combined widget shows both; each part appears only if it is switched on in the settings.
+The combined widget shows both. It has its own switch and its own stored data: only if you switch on "Combined widget" does the app store this data for the combined widget as well; the switches of the other two widgets do not change that.
 
 This data is held in a private file of the app on your device, which the widget reads. It is not transmitted to us or to third parties. The file is not part of the device backup (see "Locally Stored Data and Device Backup"). If you switch the respective switch off again, the stored data is deleted; the same happens with "Delete all app data" and "Delete account", and uninstalling the app removes the file with it.
 
