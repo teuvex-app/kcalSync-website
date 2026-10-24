@@ -320,6 +320,20 @@ On Android, your operating system can back up this data to a private folder in y
 
 On iOS, this data can be part of the device backup (iCloud or computer) that you control in your iPhone settings.
 
+**Widgets on the Home Screen (Android)**
+For Android, the app offers three optional widgets: a calorie widget, a shopping widget and a combined widget. A widget shows its content on your device's home screen without the app having to be opened.
+
+By default, the widgets show **no data**, only a note. Only when you switch on "Calorie widget" or "Shopping widget" in the app's settings does the app store the data they need. When you switch it on, the app points out that anyone who looks at your device can see this data, even without logging in to the app. The following is stored:
+
+- for the calorie widget: the calories eaten today, your daily goal, protein, carbohydrates and fat (actual and goal in each case) and the time of the last update. This is information about your nutrition and therefore health data (Art. 9 GDPR);
+- for the shopping widget: the number of open items on your household's shopping list, the first items with name, quantity, urgency and price, the estimated totals of the open items and of the items in the basket, your weekly budget and the time of the last update. Names and profile pictures of household members are not stored.
+
+The combined widget shows both; each part appears only if it is switched on in the settings.
+
+This data is held in a private file of the app on your device, which the widget reads. It is not transmitted to us or to third parties. The file is not part of the device backup (see "Locally Stored Data and Device Backup"). If you switch the respective switch off again, the stored data is deleted; the same happens with "Delete all app data" and "Delete account", and uninstalling the app removes the file with it.
+
+The legal basis is your consent, which you give by switching on the switch in the settings (Art. 6(1)(a) GDPR, for the health data Art. 9(2)(a) GDPR). You can withdraw it at any time with effect for the future by switching the switch off; this does not affect the lawfulness of the display up to that point. You place the widget itself on your device's home screen and can remove it there at any time.
+
 **Collection of Usage Data**
 To manage inactive user accounts, the app stores the time of the last use of the app (Last Activity Timestamp) in our cloud database (Google Firebase). The app does not store a device identifier, the device name or the manufacturer of your phone there. (Crash reports: see the section on Firebase Crashlytics.)
 

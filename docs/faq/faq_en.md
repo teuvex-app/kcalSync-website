@@ -98,11 +98,26 @@ Check in your iPhone settings that iCloud Backup is switched on. We cannot promi
 - We have no access to the backup and cannot restore your data for you.
 - After "Delete all app data" or "Delete account", an older backup remains until the next one replaces it.
 
+## 13. How do I put a widget on my home screen?
 
+Widgets are currently available for **Android**: **Calories** (calories and macros left), **Shopping** (open items with prices and weekly budget) and **Calories and shopping** in one.
 
+1. In KcalSync, open the **settings** and switch on **Calorie widget** and/or **Shopping widget**. The app asks first, because the details then appear on your home screen.
+2. Long-press an empty spot on your home screen and choose **Widgets**, then **KcalSync**.
+3. Pick the widget and drag its corner to the size you want. From Android 12, the combined widget shows more when you drag it larger.
 
+**Good to know**
 
+- If the switch in the settings is off, the widget only shows a note and no numbers.
+- A **dash** instead of the calories means: it is a new day. Open KcalSync and today's numbers are back.
+- The shopping widget shows the **time of its last update**. Changes made by others in your household only arrive while KcalSync is running.
+- **Planned** in the budget means the open items and the basket together. It is compared with your weekly budget. This does not show what you have already spent this week. Items without a price are not counted.
+- The texts in the widget follow your phone's language, not the language set in the app.
 
+## 14. Who can see the numbers in the widget?
 
+Anyone who looks at your phone, even without logging in to KcalSync. Calories and macros are health data, and the shopping list with prices and budget says something about your household. That is why the widgets are **without numbers by default** and you switch them on yourself.
 
-
+- The data is only on your device. It is not sent to us or to third parties and is not part of the device backup.
+- The widget does not show names or profile pictures of household members.
+- If you switch the switch off, the data in the widget is deleted. The same happens with **Delete all app data** and **Delete account**.

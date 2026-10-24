@@ -97,12 +97,26 @@ Prüfe in den iPhone-Einstellungen, ob die iCloud-Sicherung eingeschaltet ist. W
 - Wir haben keinen Zugriff auf die Sicherung und können deine Daten nicht für dich wiederherstellen.
 - Nach „Alle App-Daten löschen“ oder „Konto löschen“ bleibt eine ältere Sicherung bestehen, bis die nächste sie ersetzt.
 
+## 13. Wie bekomme ich ein Widget auf meinen Startbildschirm?
 
+Widgets gibt es derzeit für **Android**: **Kalorien** (übrige Kalorien und Makros), **Einkauf** (offene Einträge mit Preisen und Wochenbudget) und **Kalorien und Einkauf** in einem.
 
+1. Öffne in KcalSync die **Einstellungen** und schalte **Kalorien-Widget** und/oder **Einkaufs-Widget** ein. Die App fragt nach, weil die Angaben danach auf deinem Startbildschirm stehen.
+2. Halte auf dem Startbildschirm eine freie Stelle gedrückt und wähle **Widgets**, dann **KcalSync**.
+3. Wähle das Widget und ziehe es an der Ecke auf die Größe, die du möchtest. Das Kombi-Widget zeigt ab Android 12 mehr, wenn du es größer ziehst.
 
+**Gut zu wissen**
 
+- Ist der Schalter in den Einstellungen aus, zeigt das Widget nur einen Hinweis und keine Zahlen.
+- Ein **Strich** statt der Kalorien heißt: Es ist ein neuer Tag. Öffne KcalSync, dann stehen die heutigen Zahlen wieder da.
+- Das Einkaufs-Widget zeigt die **Uhrzeit des letzten Stands**. Was andere in deinem Haushalt ändern, kommt erst an, wenn KcalSync läuft.
+- **Verplant** im Budget sind die offenen Einträge und der Korb zusammen. Verglichen wird mit deinem Wochenbudget. Das zeigt nicht, was du diese Woche schon ausgegeben hast. Einträge ohne Preis zählen nicht mit.
+- Die Texte im Widget folgen der Sprache deines Telefons, nicht der Sprache in der App.
 
+## 14. Wer kann die Zahlen im Widget sehen?
 
+Jeder, der auf dein Handy schaut, auch ohne Anmeldung in KcalSync. Kalorien und Makros sind Gesundheitsdaten, und die Einkaufsliste mit Preisen und Budget sagt etwas über deinen Haushalt. Darum sind die Widgets **standardmäßig ohne Zahlen** und du schaltest sie selbst ein.
 
-
-
+- Die Angaben liegen nur auf deinem Gerät. Sie gehen nicht an uns oder an Dritte und sind nicht Teil der Gerätesicherung.
+- Namen und Profilbilder von Haushaltsmitgliedern zeigt das Widget nicht.
+- Wenn du den Schalter ausschaltest, werden die Angaben im Widget gelöscht. Dasselbe passiert bei **Alle App-Daten löschen** und **Konto löschen**.

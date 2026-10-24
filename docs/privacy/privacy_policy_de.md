@@ -320,6 +320,20 @@ Unter Android kann Ihr Betriebssystem diese Daten im Rahmen seiner Gerätesicher
 
 Unter iOS können diese Daten Teil der Gerätesicherung (iCloud oder Computer) sein, die Sie in den Einstellungen Ihres iPhones steuern.
 
+**Widgets auf dem Startbildschirm (Android)**
+Die App bietet für Android drei optionale Widgets an: ein Kalorien-Widget, ein Einkaufs-Widget und ein Kombi-Widget. Ein Widget zeigt seinen Inhalt auf dem Startbildschirm Ihres Geräts, ohne dass die App geöffnet werden muss.
+
+Die Widgets zeigen standardmäßig **keine Angaben**, sondern nur einen Hinweis. Erst wenn Sie in den Einstellungen der App „Kalorien-Widget“ oder „Einkaufs-Widget“ einschalten, legt die App die dafür nötigen Angaben ab. Beim Einschalten weist die App Sie darauf hin, dass jeder, der auf Ihr Gerät schaut, diese Angaben sehen kann, auch ohne Anmeldung in der App. Abgelegt werden:
+
+- für das Kalorien-Widget: die heute gegessenen Kalorien, Ihr Tagesziel, Eiweiß, Kohlenhydrate und Fett (jeweils Ist und Ziel) und der Zeitpunkt der letzten Aktualisierung. Das sind Angaben zu Ihrer Ernährung und damit Gesundheitsdaten (Art. 9 DSGVO);
+- für das Einkaufs-Widget: die Zahl der offenen Einträge der Einkaufsliste Ihres Haushalts, die ersten Einträge mit Bezeichnung, Menge, Dringlichkeit und Preis, die geschätzten Summen der offenen und der im Korb liegenden Einträge, Ihr Wochenbudget und der Zeitpunkt der letzten Aktualisierung. Namen und Profilbilder von Haushaltsmitgliedern werden nicht abgelegt.
+
+Das Kombi-Widget zeigt beides; jeder Teil erscheint nur, wenn er in den Einstellungen eingeschaltet ist.
+
+Diese Angaben liegen in einer privaten Datei der App auf Ihrem Gerät, die das Widget liest. Sie werden nicht an uns und nicht an Dritte übertragen. Die Datei gehört nicht zur Gerätesicherung (siehe „Lokal gespeicherte Daten und Gerätesicherung“). Wenn Sie den jeweiligen Schalter wieder ausschalten, werden die abgelegten Angaben gelöscht; dasselbe geschieht bei „Alle App-Daten löschen“ und „Konto löschen“, und beim Deinstallieren der App entfällt die Datei mit ihr.
+
+Rechtsgrundlage ist Ihre Einwilligung, die Sie durch das Einschalten des Schalters in den Einstellungen erteilen (Art. 6 Abs. 1 lit. a DSGVO, für die Gesundheitsdaten Art. 9 Abs. 2 lit. a DSGVO). Sie können sie jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie den Schalter ausschalten; die Rechtmäßigkeit der bis dahin erfolgten Anzeige bleibt davon unberührt. Das Widget selbst legen Sie auf dem Startbildschirm Ihres Geräts an, und Sie können es dort jederzeit wieder entfernen.
+
 **Erhebung von Nutzungsdaten**
 Zur Verwaltung inaktiver Benutzerkonten speichert die App in unserer Cloud-Datenbank (Google Firebase) den Zeitpunkt der letzten Nutzung der App (Last Activity Timestamp). Eine Gerätekennung, den Gerätenamen oder den Hersteller Ihres Telefons speichert die App dort nicht. (Absturzberichte: siehe Abschnitt zu Firebase Crashlytics.)
 
