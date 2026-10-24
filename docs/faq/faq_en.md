@@ -102,7 +102,7 @@ Check in your iPhone settings that iCloud Backup is switched on. We cannot promi
 
 Widgets are currently available for **Android**: **Calories** (calories and macros left), **Shopping** (open items with prices and weekly budget) and **Calories and shopping** in one.
 
-1. In KcalSync, open the **settings** and switch on **Calorie widget** and/or **Shopping widget**. The app asks first, because the details then appear on your home screen.
+1. In KcalSync, open the **settings**, go to the **Widgets** section, and switch on **Calorie widget** and/or **Shopping widget**. The app asks first, because the details then appear on your home screen.
 2. Long-press an empty spot on your home screen and choose **Widgets**, then **KcalSync**.
 3. Pick the widget and drag its corner to the size you want. From Android 12, the combined widget shows more when you drag it larger.
 

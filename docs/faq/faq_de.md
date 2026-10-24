@@ -101,7 +101,7 @@ Prüfe in den iPhone-Einstellungen, ob die iCloud-Sicherung eingeschaltet ist. W
 
 Widgets gibt es derzeit für **Android**: **Kalorien** (übrige Kalorien und Makros), **Einkauf** (offene Einträge mit Preisen und Wochenbudget) und **Kalorien und Einkauf** in einem.
 
-1. Öffne in KcalSync die **Einstellungen** und schalte **Kalorien-Widget** und/oder **Einkaufs-Widget** ein. Die App fragt nach, weil die Angaben danach auf deinem Startbildschirm stehen.
+1. Öffne in KcalSync die **Einstellungen**, dort den Block **Widgets**, und schalte **Kalorien-Widget** und/oder **Einkaufs-Widget** ein. Die App fragt nach, weil die Angaben danach auf deinem Startbildschirm stehen.
 2. Halte auf dem Startbildschirm eine freie Stelle gedrückt und wähle **Widgets**, dann **KcalSync**.
 3. Wähle das Widget und ziehe es an der Ecke auf die Größe, die du möchtest. Das Kombi-Widget zeigt ab Android 12 mehr, wenn du es größer ziehst.
 
