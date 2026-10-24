@@ -1,15 +1,21 @@
 name: semgrep-audit
 
 # Kostenloser automatischer Sicherheits-Scan (Semgrep, https://semgrep.dev)
-# bei jedem Push - ersetzt den vorherigen Strix-Workflow. Im Unterschied zu
-# Strix braucht Semgrep kein LLM und verursacht keine laufenden Kosten: es
-# prüft nur gegen feste, offen einsehbare Regeln (OWASP, Secrets, sprach-
-# spezifische Bugs), ganz ohne Account oder API-Key.
+# bei jedem Push. Semgrep braucht kein LLM, keinen Account und keinen
+# API-Key und verursacht keine laufenden Kosten: es prüft nur gegen feste,
+# offen einsehbare Regeln (OWASP, Secrets, sprachspezifische Bugs).
 #
-# --config auto wählt automatisch passende Regelsätze für die im Repo
-# gefundenen Sprachen. Schlägt NICHT bei Funden fehl (kein --error), damit
-# der erste Lauf nicht sofort rot wird - die Funde stehen im Workflow-Log.
-# Wer das später als harten Gate will: "semgrep scan --config auto --error".
+# Feste Regelsätze statt "--config auto": auto geht nur mit eingeschalteten
+# Metriken ("Cannot create auto config when metrics are off", Exit-Code 2),
+# die Metriken bleiben aber aus. p/default deckt die gängigen Sicherheits- und
+# Fehlermuster ab, p/secrets sucht nach eingecheckten Zugangsdaten.
+#
+# Die Funde stehen als Tabelle auf der Ergebnisseite des Laufs (Actions ->
+# semgrep-audit -> Lauf öffnen -> "Summary"), neue Funde zusätzlich als
+# Hinweise an den betroffenen Zeilen. Der Lauf wird ROT, sobald es einen Fund
+# gibt, der nicht in .github/semgrep-geprueft.json steht. Dort stehen die
+# geprüften Fehlalarme, jeweils mit Datei, Regel, einem Merkmal der Stelle
+# ("enthaelt") und der Begründung.
 
 on:
   push:
@@ -20,7 +26,80 @@ jobs:
     container:
       image: semgrep/semgrep
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
       - name: Semgrep-Scan
-        run: semgrep scan --config auto --metrics=off
+        run: semgrep scan --config p/default --config p/secrets --metrics=off --json-output=semgrep.json
+
+      - name: Funde auswerten
+        if: always()
+        shell: python3 {0}
+        run: |
+          import json, os, sys
+          try:
+              data = json.load(open("semgrep.json"))
+          except Exception as e:
+              print(f"Keine Ergebnisdatei ({e}) - der Scan selbst ist fehlgeschlagen.")
+              sys.exit(1)
+          try:
+              akz = json.load(open(".github/semgrep-geprueft.json", encoding="utf-8")).get("geprueft", [])
+          except FileNotFoundError:
+              akz = []
+          res = data.get("results", [])
+          errs = data.get("errors", [])
+
+          def regel(r):
+              return r["check_id"].split(".")[-1]
+
+          def stelle(r):
+              try:
+                  z = open(r["path"], encoding="utf-8", errors="replace").read().splitlines()
+                  # Fundstelle plus die folgenden Zeilen, damit z. B. der Name einer
+                  # Activity mitzählt, die Semgrep an der öffnenden Zeile meldet.
+                  a = r["start"]["line"] - 1
+                  return "\n".join(z[a : max(r["end"]["line"], a + 5)])
+              except OSError:
+                  return ""
+
+          def passt(r, a):
+              return (r["path"] == a["pfad"] and regel(r) == a["regel"]
+                      and (not a.get("enthaelt") or a["enthaelt"] in stelle(r)))
+
+          rang = {"ERROR": 0, "WARNING": 1, "INFO": 2}
+          res.sort(key=lambda r: (rang.get(r["extra"].get("severity"), 3), r["path"], r["start"]["line"]))
+          neu = [r for r in res if not any(passt(r, a) for a in akz)]
+          alt = [(r, next(a for a in akz if passt(r, a))) for r in res if r not in neu]
+          ungenutzt = [a for a in akz if not any(passt(r, a) for r in res)]
+
+          stufe = {"ERROR": "🔴 hoch", "WARNING": "🟠 mittel", "INFO": "🔵 niedrig"}
+          z = ["## Semgrep-Ergebnis", ""]
+          if not neu:
+              z.append("✅ **Keine neuen Funde.**")
+          else:
+              z.append(f"❌ **{len(neu)} neue Funde** - bitte ansehen. Ist ein Fund nachweislich harmlos, "
+                       "kommt er mit Begründung in `.github/semgrep-geprueft.json`.")
+              z += ["", "| Stufe | Datei | Zeile | Regel | Beschreibung |", "|---|---|---|---|---|"]
+              for r in neu:
+                  ex = r["extra"]
+                  msg = " ".join(ex.get("message", "").split())[:200].replace("|", "/")
+                  z.append(f"| {stufe.get(ex.get('severity'), ex.get('severity'))} | `{r['path']}` | {r['start']['line']} | {regel(r)} | {msg} |")
+          if alt:
+              z += ["", f"<details><summary>{len(alt)} geprüfte Fehlalarme (akzeptiert)</summary>", "",
+                    "| Datei | Zeile | Regel | Begründung |", "|---|---|---|---|"]
+              for r, a in alt:
+                  z.append(f"| `{r['path']}` | {r['start']['line']} | {regel(r)} | {a['grund'].replace('|', '/')} |")
+              z += ["", "</details>"]
+          if ungenutzt:
+              z += ["", f"ℹ️ {len(ungenutzt)} Einträge in `.github/semgrep-geprueft.json` treffen nichts mehr und können raus: "
+                    + ", ".join(f"`{a['pfad']}` ({a['regel']})" for a in ungenutzt)]
+          if errs:
+              z += ["", f"⚠️ {len(errs)} Dateien konnten nicht vollständig geprüft werden."]
+          open(os.environ["GITHUB_STEP_SUMMARY"], "a").write("\n".join(z) + "\n")
+
+          art = {"ERROR": "error", "WARNING": "warning", "INFO": "notice"}
+          for r in neu:
+              ex = r["extra"]
+              msg = " ".join(ex.get("message", "").split())[:300]
+              print(f"::{art.get(ex.get('severity'), 'notice')} file={r['path']},line={r['start']['line']},title=Semgrep {regel(r)}::{msg}")
+          print(f"{len(neu)} neue Funde, {len(alt)} geprüfte Fehlalarme")
+          sys.exit(1 if neu else 0)
