@@ -14,11 +14,11 @@ Yes. The diary and all basic features stay free permanently:
 - Shopping lists and recipes, shared within a household too
 - Pantry management
 
-The **AI features are part of Premium**. These are the plate scan, receipt scanner, fridge scan, recipe extractor, product recognition from a photo, recipe suggestions from your pantry, offer recognition, AI shopping list, activity estimation and the voice assistant. The reason is simple: every one of those analyses runs through a paid service that we pay for.
+The **AI features** are limited to **three requests per day** without a subscription, shared by all features. **Premium** gives you far more. They are the plate scan, receipt scanner, fridge scan, recipe extractor, product recognition from a photo, recipe suggestions from your pantry, offer recognition, AI shopping list, activity estimation and the voice assistant. The reason for the limit is simple: every one of those analyses runs through a paid service that we pay for. A request that fails for technical reasons does not count. The free requests reset daily (at midnight UTC, which is between 1 and 2 a.m. in Germany).
 
 **KcalSync Premium** gives you:
 
-- **80 AI analyses per day.** A household shares at most 200 between them.
+- **80 instead of 3 AI analyses per day.** A household shares at most 200 between them.
 - **One subscription for up to 5 people** in the same household – including you. Each member has their own 80 analyses a day.
 
 **To try it out:** As long as your Google account is eligible, Google Play offers a free trial subscription – with all AI features and the full daily allowance. It runs through Google Play and **turns into the regular subscription** unless you cancel in the Play Store before it ends.

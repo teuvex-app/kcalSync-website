@@ -14,11 +14,11 @@ Ja. Das Tagebuch und alle Grundfunktionen bleiben dauerhaft kostenlos:
 - Einkaufslisten und Rezepte, auch gemeinsam im Haushalt
 - Vorratsverwaltung
 
-Die **KI-Funktionen gehören zu Premium**. Dazu zählen Teller-Scan, Beleg-Scanner, Kühlschrank-Scan, Rezept-Extraktor, Produkterkennung per Foto, Rezeptvorschläge aus dem Vorrat, Angebotserkennung, KI-Einkaufszettel, Aktivitätsschätzung und der Sprachassistent. Der Grund ist einfach: Jede dieser Analysen läuft über einen kostenpflichtigen Dienst, den wir bezahlen.
+Die **KI-Funktionen** sind ohne Abo auf **drei Anfragen pro Tag** begrenzt, für alle Funktionen zusammen. Mit **Premium** sind es deutlich mehr. Dazu zählen Teller-Scan, Beleg-Scanner, Kühlschrank-Scan, Rezept-Extraktor, Produkterkennung per Foto, Rezeptvorschläge aus dem Vorrat, Angebotserkennung, KI-Einkaufszettel, Aktivitätsschätzung und der Sprachassistent. Der Grund für die Grenze ist einfach: Jede dieser Analysen läuft über einen kostenpflichtigen Dienst, den wir bezahlen. Eine Anfrage, die technisch scheitert, zählt nicht mit. Die kostenlosen Anfragen setzen sich täglich zurück (um Mitternacht UTC, bei uns zwischen 1 und 2 Uhr nachts).
 
 Mit **KcalSync Premium** bekommst du:
 
-- **80 KI-Analysen pro Tag.** Ein Haushalt teilt sich zusammen höchstens 200.
+- **80 statt 3 KI-Analysen pro Tag.** Ein Haushalt teilt sich zusammen höchstens 200.
 - **Ein Abo für bis zu 5 Personen** im selben Haushalt – dich eingerechnet. Jedes Mitglied hat eigene 80 Analysen am Tag.
 
 **Zum Ausprobieren:** Google Play bietet, solange dein Google-Konto teilnehmen darf, ein kostenloses Probeabo an – mit allen KI-Funktionen und dem vollen Tageskontingent. Es läuft über Google Play und **geht in das reguläre Abo über**, wenn du nicht vor Ablauf im Play Store kündigst.
