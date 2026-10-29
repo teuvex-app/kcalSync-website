@@ -1,7 +1,7 @@
 # Privacy Policy for the "KcalSync" app and this website
 
 ### Preamble
-With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: October 9, 2026
+With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: October 29, 2026
 
 ### Table of Contents
 •   Preamble
@@ -41,7 +41,7 @@ The following overview summarizes the types of data processed and the purposes o
 
 ### Types of Processed Data
 •   Inventory data.
-•   Payment data.
+•   Purchase receipts from the app store (no payment data).
 •   Contact data.
 •   Content data.
 •   Contract data.
@@ -119,8 +119,8 @@ If several details are given regarding the storage period or deletion periods of
 
 ### Storage and Deletion of Data
 The following general periods apply to storage and archiving under German law:
-•   10 years - Retention period for books and records, annual financial statements, inventories, management reports, opening balance sheets and the working instructions and other organizational documents required for their understanding (§ 147 (1) no. 1 in conjunction with (3) AO, § 14b (1) UStG, § 257 (1) no. 1 in conjunction with (4) HGB).
-•   8 years - Accounting documents, such as invoices and cost documents (§ 147 (1) no. 4 and 4a in conjunction with (3) sentence 1 AO and § 257 (1) no. 4 in conjunction with (4) HGB).
+•   10 years – Books and records, annual financial statements, inventories, management reports, opening balance sheet and the working instructions and organizational documents required for their understanding (§ 147 (1) no. 1 in conjunction with (3) AO, § 257 (1) no. 1 in conjunction with (4) HGB).
+•   8 years – Accounting documents, e.g. invoices and cost documents (§ 147 (1) no. 4 and 4a in conjunction with (3) sentence 1 AO, § 14b (1) UStG, § 257 (1) no. 4 in conjunction with (4) HGB).
 •   6 years - Other business documents: received commercial or business letters, reproductions of sent commercial or business letters, other documents, insofar as they are of importance for taxation, e.g., hourly wage slips, business calculation sheets, calculation documents, price tags, but also payroll documents, insofar as they are not already accounting documents and cash register strips (§ 147 (1) no. 2, 3, 5 in conjunction with (3) AO, § 257 (1) no. 2 and 3 in conjunction with (4) HGB).
 •   3 years - Data required to take into account potential warranty and damage claims or similar contractual claims and rights as well as to process related inquiries, based on previous business experience and usual industry practices, are stored for the duration of the regular statutory limitation period of three years (§§ 195, 199 BGB).
 
@@ -128,8 +128,9 @@ The following general periods apply to storage and archiving under German law:
 If a period does not explicitly start on a specific date and is at least one year, it starts automatically at the end of the calendar year in which the event triggering the period occurred. In the case of ongoing contractual relationships in which data is stored, the event triggering the period is the time at which the termination or other end of the legal relationship takes effect.
 
 ### Rights of Data Subjects
+**Right to object: You have the right, for reasons arising from your particular situation, to object at any time to the processing of personal data concerning you which is based on Art. 6 (1) (e) or (f) GDPR; this also applies to profiling based on these provisions. If the personal data concerning you are processed for direct marketing purposes, you have the right to object at any time to the processing of personal data concerning you for the purpose of such marketing; this also applies to profiling insofar as it is connected with such direct marketing.**
+
 Rights of data subjects under the GDPR: As a data subject under the GDPR, you have various rights, which arise in particular from Art. 15 to 21 GDPR:
-•   Right to object: You have the right, for reasons arising from your particular situation, to object at any time to the processing of personal data concerning you which is based on Art. 6 (1) (e) or (f) GDPR; this also applies to profiling based on these provisions. If the personal data concerning you are processed for direct marketing purposes, you have the right to object at any time to the processing of personal data concerning you for the purpose of such marketing; this also applies to profiling insofar as it is connected with such direct marketing.
 •   Right to withdraw consent: You have the right to withdraw given consent at any time.
 •   Right of access: You have the right to request confirmation as to whether the data in question is being processed and to receive information about this data as well as further information and a copy of the data in accordance with legal requirements.
 •   Right to rectification: You have the right, in accordance with legal requirements, to request the completion of the data concerning you or the correction of incorrect data concerning you.
@@ -152,7 +153,7 @@ Further information on processing operations, procedures and services:
 •   Access data during delivery: When this website and the legal texts are opened, GitHub, as the operator of the servers, processes technically necessary access data, in particular the IP address, the time of the request, the requested file and details about your browser. We do not operate a server of our own for delivering the pages, do not keep log files of our own and do not use analytics tools. How long GitHub stores the access data is determined by GitHub; its privacy policy applies (see above). Legal bases: Legitimate interests (Art. 6 (1) (f) GDPR) in secure and stable delivery.
 
 ### Registration, Login and User Account
-Users can create a user account. In the context of registration, users are informed of the required mandatory information and processed for the purposes of providing the user account on the basis of contractual fulfillment of obligations. The data processed include in particular the login information (username, password and an email address). Passwords are stored exclusively in encrypted (hashed) form. The email address is also used for sending system-relevant messages (e.g., confirmation of registration, link to reset the password). We ourselves store neither the IP address nor the time of individual user actions, only the time of registration and the time of last use. The technical handling of the login is carried out by Google (Firebase Authentication), which may process the IP address as part of its technical logs (see "International Data Transfers" and "Use of Google Services"). To protect against abuse we keep daily counters per account (see "Abuse Prevention and Quotas"). A transfer of this data to third parties does not take place in principle, unless it is necessary to pursue our claims or there is a legal obligation to do so. Users can be informed by email about events relevant to their user account, such as technical changes.
+Users can create a user account. In the context of registration, users are informed of the required mandatory information and processed for the purposes of providing the user account on the basis of contractual fulfillment of obligations. The data processed include in particular the login information (username, password and an email address). Passwords are stored only as a hash value, not in plain text. The email address is also used for sending system-relevant messages (e.g., confirmation of registration, link to reset the password). We ourselves store neither the IP address nor the time of individual user actions, only the time of registration and the time of last use. The technical handling of the login is carried out by Google (Firebase Authentication), which may process the IP address as part of its technical logs (see "International Data Transfers" and "Use of Google Services"). To protect against abuse we keep daily counters per account (see "Abuse Prevention and Quotas"). A transfer of this data to third parties does not take place in principle, unless it is necessary to pursue our claims or there is a legal obligation to do so. Users can be informed by email about events relevant to their user account, such as technical changes.
 •   Processed data types: your email address; where you sign in with a password, a hash of that password, and where you sign in via Google or Apple, the identifier held there; a display name you choose yourself, which may be a pseudonym; the time of registration and of last use; content data where you enter recipes or product information. We do not ask for a residential address, a telephone number or payment details.
 •   Data subjects: Users (e.g., website visitors, users of online services).
 •   Purposes of processing and legitimate interests: Provision of contractual services and fulfillment of contractual obligations; security measures; organizational and administrative procedures. Provision of our online offer and user-friendliness.
@@ -295,9 +296,6 @@ Log data are information about events or activities logged in a system or networ
 ### Contract Data:
 Contract data are specific information relating to the formalization of an agreement between two or more parties. They document the conditions under which services or products are provided, exchanged or sold. This data category is essential for the management and fulfillment of contractual obligations and includes both the identification of the contracting parties and the specific terms and conditions of the agreement. Contract data can include start and end dates of the contract, the type of agreed services or products, price agreements, payment terms, termination rights, renewal options and special conditions or clauses. They serve as a legal basis for the relationship between the parties and are crucial for the clarification of rights and obligations, the enforcement of claims and the resolution of disputes.
 
-### Payment Data:
-Payment data include all information required for the settlement of payment transactions between buyers and sellers. These data are of crucial importance for electronic commerce, online banking and any other form of financial transaction. They include details such as credit card numbers, bank details, payment amounts, transaction dates, verification numbers and billing information. Payment data can also include information about payment status, chargebacks, authorizations and fees.
-
 ---
 
 ### SUPPLEMENTARY DATA PROTECTION NOTICES FOR THE APP KCALSYNC
@@ -329,7 +327,7 @@ The step counts retrieved stay on your device. They are transmitted neither to u
 If you enter a sports activity manually and have the calorie consumption estimated, the name of the activity, its duration and your body weight are transmitted to Google Gemini for that purpose (see the section "Use of Google services (Firebase & Gemini)").
 
 **Locally Stored Data and Device Backup**
-Your nutrition diary, your body history and your calorie goals are stored exclusively on your device. They are not transmitted to our servers, and we can neither view nor restore them. They are deleted when you choose "Delete all app data" or "Delete account" in the app, and when you uninstall the app.
+Your nutrition diary, your body history and your calorie goals are stored exclusively on your device. They are not transmitted to our servers, and we can neither view nor restore them. Exception: If you use the AI features, the app transmits individual values derived from them (remaining calories and macronutrients; for the estimate of calories burned, your body weight) to Google Gemini via our server function. They are not stored on our servers (see "Use of Google Services (Firebase & Gemini)"). They are deleted when you choose "Delete all app data" or "Delete account" in the app, and when you uninstall the app.
 
 On Android, your operating system can back up this data to a private folder in your Google account as part of its device backup (Android Auto Backup) and restore it on a new device. We have permitted this function in the app and limited it to one file that holds the data mentioned above and the app's settings. The backup only takes place if you have switched it on in your phone's system settings, and only with end-to-end encryption, which requires a screen lock (Android 9 and later); older devices are not backed up. We have no access to this backup. You control it in the system settings, where you can switch it off and delete it. Google stores only the most recent backup. Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; basis for third-country transfers: Data Privacy Framework (DPF), standard contractual clauses.
 
@@ -382,13 +380,13 @@ To use the app we need an account: your email address and a password, or sign-in
 ### Processing of Health Data (Art. 9 GDPR)
 Since you store body weight, height, age, sex, calories and nutrition data in this app, we process health data within the meaning of Art. 9 (1) GDPR. For this category of data, a legitimate interest is not a sufficient legal basis.
 
-**Where this data is stored:** Your nutrition diary, body history and calorie goals are stored exclusively on your device (see "Locally Stored Data and Device Backup"). Your profile details weight, height, sex, date of birth and diet style are also stored exclusively on your device. Google Firebase holds only your account and household details, such as display name, city and Premium status.
+**Where this data is stored:** Your nutrition diary, body history and calorie goals are stored exclusively on your device (see "Locally Stored Data and Device Backup"). Your profile details weight, height, sex, date of birth and diet style are also stored exclusively on your device. Google Firebase holds only your account and household details, such as display name, city and Premium status. Exception: If you use the AI features, the app transmits individual values derived from them (remaining calories and macronutrients; for the estimate of calories burned, your body weight) to Google Gemini via our server function. They are not stored on our servers (see "Use of Google Services (Firebase & Gemini)").
 
 We therefore process this data exclusively on the basis of your explicit consent under Art. 9 (2) (a) GDPR. We obtain that consent through a dedicated confirmation box, kept separate from your acceptance of the terms of use, which states which data is involved and what it is used for. The app cannot be used without this confirmation, because recording nutrition and body data is its very purpose.
 
 For the AI features we obtain a **separate** consent. Where your nutrition entries or photos you take are transmitted to Google Gemini for analysis, that transfer relies on your explicit consent under Art. 9 (2) (a) GDPR. This consent is **optional**: you can use all of KcalSync without giving it. In that case the photo scan, receipt scanner, voice assistant, recipe extractor, AI shopping list and offer recognition stay switched off, and nothing is transmitted to Google Gemini. We keep the two consents separate because the AI features are not necessary in order to use the app: a consent tied to usability although it is not needed for it would not be freely given (Art. 7 (4) GDPR).
 
-We record the time and the version of the consent in order to meet our accountability obligation under Art. 5 (2) GDPR. If we change the substance of the consent text, we ask again.
+We record the time and the version of your consent to the processing of health data, in the app and in your account, in order to meet our accountability obligation under Art. 5 (2) GDPR. The time and version of the separate consent to the AI features are stored by the app on your device only; we do not receive them. If you withdraw that consent, the app immediately stops any transmission to Google Gemini. If we change the substance of the consent text, we ask again.
 
 **Withdrawal:** You can withdraw either consent at any time, in the app under **Settings → Service & Legal**. Withdrawing is as easy as giving consent and takes effect for the future; processing carried out beforehand remains lawful. The consequences differ:
 
