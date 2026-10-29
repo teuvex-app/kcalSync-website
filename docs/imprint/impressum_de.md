@@ -11,7 +11,9 @@ Deutschland
 
 **Kontakt**
 
-E-Mail: support@teuvex.de
+E-Mail: support@teuvex.de  
+Kontaktformular: https://teuvex.de/kontakt  
+In der App: Einstellungen, Feedback senden
 
 **Verantwortlich für den Inhalt gemäß § 18 Abs. 2 MStV (Medienstaatsvertrag)**
 
