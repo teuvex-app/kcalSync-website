@@ -388,7 +388,7 @@ For the AI features we obtain a **separate** consent. Where your nutrition entri
 
 We record the time and the version of your consent to the processing of health data, in the app and in your account, in order to meet our accountability obligation under Art. 5 (2) GDPR. The time and version of the separate consent to the AI features are stored by the app on your device only; we do not receive them. If you withdraw that consent, the app immediately stops any transmission to Google Gemini. If we change the substance of the consent text, we ask again.
 
-**Withdrawal:** You can withdraw either consent at any time, in the app under **Settings → Service & Legal**. Withdrawing is as easy as giving consent and takes effect for the future; processing carried out beforehand remains lawful. The consequences differ:
+**Withdrawal:** You can withdraw either consent at any time, in the app under **Settings → Privacy & consents**. Withdrawing is as easy as giving consent and takes effect for the future; processing carried out beforehand remains lawful. The consequences differ:
 
 •   **Health data consent.** Since we may no longer process health data without it, and the app serves no purpose without that processing, withdrawal also results in the deletion of your account and your stored data. We point this out to you before you withdraw.
 •   **AI features (Google Gemini).** Withdrawal switches off the transfer alone. Your account, your data and every other function remain unaffected; you can give the consent again at the same place at any time.

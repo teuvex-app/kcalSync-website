@@ -385,7 +385,7 @@ Für die KI-Funktionen holen wir eine **gesonderte** Einwilligung ein. Werden Ih
 
 Wir halten Zeitpunkt und Fassung Ihrer Einwilligung in die Verarbeitung von Gesundheitsdaten fest, in der App und in Ihrem Konto, um unserer Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO nachkommen zu können. Zeitpunkt und Fassung der gesonderten Einwilligung in die KI-Funktionen speichert die App nur auf Ihrem Gerät; wir erhalten sie nicht. Widerrufen Sie diese Einwilligung, stoppt die App jede Übermittlung an Google Gemini sofort. Ändern wir den Einwilligungstext inhaltlich, fragen wir erneut.
 
-**Widerruf:** Sie können beide Einwilligungen jederzeit widerrufen, in der App unter **Einstellungen → Service & Rechtliches**. Der Widerruf ist so einfach wie die Erteilung und wirkt für die Zukunft; die bis dahin erfolgte Verarbeitung bleibt rechtmäßig. Die Folgen unterscheiden sich:
+**Widerruf:** Sie können beide Einwilligungen jederzeit widerrufen, in der App unter **Einstellungen → Datenschutz & Einwilligungen**. Der Widerruf ist so einfach wie die Erteilung und wirkt für die Zukunft; die bis dahin erfolgte Verarbeitung bleibt rechtmäßig. Die Folgen unterscheiden sich:
 
 •   **Einwilligung Gesundheitsdaten.** Da wir ohne sie keine Gesundheitsdaten mehr verarbeiten dürfen und die App ohne diese Verarbeitung keinen Zweck hat, führt der Widerruf zugleich zur Löschung Ihres Kontos und der gespeicherten Daten. Darauf weisen wir Sie vor dem Widerruf hin.
 •   **KI-Funktionen (Google Gemini).** Der Widerruf schaltet allein die Übermittlung ab. Ihr Konto, Ihre Daten und alle übrigen Funktionen bleiben unberührt; Sie können die Einwilligung an derselben Stelle jederzeit wieder erteilen.
