@@ -21,7 +21,7 @@ Mit **KcalSync Premium** bekommst du:
 - **80 statt 3 KI-Analysen pro Tag.** Ein Haushalt teilt sich zusammen höchstens 200.
 - **Ein Abo für bis zu 5 Personen** im selben Haushalt – dich eingerechnet. Jedes Mitglied hat eigene 80 Analysen am Tag.
 
-**Zum Ausprobieren:** Google Play bietet, solange dein Google-Konto teilnehmen darf, ein kostenloses Probeabo an – mit allen KI-Funktionen und dem vollen Tageskontingent. Es läuft über Google Play und **geht in das reguläre Abo über**, wenn du nicht vor Ablauf im Play Store kündigst.
+**Zum Ausprobieren:** Google Play (Android) und der Apple App Store (iPhone) bieten, solange dein Konto teilnehmen darf, ein kostenloses Probeabo an – mit allen KI-Funktionen und dem vollen Tageskontingent. Es läuft über den jeweiligen Store und **geht in das reguläre Abo über**, wenn du nicht vor Ablauf kündigst (Android: im Play Store, iPhone: in den Einstellungen unter deiner Apple-ID und „Abonnements“).
 
 ## 3. Wie funktioniert der Familienmodus?
 
@@ -41,7 +41,7 @@ Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Eins
 
 Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffne im Google Play Store den Bereich **„Abonnements“**, um dein Abo jederzeit zu ändern oder zu kündigen.
 
-**Kostenloses Probeabo:** Das Probeabo läuft über Google Play. Dauer und Preis danach zeigt dir der Store vor dem Abschluss an. Wenn du nicht möchtest, dass es in das bezahlte Abo übergeht, kündigst du im Play Store unter **„Abonnements“** vor Ablauf des Probezeitraums. Ob du teilnehmen darfst, entscheidet Google; dafür muss in deinem Google-Konto eine Zahlungsmethode hinterlegt sein.
+**Kostenloses Probeabo:** Das Probeabo läuft über Google Play bzw. den Apple App Store. Dauer und Preis danach zeigt dir der Store vor dem Abschluss an. Wenn du nicht möchtest, dass es in das bezahlte Abo übergeht, kündigst du vor Ablauf des Probezeitraums: bei Android im Play Store unter **„Abonnements“**, auf dem iPhone in den Einstellungen unter deiner Apple-ID und **„Abonnements“**. Ob du teilnehmen darfst, entscheidet Google bzw. Apple; dafür muss in deinem Konto eine Zahlungsmethode hinterlegt sein.
 
 ## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
 
