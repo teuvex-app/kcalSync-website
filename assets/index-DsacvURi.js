@@ -1326,7 +1326,7 @@ KcalSync bietet Lifestyle- und Ernährungsunterstützung, ist jedoch kein Medizi
 ### 4 Familienmodus & Abonnements
 Mit einem Premium-Abonnement können bis zu 4 weitere Familienmitglieder im selben Haushalt eingeladen werden (insgesamt bis zu 5 Premium-Zugänge). Die Weitergabe von Zugangsschlüsseln an haushaltsfremde Dritte zu kommerziellen Zwecken ist untersagt.
 
-Zum Ausprobieren kann Google Play ein kostenloses Probeabo anbieten. Es wird über Google Play abgeschlossen und abgerechnet, nicht durch uns. Ob du daran teilnehmen kannst, entscheidet Google; die Dauer und den Preis nach dem Probezeitraum zeigt dir der Store vor dem Abschluss an. **Das Probeabo geht in das reguläre, kostenpflichtige Abonnement über, wenn du es nicht vor Ablauf des Probezeitraums im Google Play Store kündigst.**
+Zum Ausprobieren kann Google Play (Android) bzw. der Apple App Store (iPhone) ein kostenloses Probeabo anbieten. Es wird über den jeweiligen Store abgeschlossen und abgerechnet, nicht durch uns. Ob du daran teilnehmen kannst, entscheidet Google bzw. Apple; die Dauer und den Preis nach dem Probezeitraum zeigt dir der Store vor dem Abschluss an. **Das Probeabo geht in das reguläre, kostenpflichtige Abonnement über, wenn du es nicht vor Ablauf des Probezeitraums kündigst, bei Google Play im Play Store unter „Abonnements“, bei Apple in den Einstellungen deines iPhones unter deiner Apple-ID und „Abonnements“.**
 
 ### 5 Pflichten des Nutzers
 Angaben im Nutzerprofil wahrheitsgemäß machen.
@@ -1392,7 +1392,7 @@ KcalSync provides tools to help users track their daily calorie and nutrient int
 ### 4 Family Mode & Subscriptions
 With a Premium subscription, up to 4 additional family members in the same household can be invited (up to 5 premium accesses in total). Passing on access keys to third parties outside the household for commercial purposes is prohibited.
 
-To try it out, Google Play may offer a free trial subscription. It is taken out and billed through Google Play, not by us. Google decides whether you can take part; the store shows you the duration and the price after the trial before you subscribe. **The trial turns into the regular, paid subscription unless you cancel it in the Google Play Store before the trial period ends.**
+To try it out, Google Play (Android) or the Apple App Store (iPhone) may offer a free trial subscription. It is taken out and billed through the respective store, not by us. Google or Apple decides whether you can take part; the store shows you the duration and the price after the trial before you subscribe. **The trial turns into the regular, paid subscription unless you cancel it before the trial period ends: on Google Play in the Play Store under “Subscriptions”, on Apple in your iPhone’s Settings under your Apple ID and “Subscriptions”.**
 
 ### 5 User obligations 
 Provide truthful information in the user profile. Do not distribute illegal content in shared shopping lists or recipe comments. Do not tamper with, decompile or otherwise reverse engineer the source code of the Application. 
@@ -1500,7 +1500,7 @@ Mit **KcalSync Premium** bekommst du:
 - **80 statt 3 KI-Analysen pro Tag.** Ein Haushalt teilt sich zusammen höchstens 200.
 - **Ein Abo für bis zu 5 Personen** im selben Haushalt – dich eingerechnet. Jedes Mitglied hat eigene 80 Analysen am Tag.
 
-**Zum Ausprobieren:** Google Play bietet, solange dein Google-Konto teilnehmen darf, ein kostenloses Probeabo an – mit allen KI-Funktionen und dem vollen Tageskontingent. Es läuft über Google Play und **geht in das reguläre Abo über**, wenn du nicht vor Ablauf im Play Store kündigst.
+**Zum Ausprobieren:** Google Play (Android) und der Apple App Store (iPhone) bieten, solange dein Konto teilnehmen darf, ein kostenloses Probeabo an – mit allen KI-Funktionen und dem vollen Tageskontingent. Es läuft über den jeweiligen Store und **geht in das reguläre Abo über**, wenn du nicht vor Ablauf kündigst (Android: im Play Store, iPhone: in den Einstellungen unter deiner Apple-ID und „Abonnements“).
 
 ## 3. Wie funktioniert der Familienmodus?
 
@@ -1520,7 +1520,7 @@ Du erreichst unseren Support jederzeit über die **Feedback-Funktion in den Eins
 
 Dein Premium-Abonnement wird direkt über den Google Play Store verwaltet. Öffne im Google Play Store den Bereich **„Abonnements“**, um dein Abo jederzeit zu ändern oder zu kündigen.
 
-**Kostenloses Probeabo:** Das Probeabo läuft über Google Play. Dauer und Preis danach zeigt dir der Store vor dem Abschluss an. Wenn du nicht möchtest, dass es in das bezahlte Abo übergeht, kündigst du im Play Store unter **„Abonnements“** vor Ablauf des Probezeitraums. Ob du teilnehmen darfst, entscheidet Google; dafür muss in deinem Google-Konto eine Zahlungsmethode hinterlegt sein.
+**Kostenloses Probeabo:** Das Probeabo läuft über Google Play bzw. den Apple App Store. Dauer und Preis danach zeigt dir der Store vor dem Abschluss an. Wenn du nicht möchtest, dass es in das bezahlte Abo übergeht, kündigst du vor Ablauf des Probezeitraums: bei Android im Play Store unter **„Abonnements“**, auf dem iPhone in den Einstellungen unter deiner Apple-ID und **„Abonnements“**. Ob du teilnehmen darfst, entscheidet Google bzw. Apple; dafür muss in deinem Konto eine Zahlungsmethode hinterlegt sein.
 
 ## 7. Werden meine Daten mit anderen Familienmitgliedern geteilt?
 
@@ -1622,7 +1622,7 @@ The **AI features** are limited to **three requests per day** without a subscrip
 - **80 instead of 3 AI analyses per day.** A household shares at most 200 between them.
 - **One subscription for up to 5 people** in the same household – including you. Each member has their own 80 analyses a day.
 
-**To try it out:** As long as your Google account is eligible, Google Play offers a free trial subscription – with all AI features and the full daily allowance. It runs through Google Play and **turns into the regular subscription** unless you cancel in the Play Store before it ends.
+**To try it out:** As long as your account is eligible, Google Play (Android) and the Apple App Store (iPhone) offer a free trial subscription – with all AI features and the full daily allowance. It runs through the respective store and **turns into the regular subscription** unless you cancel before it ends (Android: in the Play Store, iPhone: in Settings under your Apple ID and “Subscriptions”).
 
 ## 3. How does Family Mode work?
 
@@ -1642,7 +1642,7 @@ You can contact our support team anytime using the **Feedback** option in the ap
 
 Your Premium subscription is managed directly through the Google Play Store. Open the **"Subscriptions"** section in Google Play to change or cancel your subscription at any time.
 
-**Free trial subscription:** The trial runs through Google Play. The store shows you the duration and the price afterwards before you subscribe. If you do not want it to turn into the paid subscription, cancel in the Play Store under **“Subscriptions”** before the trial period ends. Google decides whether you can take part; a payment method must be stored in your Google account.
+**Free trial subscription:** The trial runs through Google Play or the Apple App Store. The store shows you the duration and the price afterwards before you subscribe. If you do not want it to turn into the paid subscription, cancel before the trial period ends: on Android in the Play Store under **“Subscriptions”**, on iPhone in Settings under your Apple ID and **“Subscriptions”**. Google or Apple decides whether you can take part; a payment method must be stored in your account.
 
 ## 7. Are my personal data shared with other family members?
 
