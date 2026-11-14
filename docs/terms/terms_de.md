@@ -13,7 +13,7 @@ KcalSync bietet Lifestyle- und Ernährungsunterstützung, ist jedoch kein Medizi
 ### 4 Familienmodus & Abonnements
 Mit einem Premium-Abonnement können bis zu 4 weitere Familienmitglieder im selben Haushalt eingeladen werden (insgesamt bis zu 5 Premium-Zugänge). Die Weitergabe von Zugangsschlüsseln an haushaltsfremde Dritte zu kommerziellen Zwecken ist untersagt.
 
-Zum Ausprobieren kann Google Play ein kostenloses Probeabo anbieten. Es wird über Google Play abgeschlossen und abgerechnet, nicht durch uns. Ob du daran teilnehmen kannst, entscheidet Google; die Dauer und den Preis nach dem Probezeitraum zeigt dir der Store vor dem Abschluss an. **Das Probeabo geht in das reguläre, kostenpflichtige Abonnement über, wenn du es nicht vor Ablauf des Probezeitraums im Google Play Store kündigst.**
+Zum Ausprobieren kann Google Play (Android) bzw. der Apple App Store (iPhone) ein kostenloses Probeabo anbieten. Es wird über den jeweiligen Store abgeschlossen und abgerechnet, nicht durch uns. Ob du daran teilnehmen kannst, entscheidet Google bzw. Apple; die Dauer und den Preis nach dem Probezeitraum zeigt dir der Store vor dem Abschluss an. **Das Probeabo geht in das reguläre, kostenpflichtige Abonnement über, wenn du es nicht vor Ablauf des Probezeitraums kündigst, bei Google Play im Play Store unter „Abonnements“, bei Apple in den Einstellungen deines iPhones unter deiner Apple-ID und „Abonnements“.**
 
 ### 5 Pflichten des Nutzers
 Angaben im Nutzerprofil wahrheitsgemäß machen.
