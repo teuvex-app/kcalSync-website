@@ -2763,7 +2763,7 @@ The manual is inside the app under Settings → System & Info → Manual (8 chap
 
 Mit dieser Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung der App Nemoris verarbeiten. Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
-Stand: 4. November 2026
+Stand: 16. November 2026
 
 ### Verantwortlicher
 
@@ -2824,7 +2824,7 @@ Melden Sie sich an, werden diese Inhalte in der Cloud gespeichert. Dafür holen 
 
 Wir halten Zeitpunkt und Fassung der Einwilligung fest (auf Ihrem Gerät und in einem nur für Ihr Konto zugänglichen Bereich der Cloud), um unserer Rechenschaftspflicht nach Art. 5 Abs. 2 und Art. 7 Abs. 1 DSGVO nachzukommen. Ändern wir den Einwilligungstext inhaltlich, fragen wir erneut.
 
-Widerruf: Sie können die Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie in der App unter Einstellungen → "Konto endgültig löschen" Ihr Konto und damit Ihre Cloud-Daten löschen. Die bis dahin erfolgte Verarbeitung bleibt rechtmäßig. Ihre lokalen Daten bleiben dabei auf Ihrem Gerät erhalten.
+Widerruf: Sie können die Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie in der App unter Einstellungen → "Konto endgültig löschen" Ihr Konto und damit Ihre Cloud-Daten löschen. Die bis dahin erfolgte Verarbeitung bleibt rechtmäßig. Ihre lokalen Daten bleiben dabei auf Ihrem Gerät erhalten. Sie können die Cloud-Synchronisierung außerdem jederzeit ausschalten und die bereits hochgeladene Kopie Ihrer Memos, Abos/Verträge, Termine und Fristen in der App löschen (Einstellungen → Daten → "Cloud-Kopie jetzt löschen"), ohne Ihr Konto zu löschen.
 
 ### Lokale Speicherung auf Ihrem Gerät
 
@@ -2836,7 +2836,7 @@ Gerätesicherung durch Ihr Betriebssystem: Unter Android kann das Betriebssystem
 
 ### Anmeldung und Cloud-Synchronisierung (optional)
 
-Wenn Sie sich anmelden, stehen Ihnen die Anmeldung per E-Mail und Passwort, über Google und - auf iPhones - über "Sign in with Apple" zur Verfügung. Mit der Anmeldung und Ihrer ausdrücklichen Einwilligung (siehe oben) aktivieren Sie zugleich die Cloud-Synchronisierung: Ihre Memos (Titel, Textinhalt, Kategorie, Tags, Karteikarten), Abos/Verträge, Termine und wichtigen Fristen werden zusätzlich zur lokalen Speicherung in unserer Datenbank (Google Cloud Firestore, Region europe-west3, Frankfurt am Main, Deutschland) abgelegt, damit sie bei einem Gerätewechsel oder auf einem zweiten Gerät zur Verfügung stehen. Mit Google besteht hierfür ein Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO.
+Wenn Sie sich anmelden, stehen Ihnen die Anmeldung per E-Mail und Passwort, über Google und - auf iPhones - über "Sign in with Apple" zur Verfügung. Mit der Anmeldung und Ihrer ausdrücklichen Einwilligung (siehe oben) aktivieren Sie die Cloud-Synchronisierung, die Sie in der App unter Einstellungen → Daten → "Cloud-Abgleich" jederzeit ausschalten können. Ausgeschaltet werden keine Inhalte hochgeladen oder abgerufen. Die Familien-Funktion ist davon nicht betroffen, sie benötigt die Cloud zum Austausch der geteilten Einträge. Bei eingeschalteter Synchronisierung gilt: Ihre Memos (Titel, Textinhalt, Kategorie, Tags, Karteikarten), Abos/Verträge, Termine und wichtigen Fristen werden zusätzlich zur lokalen Speicherung in unserer Datenbank (Google Cloud Firestore, Region europe-west3, Frankfurt am Main, Deutschland) abgelegt, damit sie bei einem Gerätewechsel oder auf einem zweiten Gerät zur Verfügung stehen. Mit Google besteht hierfür ein Vertrag zur Auftragsverarbeitung nach Art. 28 DSGVO.
 
 Nicht in die Cloud gelangen: die Scan-Dateien (Fotos und PDFs), Erinnerungsketten, der Tresor, das Profilbild, Ihre Sicherungsdateien und Einstellungen. Ein auf einem anderen Gerät abgeglichenes Memo enthält daher Titel und Text, aber nicht das Original-Foto bzw. -PDF des Scans.
 
@@ -3017,7 +3017,7 @@ Grundlage dieses Textes: Datenschutz-Generator.de von Dr. Thomas Schwenke (koste
 
 With this privacy policy we would like to inform you which types of your personal data (hereinafter also "data") we process, for which purposes and to what extent, in the course of providing the app Nemoris. The terms used are not gender-specific.
 
-Last updated: 4 November 2026
+Last updated: 16 November 2026
 
 ### Controller
 
@@ -3078,7 +3078,7 @@ If you sign in, this content is stored in the cloud. For this we obtain your exp
 
 We record the time and version of the consent (on your device and in an area of the cloud accessible only to your account) in order to meet our accountability obligations under Art. 5 (2) and Art. 7 (1) GDPR. If we change the consent text in substance, we ask again.
 
-Withdrawal: You can withdraw the consent at any time with effect for the future by deleting your account, and with it your cloud data, in the app under Settings → "Delete account permanently". Processing carried out until then remains lawful. Your local data stays on your device.
+Withdrawal: You can withdraw the consent at any time with effect for the future by deleting your account, and with it your cloud data, in the app under Settings → "Delete account permanently". Processing carried out until then remains lawful. Your local data stays on your device. You can also switch cloud synchronization off at any time and delete the already uploaded copy of your memos, subscriptions/contracts, appointments and deadlines in the app (Settings → Data → "Delete cloud copy now") without deleting your account.
 
 ### Local storage on your device
 
@@ -3090,7 +3090,7 @@ Device backup by your operating system: On Android the operating system can back
 
 ### Sign-in and cloud synchronization (optional)
 
-If you sign in, you can do so with email and password, via Google and - on iPhones - via "Sign in with Apple". With the sign-in and your express consent (see above) you also activate cloud synchronization: your memos (title, text, category, tags, flashcards), subscriptions/contracts, appointments and important deadlines are stored in addition to local storage in our database (Google Cloud Firestore, region europe-west3, Frankfurt am Main, Germany) so that they are available when you change devices or on a second device. A data processing agreement under Art. 28 GDPR exists with Google for this.
+If you sign in, you can do so with email and password, via Google and - on iPhones - via "Sign in with Apple". With the sign-in and your express consent (see above) you activate cloud synchronization, which you can switch off at any time in the app under Settings → Data → "Cloud sync". While it is off, no content is uploaded or retrieved. The family function is not affected, as it needs the cloud to exchange the shared entries. While synchronization is on: your memos (title, text, category, tags, flashcards), subscriptions/contracts, appointments and important deadlines are stored in addition to local storage in our database (Google Cloud Firestore, region europe-west3, Frankfurt am Main, Germany) so that they are available when you change devices or on a second device. A data processing agreement under Art. 28 GDPR exists with Google for this.
 
 Not transferred to the cloud: the scan files (photos and PDFs), reminder chains, the vault, the profile picture, your backup files and settings. A memo synchronized to another device therefore contains title and text, but not the original photo or PDF of the scan.
 
