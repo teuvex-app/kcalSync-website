@@ -1,7 +1,7 @@
 # Privacy Policy for the "KcalSync" app and this website
 
 ### Preamble
-With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: November 20, 2026
+With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: November 21, 2026
 
 ### Table of Contents
 •   Preamble
@@ -398,7 +398,7 @@ We therefore process this data exclusively on the basis of your explicit consent
 
 For the AI features we obtain a **separate** consent. Where your nutrition entries or photos you take are transmitted to Google Gemini for analysis, that transfer relies on your explicit consent under Art. 9 (2) (a) GDPR. This consent is **optional**: you can use all of KcalSync without giving it. In that case the photo scan, receipt scanner, voice assistant, recipe extractor, AI shopping list and offer recognition stay switched off, and nothing is transmitted to Google Gemini. We keep the two consents separate because the AI features are not necessary in order to use the app: a consent tied to usability although it is not needed for it would not be freely given (Art. 7 (4) GDPR).
 
-We record the time and the version of your consent to the processing of health data, in the app and in your account, in order to meet our accountability obligation under Art. 5 (2) GDPR. The time and version of the separate consent to the AI features are stored by the app on your device only; we do not receive them. If you withdraw that consent, the app immediately stops any transmission to Google Gemini. If we change the substance of the consent text, we ask again.
+We record the time and the version of your consent to the processing of health data, in the app and in your account, in order to meet our accountability obligation under Art. 5 (2) GDPR. The same applies to the separate consent to the AI features: we store in your account the version of the consent text, the time the consent was given (according to your device's clock) and the time it was stored (according to our server's clock). If you withdraw it, we also record the time of the withdrawal. We store nothing more about it, in particular none of your inputs. This record is deleted when your account is deleted. If you withdraw your consent to the AI features, the app immediately stops any transmission to Google Gemini. If we change the substance of the consent text, we ask again.
 
 **Withdrawal:** You can withdraw either consent at any time, in the app under **Settings → Privacy & consents**. Withdrawing is as easy as giving consent and takes effect for the future; processing carried out beforehand remains lawful. The consequences differ:
 

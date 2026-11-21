@@ -1,7 +1,7 @@
 # Datenschutzerklärung für die App "KcalSync" und diese Website
 
 ### Präambel
-Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten. Die verwendeten Begriffe sind nicht geschlechtsspezifisch. Stand: 20. November 2026
+Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten. Die verwendeten Begriffe sind nicht geschlechtsspezifisch. Stand: 21. November 2026
 
 ### Inhaltsübersicht
 •   Präambel
@@ -395,7 +395,7 @@ Wir verarbeiten diese Daten deshalb ausschließlich auf Grundlage Ihrer ausdrüc
 
 Für die KI-Funktionen holen wir eine **gesonderte** Einwilligung ein. Werden Ihre Ernährungsangaben oder aufgenommene Bilder zur Auswertung an Google Gemini übertragen, stützt sich diese Übermittlung auf Ihre ausdrückliche Einwilligung nach Art. 9 Abs. 2 lit. a DSGVO. Diese Einwilligung ist **freiwillig**: Sie können KcalSync vollständig nutzen, ohne sie zu erteilen. Dann bleiben Foto-Scan, Beleg-Scanner, Sprachassistent, Rezept-Extraktor, KI-Einkaufszettel und Angebotserkennung abgeschaltet, und es wird nichts an Google Gemini übertragen. Wir halten die beiden Einwilligungen getrennt, weil die KI-Funktionen für die Nutzung der App nicht erforderlich sind: Eine Einwilligung, die an die Nutzbarkeit gekoppelt wird, obwohl sie dafür nicht nötig ist, wäre nicht freiwillig erteilt (Art. 7 Abs. 4 DSGVO).
 
-Wir halten Zeitpunkt und Fassung Ihrer Einwilligung in die Verarbeitung von Gesundheitsdaten fest, in der App und in Ihrem Konto, um unserer Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO nachkommen zu können. Zeitpunkt und Fassung der gesonderten Einwilligung in die KI-Funktionen speichert die App nur auf Ihrem Gerät; wir erhalten sie nicht. Widerrufen Sie diese Einwilligung, stoppt die App jede Übermittlung an Google Gemini sofort. Ändern wir den Einwilligungstext inhaltlich, fragen wir erneut.
+Wir halten Zeitpunkt und Fassung Ihrer Einwilligung in die Verarbeitung von Gesundheitsdaten fest, in der App und in Ihrem Konto, um unserer Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO nachkommen zu können. Dasselbe gilt für die gesonderte Einwilligung in die KI-Funktionen: Wir speichern in Ihrem Konto die Fassung des Einwilligungstextes, den Zeitpunkt der Erteilung (nach der Uhr Ihres Geräts) und den Zeitpunkt der Speicherung (nach der Uhr unseres Servers). Widerrufen Sie sie, vermerken wir zusätzlich den Zeitpunkt des Widerrufs. Mehr speichern wir dazu nicht, insbesondere keine Ihrer Eingaben. Dieser Nachweis wird mit der Löschung Ihres Kontos gelöscht. Widerrufen Sie die Einwilligung in die KI-Funktionen, stoppt die App jede Übermittlung an Google Gemini sofort. Ändern wir den Einwilligungstext inhaltlich, fragen wir erneut.
 
 **Widerruf:** Sie können beide Einwilligungen jederzeit widerrufen, in der App unter **Einstellungen → Datenschutz & Einwilligungen**. Der Widerruf ist so einfach wie die Erteilung und wirkt für die Zukunft; die bis dahin erfolgte Verarbeitung bleibt rechtmäßig. Die Folgen unterscheiden sich:
 
