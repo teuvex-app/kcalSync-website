@@ -1,7 +1,7 @@
 # Privacy Policy for the "KcalSync" app and this website
 
 ### Preamble
-With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: November 21, 2026
+With the following privacy policy, we would like to inform you about the types of your personal data (hereinafter also referred to as "data") we process, for what purposes, and to what extent in the context of providing our application. The terms used are not gender-specific. As of: November 26, 2026
 
 ### Table of Contents
 •   Preamble

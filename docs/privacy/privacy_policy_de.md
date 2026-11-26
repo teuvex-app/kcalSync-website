@@ -1,7 +1,7 @@
 # Datenschutzerklärung für die App "KcalSync" und diese Website
 
 ### Präambel
-Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten. Die verwendeten Begriffe sind nicht geschlechtsspezifisch. Stand: 21. November 2026
+Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten" bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der Bereitstellung unserer Applikation verarbeiten. Die verwendeten Begriffe sind nicht geschlechtsspezifisch. Stand: 26. November 2026
 
 ### Inhaltsübersicht
 •   Präambel
