@@ -320,6 +320,8 @@ For barcode and product searches, the app queries the open food database Open Fo
 
 Please note that the nutritional values in this open database are entered by third parties. We do not verify them and cannot vouch for their accuracy or completeness.
 
+The data comes from Open Food Facts and is made available under the Open Database License (ODbL); the product images are licensed under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0). The rights belong to the Open Food Facts contributors. The images are loaded directly from there when displayed, are not changed by us and are not stored on our servers. The images may show trademarks, logos and packaging designs of third parties. Source and licences are also listed in the app under "Settings" → "Legal" → "Sources and image rights".
+
 **On-device text recognition**
 When you photograph a nutrition table, the app analyses the image with Google's ML Kit directly on your device. The photo does not leave your device and is transmitted neither to us nor to Google. It is not stored after the analysis. The AI features work differently: if you photograph a shopping list for the AI shopping list, a meal, a receipt or similar for AI analysis, the image is transmitted to Google Gemini – only with your consent to the AI features (see "Use of Google Services (Firebase & Gemini)").
 

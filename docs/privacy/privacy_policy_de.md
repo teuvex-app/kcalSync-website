@@ -320,6 +320,8 @@ Für die Barcode- und Produktsuche fragt die App die offene Lebensmitteldatenban
 
 Bitte beachten Sie, dass die Nährwertangaben aus dieser offenen Datenbank von Dritten eingetragen werden. Wir prüfen sie nicht und können für ihre Richtigkeit und Vollständigkeit nicht einstehen.
 
+Die Daten stammen von Open Food Facts und stehen unter der Open Database License (ODbL), die Produktbilder unter der Lizenz Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0); die Rechte liegen bei den Mitwirkenden von Open Food Facts. Die Bilder werden beim Anzeigen direkt dort geladen, von uns nicht verändert und nicht auf unseren Servern gespeichert. Auf den Bildern können Marken, Logos und Verpackungsgestaltungen Dritter zu sehen sein. Quelle und Lizenzen stehen auch in der App unter „Einstellungen“ → „Rechtliches“ → „Quellen und Bildrechte“.
+
 **Texterkennung auf dem Gerät**
 Wenn Sie eine Nährwerttabelle abfotografieren, wertet die App das Bild mit Googles ML Kit unmittelbar auf Ihrem Gerät aus. Das Foto verlässt Ihr Gerät dabei nicht und wird nicht an uns oder an Google übertragen. Nach der Auswertung wird es nicht gespeichert. Anders ist es bei den KI-Funktionen: Fotografieren Sie einen Einkaufszettel für den KI-Einkaufszettel, ein Essen, einen Beleg oder Ähnliches zur KI-Auswertung, wird das Bild – nur mit Ihrer Einwilligung in die KI-Funktionen – an Google Gemini übertragen (siehe „Nutzung von Google-Diensten (Firebase & Gemini)“).
 
